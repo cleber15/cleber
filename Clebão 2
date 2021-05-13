@@ -330,7 +330,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w3
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6945
 
-#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | ADULTOS ",PLAYBOY TV
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV
 https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/0jnlo35uk82y.m3u8?s=cCorfgokh_6PMpGyL2JkNw&e=1620894940
 
 #EXTINF:-1 tvg-id="PLAYKIDS" tvg-name="PLAYKIDS" tvg-logo="https://uploaddeimagens.com.br/images/001/623/085/full/Playkids.png" group-title="CANAIS | INFANTIS ",PLAYKIDS
@@ -504,7 +504,7 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/139.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/5987
 
-#EXTINF:-1 tvg-id="VENUS" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="CANAIS | ADULTOS",VENUS
+#EXTINF:-1 tvg-id="VENUS" tvg-name="VENUS" tvg-logo="https://cdn.mitvstatic.com/channels/br_venus-tv-sd_m.png" group-title="CANAIS | ADULTOS",VENUS
 https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/vwzh6npjwqalyzk.m3u8?s=1xJTbVDbFc4er8l5XVEiug&e=1620894669
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA
