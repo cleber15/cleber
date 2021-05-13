@@ -87,7 +87,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/61137
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS | ESPORTES",COMBATE
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/76729
 
-#EXTINF:al" tvg-name="COMEDY CENTRAL" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHF0xl3ElgD3T517-25HgLXoJOgZ5Vs5Cfw&usqp=CAU" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/10292
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 1
