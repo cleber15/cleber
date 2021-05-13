@@ -39,10 +39,10 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/21.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2016/08/boomerang-hd-na-sky.png" group-title="CANAIS | INFANTIS ",BOOMERANG
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61102
 
-#EXTINF:-1 tvg-id="CARIOCÃO 1" tvg-name="CARIOCÃO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcPGT5_lu_D29XIxsemR6W-2h9KkiOB9tYw&usqp=CAU" group-title="CANAIS | ESPORTES",CARIOCÃO 1
+#EXTINF:-1 tvg-id="CARIOCÃO 1" tvg-name="CARIOCÃO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-Pdr_5liQ8PhFqzE2vAk9hktmLSEg8ZO3w&usqp=CAU" group-title="CANAIS | ESPORTES",CARIOCÃO 1
 http://rec2.distv.net:80/china/china/4
 
-#EXTINF:-1 tvg-id="CARIOCÃO 2" tvg-name="CARIOCÃO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcPGT5_lu_D29XIxsemR6W-2h9KkiOB9tYw&usqp=CAU" group-title="CANAIS | ESPORTES",CARIOCÃO 2
+#EXTINF:-1 tvg-id="CARIOCÃO 2" tvg-name="CARIOCÃO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-Pdr_5liQ8PhFqzE2vAk9hktmLSEg8ZO3w&usqp=CAU" group-title="CANAIS | ESPORTES",CARIOCÃO 2
 http://paineliptv8.xyz:2082/live/3445332/3445332/69909.m3u8
 
 #EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://s2.glbimg.com/uDFihJwr_O6bkQkAg1DaFIz5xkg=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/2a/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL
@@ -518,7 +518,3 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/75489
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS",ZOOMOO
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61133
-
-
-
-
