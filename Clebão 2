@@ -276,8 +276,8 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6104
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61093
 
-#EXTINF:-1 tvg-id="HUSTLER" tvg-name="HUSTLER" tvg-logo="https://cdn.mitvstatic.com/channels/br_hustler-tv_m.png" group-title="CANAIS | DOCUMENTÁRIOS",HUSTLER
-https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/8habutjp.m3u8?s=FxrmB6gfpaXATF7hft1UOw&e=1620810302
+#EXTINF:-1 tvg-id="HUSTLER" tvg-name="HUSTLER" tvg-logo="https://cdn.mitvstatic.com/channels/br_hustler-tv_m.png" group-title="CANAIS | ADULTOS",HUSTLER
+https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/8habutjp.m3u8?s=_wpl3VOCDa_3-NnfWDDQDg&e=1620895194
 
 #EXTINF:-1 tvg-id="ID - INVESTIGAÇÃO DISCOVERY" tvg-name=" ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS | FILMES E SÉRIES",ID - INVESTIGAÇÃO DISCOVERY
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6869
@@ -330,8 +330,8 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w3
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6945
 
-#EXTINF:-1 tvg-id="PLAYBOY TV INGLÊS" tvg-name="PLAYBOY TV INGLÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | INFANTIS ",PLAYBOY TV INGLÊS
-https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/0jnlo35uk82y.m3u8?s=XVULU_Axzjiilnta2Db_aw&e=1620809991
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | ADULTOS ",PLAYBOY TV
+https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/0jnlo35uk82y.m3u8?s=cCorfgokh_6PMpGyL2JkNw&e=1620894940
 
 #EXTINF:-1 tvg-id="PLAYKIDS" tvg-name="PLAYKIDS" tvg-logo="https://uploaddeimagens.com.br/images/001/623/085/full/Playkids.png" group-title="CANAIS | INFANTIS ",PLAYKIDS
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?FORMIGAtv
@@ -477,14 +477,14 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/60906
 #EXTINF:-1 tvg-id="TV CÂMARA" tvg-name="TV CÂMARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYO8727LrhuO66ztamFX5M3Z-57-7ITN8pvw&usqp=CAU" group-title="CANAIS | SINAL ABERTO",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-ID="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="CANAIS TV | SINAL ABERTO",TV ESCOLA
+#EXTINF:-1 tvg-ID="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="CANAIS | SINAL ABERTO",TV ESCOLA
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
 
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/400px-Cultura_logo_2013.svg.png" group-title="CANAIS | SINAL ABERTO",TV CULTURA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/4412
 
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://2.bp.blogspot.com/-bzMKb4EFFvw/W5FM9DuNeUI/AAAAAAAAQKk/MXUHxJxSU7Um95KvfRIC29bBr9ehJICeQCLcBGAs/s1600/tv-diario-bleez.png" group-title="CANAIS | SINAL ABERTO",TV DIÁRIO
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZThCKkjvAS0lWtrVwUYayr8)/dm/3/x7txn7q/s/live-0.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbzH_fPS45t1gFHakh-ZkYSuqib0HukAOT15rOh9eB3TXIYKxbJ40jVUFobTkk436YA
 
 #EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV GAZETA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="CANAIS | SINAL ABERTO",TV GAZETA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/30425
@@ -504,6 +504,9 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/139.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/5987
 
+#EXTINF:-1 tvg-id="VENUS" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="CANAIS | ADULTOS",VENUS
+https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/vwzh6npjwqalyzk.m3u8?s=1xJTbVDbFc4er8l5XVEiug&e=1620894669
+
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6848
  
@@ -515,3 +518,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/75489
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS",ZOOMOO
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61133
+
+
+
+
