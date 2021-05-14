@@ -222,7 +222,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/60963
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | VARIEDADES",FISH TV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/4377
 
-#EXTINF:-1 tvg-id="FLA TV" tvg-name="FLA TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | VARIEDADES",FLA TV
+#EXTINF:-1 tvg-id="FLA TV" tvg-name="FLA TV" tvg-logo="https://storage.googleapis.com/cpt-partners-content-prod/cbfb8300-89de-4236-a8c3-d41cda80ccd9.png" group-title="CANAIS | VARIEDADES",FLA TV
 http://163.172.103.202:8880/287994003710/287994003710/31214
 
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK
@@ -296,9 +296,6 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6104
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61093
 
-#EXTINF:-1 tvg-id="HUSTLER" tvg-name="HUSTLER" tvg-logo="https://cdn.mitvstatic.com/channels/br_hustler-tv_m.png" group-title="CANAIS | ADULTOS",HUSTLER
-https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/8habutjp.m3u8?s=_wpl3VOCDa_3-NnfWDDQDg&e=1620895194
-
 #EXTINF:-1 tvg-id="ID - INVESTIGAÇÃO DISCOVERY" tvg-name=" ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS | FILMES E SÉRIES",ID - INVESTIGAÇÃO DISCOVERY
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6869
 
@@ -306,7 +303,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6869
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/7525
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i0.wp.com/www.breaktudo.com/wp-content/uploads/2020/11/logo_loading_preto.png" group-title="CANAIS | VARIEDADES",LOADING
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/75483
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987.m3u8
 
 #EXTINF:-1 tvg-id="MAIS NA TELA" tvg-name="MAIS NA TELA" tvg-logo="https://s2.glbimg.com/9BDzHD414H8t0SuFUOTky7aAKYI=/285x285/https://s2.glbimg.com/0EMW8aOQIoNx5ViGEg_9X8AhFmc=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d2470d85104948f09eee09d5028bee11/internal_photos/bs/2020/h/J/z8oSj1QCGvV7yLwBE5lQ/mais-na-tela.png" group-title="CANAIS | DOCUMENTÁRIOS",MAIS NA TELA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/9262
@@ -321,7 +318,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/7524
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6867
 
 #EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil_m.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/77.m3u8
+http://163.172.103.202:8880/287994003710/287994003710/31619
 
 #EXTINF:-1 tvg-id="NAT GEO KIDS" tvg-name="NAT GEO KIDS" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids-hd_m.png" group-title="CANAIS | INFANTIS ",NAT GEO KIDS
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/10261
@@ -333,13 +330,13 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6099
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6098
 
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-name="NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="CANAIS | VARIEDADES",NHK WORLD
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6949
+http://163.172.103.202:8880/287994003710/287994003710/31520
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="CANAIS | INFANTIS ",NICK JR
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/10260
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" group-title="CANAIS | INFANTIS ",NICKELODEON
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+http://163.172.103.202:8880/287994003710/287994003710/16745
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png"CANAIS | ESPORTES",OFF
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6947
@@ -348,10 +345,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6947
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w369174169.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6945
-
-#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV
-https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/0jnlo35uk82y.m3u8?s=cCorfgokh_6PMpGyL2JkNw&e=1620894940
+http://163.172.103.202:8880/287994003710/287994003710/16746
 
 #EXTINF:-1 tvg-id="PLAYKIDS" tvg-name="PLAYKIDS" tvg-logo="https://uploaddeimagens.com.br/images/001/623/085/full/Playkids.png" group-title="CANAIS | INFANTIS ",PLAYKIDS
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?FORMIGAtv
@@ -390,19 +384,19 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/18168
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="CANAIS | RELIGIOSOS",REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w681546527.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w104704926.m3u8
 
 #EXTINF:-1 tvg-id="REDE GOSPEL" tvg-name="REDE GOSPEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_F_C_7R-fSH2nYbgPEUTOHAlLfY1uRYCMQ&usqp=CAU" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+http://163.172.103.202:8880/287994003710/287994003710/31575
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | SINAL ABERTO",REDE TV
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6940
+http://163.172.103.202:8880/287994003710/287994003710/30995
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/45590
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF:-1 tvg-id="RED BULL TV" tvg-name="RED BULL TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL._SY400_.jpg" group-title="CANAIS | ESPORTES",REDE BULL TV
-http://163.172.103.202:8880/287994003710/287994003710/31250
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="CANAIS | SINAL ABERTO",SBT
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6889
@@ -459,7 +453,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6079
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6078
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6077
+http://163.172.103.202:8880/287994003710/287994003710/16758
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://skyassine.tv.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6076
@@ -467,11 +461,8 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6076
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="CANAIS | SINAL ABERTO",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8jQAPAk_tFEsfu3OerkaJQ-L3RyXynGnZA&usqp=CAU" group-title="CANAIS | DOCUMENTÁRIOS",THE HISTORY CHANNEL
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/history_b7eb6c68_0a59300e80a706df9f632e8ae9d244e78af3411e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5Ljg0LjQwLjE0MiI7aToxO3M6MTY1OiJNb3ppbGxhLzUuMCAoTGludXg7IGFybV82NDsgQW5kcm9pZCA5OyBTTS1HOTU1RikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMjggWWFCcm93c2VyLzIxLjMuMi41OS4wMCAoYWxwaGEpIFNBLzMgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTk3NTIwMDk7fQ%3D%3D
-
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTkH2-IbZss8f9dkQfRb7nXU7muF3lsJeZyg4d3y5BctpbKFq&s" group-title="CANAIS | DOCUMENTÁRIOS",TLC
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/24786
+http://163.172.103.202:8880/287994003710/287994003710/16710
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRcMwRSkqhZ3gVw3KBkxO2uKvzQ48k0WHjXw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",TNT SPORTS
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6074
@@ -483,13 +474,13 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6073
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61129
 
 #EXTINF:-1 tvg-id="TRAVEL BOX BRASIL" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel-276x300.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/124.m3u8
+http://163.172.103.202:8880/287994003710/287994003710/31130
 
 #EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://cdn.mitvstatic.com/channels/br_trutv-1_m.png" group-title="CANAIS | VARIEDADES",TRUTV
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/130.m3u8
+http://163.172.103.202:8880/287994003710/287994003710/31627
 
 #EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="TV APARECIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/131.m3u8
+http://163.172.103.202:8880/287994003710/287994003710/31579
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://digitalapi.sky.com.br/logos/channels/25.png" group-title="CANAIS | SINAL ABERTO",TV BRASIL
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/60906
@@ -498,7 +489,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/60906
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="CANAIS | SINAL ABERTO",TV ESCOLA
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(UhDBPQ)t(AAAAAAAAAAA)p(d(VxY)k(hwo)m(2mlPW4k0BWqMzPCJPK51VQ)n(a(4gFSJKUVC2LfoyhrGIXDz3LfUzX8a_IIkXKI)s(UN4)'a(J1DhQRf67DZijl0IUmdZF3EC)s(9jM)))s(t(rxQ)b(8RESLWW6ZcmuG6TrKcPdE_uJiCm_ZULrNaZ2_KoG6-2GzpBjNyTmaz1TPDSnS86mWV-R0IKzKEFAhii4J4QHHJDCfAs2Z15GLPHAgCwhLK2eWyi2PaR0CADimOmRVKkU2F8QfzZDIw0QVKdFt-L5DkQCHmTcglcUBDObAZUCacY2nQ)'t(up8)b(G9Jo_3Gs9IGUD3hvbJxCf0t99m69eOdXhLHO)))/live_540_index.m3u8
 
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/400px-Cultura_logo_2013.svg.png" group-title="CANAIS | SINAL ABERTO",TV CULTURA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/4412
@@ -519,13 +510,10 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w7
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/24787
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="http://168.205.87.198/logocanais/tvsenado.png" group-title="CANAIS | SINAL ABERTO",TV SENADO
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/139.m3u8
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/10246
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/5987
-
-#EXTINF:-1 tvg-id="VENUS" tvg-name="VENUS" tvg-logo="https://cdn.mitvstatic.com/channels/br_venus-tv-sd_m.png" group-title="CANAIS | ADULTOS",VENUS
-https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/vwzh6npjwqalyzk.m3u8?s=1xJTbVDbFc4er8l5XVEiug&e=1620894669
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6848
