@@ -202,18 +202,18 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/76025
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="CANAIS | ESPORTES",ESPN EXTRA
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",ESTÁDIO TNT SPORTS
+#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS
 http://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",ESTÁDIO TNT SPORTS
+#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS 2" tvg-name="ESTÁDIO TNT SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 2
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/69723
 
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",ESTÁDIO TNT SPORTS
+#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS 3" tvg-name="ESTÁDIO TNT SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 3
 http://paineliptv8.xyz:2082/live/3445332/3445332/34413.m3u8
 
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",ESTÁDIO TNT SPORTS http://paineliptv8.xyz:2082/live/3445332/3445332/34397.m3u8
+#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS 4" tvg-name="ESTÁDIO TNT SPORTS 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 4 http://paineliptv8.xyz:2082/live/3445332/3445332/34397.m3u8
 
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",ESTÁDIO TNT SPORTS
+#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS 5" tvg-name="ESTÁDIO TNT SPORTS 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="CANAIS | VARIEDADES",FILM & ARTS
