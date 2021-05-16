@@ -205,9 +205,6 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/76025
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="CANAIS | ESPORTES",ESPN EXTRA
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS
-http://163.172.103.202:8880/287994003710/287994003710/31015
-
 #EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS - O Melhor da Champions League" tvg-name="ESTÁDIO TNT SPORTS - O Melhor da Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS - O Melhor da Champions League
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
@@ -215,7 +212,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS - Programação Estádio TNT Sports" tvg-name="ESTÁDIO TNT SPORTS - Programação Estádio TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS - Programação Estádio TNT Sports
-http://163.172.103.202:8880/287994003710/287994003710/31016
+http://163.172.103.202:8880/287994003710/287994003710/31015
 
 #EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS - Originais TNT Sports" tvg-name="ESTÁDIO TNT SPORTS - Originais TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS - Originais TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
