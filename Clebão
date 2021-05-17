@@ -508,3 +508,6 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/75489
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS",ZOOMOO
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61133
+
+#EXTINF:-1 tvg-id="SPORT•TV 1 HD" tvg-name="SPORTV•TV 1 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | ESPORTES",SPORT•TV 1 HD
+http://163.172.103.202:8880/287994003742/287994003742/30919
