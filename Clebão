@@ -109,14 +109,10 @@ http://163.172.103.202:8880/287994003710/287994003710/31190
 http://163.172.103.202:8880/287994003710/287994003710/31192
 
 #EXTINF:-1 tvg-id="COPA DO NORDESTE 1" tvg-name="COPA DO NORDESTE 1"tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 1
-http://163.172.103.202:8880/287994003710/287994003710/31201
-
-#EXTINF:-1 tvg-id="COPA DO NORDESTE 2" tvg-name="COPA DO NORDESTE 2"tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2
 http://163.172.103.202:8880/287994003710/287994003710/31202
 
-#EXTINF:-1 tvg-id="COPA DO NORDESTE 2" tvg-id="COPA DO NORDESTE 2" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2 http://paineliptv8.xyz:2082/live/3445332/3445332/69230.m3u8
-
-EXTINF:-1 tvg-id="COPA DO NORDESTE 3" tvg-id="COPA DO NORDESTE 3" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 3 http://paineliptv8.xyz:2082/live/3445332/3445332/69232.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE 2" tvg-name="COPA DO NORDESTE 2 1"tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 2
+http://163.172.103.202:8880/287994003710/287994003710/31201
 
 EXTINF:-1 tvg-id="COPA DO NORDESTE 3" tvg-id="COPA DO NORDESTE 3" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 3
 http://163.172.103.202:8880/287994003710/287994003710/31204
