@@ -51,10 +51,10 @@ http://163.172.103.202:8880/287994003710/287994003710/31180
 #EXTINF:-1 tvg-id="CARIOCÃO 2" tvg-name="CARIOCÃO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-Pdr_5liQ8PhFqzE2vAk9hktmLSEg8ZO3w&usqp=CAU" group-title="CANAIS | ESPORTES",CARIOCÃO 2
 http://163.172.103.202:8880/287994003710/287994003710/31181
 
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://s2.glbimg.com/uDFihJwr_O6bkQkAg1DaFIz5xkg=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/2a/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL
+#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://s2.glbimg.com/uDFihJwr_O6bkQkAg1DaFIz5xkg=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/2a/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS | SINAL ABERTO",CANAL BRASIL
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61412
 
-#EXTINF:-1 tvg-id="CANAL COMUNITÁRIO" tvg-name="CANAL COMUNITÁRIO" tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="CANAIS | VARIEDADES",CANAL COMUNITÁRIO
+#EXTINF:-1 tvg-id="CANAL COMUNITÁRIO" tvg-name="CANAL COMUNITÁRIO" tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="CANAIS | SINAL ABERTO",CANAL COMUNITÁRIO
 https://596639ebdd89b.streamlock.net:443/8032/8032/chunklist_w901284008.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS | SINAL ABERTO",CANAL DO BOI
@@ -350,7 +350,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/61045
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/62826
 
-#EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SdDoHCOngPQMSwd7evn4-zFRlB3bPOYPMQ&usqp=CAU" group-title="CANAIS | NOTÍCIAS",REDE AMAZÔNICA MANAUS
+#EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SdDoHCOngPQMSwd7evn4-zFRlB3bPOYPMQ&usqp=CAU" group-title="CANAIS | SINAL ABERTO",REDE AMAZÔNICA MANAUS
 http://163.172.103.202:8880/287994003710/287994003710/31389
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
