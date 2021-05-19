@@ -386,6 +386,9 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6889
 #EXTINF:-1 tvg-id="SBT 2" tvg-name="SBT 2" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="CANAIS | SINAL ABERTO",SBT 2
 https://stream-06.dc3.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2l1y1aUELvU4W_Sb2RxAwHA)/dm/3/x80n7xp/s/live-4.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 
+#EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1048568750600019970/xgPKge8K.jpg" group-title="CANAIS | VARIEDADES",SIC INTERNACIONAL
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/13900
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CANAIS | FILMES E SÉRIES",SPACE
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6085
 
@@ -471,7 +474,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/60906
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="CANAIS | SINAL ABERTO",TV ESCOLA
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/13857
 
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/400px-Cultura_logo_2013.svg.png" group-title="CANAIS | SINAL ABERTO",TV CULTURA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/4412
@@ -514,3 +517,27 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/61133
 
 #EXTINF:-1 tvg-id="SPORT•TV 1 HD" tvg-name="SPORTV•TV 1 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | ESPORTES",SPORT•TV 1 HD
 http://163.172.103.202:8880/287994003742/287994003742/30919
+
+#EXTINF:-1 tvg-id="PUBLIC AGENT" tvg-name="PUBLIC AGENT" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/528b25e3714b6636bf3a3d561ade5ee2.png" group-title="CANAIS | ADULTOS",PUBLIC AGENT
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/36374
+
+#EXTINF:-1 tvg-id="STEP MOM LESSONS" tvg-name="STEP MOM LESSONS" tvg-logo="https://i.pinimg.com/originals/cc/72/22/cc7222bad82fc243afa2582554401877.jpg" group-title="CANAIS | ADULTOS",STEP MOM LESSONS
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/36371
+
+#EXTINF:-1 tvg-id="REAL EX GIRLFRIENDS" tvg-name="REAL EX GIRLFRIENDS" tvg-logo="https://pbs.twimg.com/profile_images/1050177672989499392/HuvoDCGp.jpg" group-title="CANAIS | ADULTOS",REAL EX GIRLFRIENDS
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/36369
+
+#EXTINF:-1 tvg-id="EROTIC" tvg-name="EROTIC" tvg-logo="https://pbs.twimg.com/profile_images/750293007287652352/J2ZK1Euj.jpg" group-title="CANAIS | ADULTOS",EROTIC
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/36333
+
+#EXTINF:-1 tvg-id="PRETTY DIRTY" tvg-name="PRETTY DIRTY" tvg-logo="https://i.pinimg.com/originals/cc/72/22/cc7222bad82fc243afa2582554401877.jpg" group-title="CANAIS | ADULTOS",PRETTY DIRTY
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/44364
+
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/44364
+http://esrv.cc:80/decio123/decio123/32025
+
+#EXTINF:-1 tvg-id="SEXY HOT" tvg-name="SEXY HOT" tvg-logo="https://i2.wp.com/assets.propmark.com.br/legacy/thumbs/images/sexyhot300.png?w=720&ssl=1" group-title="CANAIS | ADULTOS",SEXY HOT
+http://top.samotv.xyz:2095/dtv_093794/iI6FsZTF/44364
+http://esrv.cc:80/decio123/decio123/32025
+http://esrv.cc:80/decio123/decio123/471
