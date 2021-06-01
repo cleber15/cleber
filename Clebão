@@ -4,7 +4,7 @@
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
 
 #EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuurSZZ9P_GXvVGOOYHK7mlUqVXfa3DanM_A&usqp=CAU" group-title="CANAIS | ESPORTES", ALL SPORTS
-http://163.172.103.202:8880/287994003710/287994003710/31132
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",AMC
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/7691
@@ -97,13 +97,13 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/76729
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/10292
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 1
-http://163.172.103.202:8880/287994003710/287994003710/31185
+http://srvuhd.top:80/FAMILIA/12345/47849
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 2"tvg-name="CONMEBOL TV 2"tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 2
 http://paineliptv8.xyz:2082/live/3445332/3445332/69904.m3u8
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 3
-http://163.172.103.202:8880/287994003710/287994003710/31190
+http://srvuhd.top:80/FAMILIA/12345/47853
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 4
 http://paineliptv8.xyz:2082/live/3445332/3445332/73670.m3u8
@@ -122,6 +122,9 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/61192
 
 #EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN
 http://rec2.distv.net:80/carlinhos/carlinhos/226
+
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/dazn1_918fc64d_b0e040fadd1401aa284e991a3b2e695aebb61e21/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5Ljg0LjQwLjE0MiI7aToxO3M6MTY1OiJNb3ppbGxhLzUuMCAoTGludXg7IGFybV82NDsgQW5kcm9pZCA5OyBTTS1HOTU1RikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTIgWWFCcm93c2VyLzIxLjUuMS4zMy4wMCAoYWxwaGEpIFNBLzMgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MjI1NTg2MDE7fQ%3D%3D
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://163.172.103.202:8880/287994003710/287994003710/16705
