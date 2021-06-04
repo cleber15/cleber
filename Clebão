@@ -465,7 +465,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/60906
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="CANAIS | SINAL ABERTO",TV ESCOLA
-https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(dBetpny0OaHBahg9rtMVaw)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_WaLg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwamoxKazz2mrWfEmmHAvl6Bs8FJI6Wx441QAGjTKwU2fSL-YrdlCAPrWm7tdPytLMcbn2J1wsx_1oEbby9J6)'t(5yQ)b(gFxs5Mu5MV9ELnPWxe5bAliHTUQ4f7PDkZTn)))/live_540_index.m3u8
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
 
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/400px-Cultura_logo_2013.svg.png" group-title="CANAIS | SINAL ABERTO",TV CULTURA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/4412
