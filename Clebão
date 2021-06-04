@@ -390,7 +390,7 @@ http://163.172.103.202:8880/287994003710/287994003710/16753
 http://163.172.103.202:8880/287994003710/287994003710/16751
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1406px-SporTV_3_2017_logo.svg.png" group-title="CANAIS | ESPORTES",SPORTV 3
-http://163.172.103.202:8880/287994003710/287994003710/16752
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/76020
 
  #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6122
@@ -465,7 +465,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/60906
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="CANAIS | SINAL ABERTO",TV ESCOLA
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(dBetpny0OaHBahg9rtMVaw)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_WaLg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwamoxKazz2mrWfEmmHAvl6Bs8FJI6Wx441QAGjTKwU2fSL-YrdlCAPrWm7tdPytLMcbn2J1wsx_1oEbby9J6)'t(5yQ)b(gFxs5Mu5MV9ELnPWxe5bAliHTUQ4f7PDkZTn)))/live_540_index.m3u8
 
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/400px-Cultura_logo_2013.svg.png" group-title="CANAIS | SINAL ABERTO",TV CULTURA
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/4412
@@ -506,8 +506,8 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/75489
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS",ZOOMOO
 https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/zoomookids_9dbb7f83_ef09121d86a8e8b7c89c9e6d9a1cfced5bae2ba1/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTg5Ljg0LjQwLjE0MiI7aToxO3M6MTY1OiJNb3ppbGxhLzUuMCAoTGludXg7IGFybV82NDsgQW5kcm9pZCA5OyBTTS1HOTU1RikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTIgWWFCcm93c2VyLzIxLjUuMS4zMy4wMCAoYWxwaGEpIFNBLzMgTW9iaWxlIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MjI1OTUxMDc7fQ%3D%3D
 
-#EXTINF:-1 tvg-id="SPORT•TV 1 HD" tvg-name="SPORTV•TV 1 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | ESPORTES",SPORT•TV 1 HD
-http://163.172.103.202:8880/287994003742/287994003742/30919
+#EXTINF:-1 tvg-id="SPORT•TV 1 HD" tvg-name="SPORTV•TV 1 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8="group-title="CANAIS | ESPORTES",SPORT•TV 1 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2498
 
-#EXTINF:-1 tvg-id="SPORT•TV 2 HD" tvg-name="SPORTV•TV 2 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | ESPORTES",SPORT•TV 2 HD
+#EXTINF:-1 tvg-id="SPORT•TV 2 HD" tvg-name="SPORTV•TV 2 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8="group-title="CANAIS | ESPORTES",SPORT•TV 2 HD
 http://163.172.103.202:8880/287994003710/287994003710/30920
