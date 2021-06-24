@@ -7,22 +7,22 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",AMC
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/7691
+http://163.172.103.202:8880/287994003710/287994003710/16692
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVIQmytud5lLbuhPW38oODpu3RI7dGsBLLQ&usqp=CAU" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6142
+http://163.172.103.202:8880/287994003710/287994003710/16693
 
 #EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS",APARECIDA
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/45592
+http://163.172.103.202:8880/287994003710/287994003710/31579
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcVDxuj302I9XycVwoLbb2ns0hisF4NaZVQ&usqp=CAU" group-title="CANAIS | VARIEDADES",ARTE 1
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/75487
+http://163.172.103.202:8880/287994003710/287994003710/16694
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvtiW60JQfTCiEZIraSJBBTYEv_N0ApTBCg&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",AXN
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6140
+http://163.172.103.202:8880/287994003710/287994003710/16695
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="CANAIS | INFANTIS ",BABY TV
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/61100
+http://srvuhd.top:80/FAMILIA/12345/38437
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://www.globalhub.com.br/wp-content/uploads/2015/03/Logo-TV-BAND-HD.png" group-title="CANAIS | SINAL ABERTO",BAND
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6882
@@ -252,10 +252,10 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6105
 http://rec2.distv.net:80/carlinhos/carlinhos/163
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ832RNQn3bTlpF6Tyq13ghhjQAHtAsZlkEvw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",HBO+
-http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2477
+http://rec2.distv.net:80/carlinhos/carlinhos/160
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2
-http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2480
+http://rec2.distv.net:80/carlinhos/carlinhos/157
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/7862
@@ -279,7 +279,7 @@ https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987.m3u8
 http://163.172.103.202:8880/287994003710/287994003710/16737
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWl1W2zRb7MdMbqr0WzcGqsbDc5ZJoO6Acdg&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX
-http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2468
+http://rec2.distv.net:80/carlinhos/carlinhos/168
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMrTQdn6LTIH8tGyX4dqga5Exw0N5iynwcMlRMOgWLGl4WCY&s" group-title="CANAIS | VARIEDADES",MTV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/7524
@@ -324,7 +324,7 @@ http://srvuhd.top:80/FAMILIA/12345/5543
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61047
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9BZ2Fr9J9iHrnYm66cYwlz_LakxkX1pQcw&usqp=CAU" group-title="CANAIS | ESPORTES",PREMIERE 3
-http://163.172.103.202:8880/287994003710/287994003710/30986
+http://rec2.distv.net:80/carlinhos/carlinhos/180
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwH_ijvTVYfQaXP18V7LNKtpSMCiIgTTAxBg&usqp=CAU" group-title="CANAIS | ESPORTES",PREMIERE 4
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/76001
