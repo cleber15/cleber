@@ -172,7 +172,7 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/10285
 http://rec2.distv.net:80/carlinhos/carlinhos/142
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://skytvplanos.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="CANAIS | ESPORTES",ESPN BRASIL
-http://163.172.103.202:8880/287994003710/287994003710/16717
+http://rec2.distv.net:80/carlinhos/carlinhos/144
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN 2
 http://163.172.103.202:8880/287994003710/287994003710/16716
@@ -196,7 +196,7 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="CANAIS | VARIEDADES",FILM & ARTS
-http://rec2.distv.net:80/carlinhos/carlinhos/227
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/60963
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | VARIEDADES",FISH TV
 http://srvuhd.top:80/FAMILIA/12345/17925
@@ -217,7 +217,7 @@ http://163.172.103.202:8880/287994003710/287994003710/16724
 http://srvuhd.top:80/FAMILIA/12345/5435
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://skytvplanos.com.br/img/channels/lg-247-canal-fx-hd.png" group-title="CANAIS | FILMES E SÉRIES",FX
-http://163.172.103.202:8880/287994003710/287994003710/16726
+http://rec2.distv.net:80/carlinhos/carlinhos/229
 
 #EXTINF:-1 tvg-id="GOLF CHANNEL" tvg-name="GOLF CHANNEL" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/606.png" group-title="CANAIS | ESPORTES",GOLF CHANNEL http://163.172.103.202:8880/287994003710/287994003710/31158
 
@@ -291,7 +291,7 @@ http://163.172.103.202:8880/287994003710/287994003710/16737
 http://rec2.distv.net:80/carlinhos/carlinhos/168
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMrTQdn6LTIH8tGyX4dqga5Exw0N5iynwcMlRMOgWLGl4WCY&s" group-title="CANAIS | VARIEDADES",MTV
-http://163.172.103.202:8880/287994003710/287994003710/16738
+http://rec2.distv.net:80/carlinhos/carlinhos/169
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrY_j0TNKCZofLlIikUqQeHT5AlxbjAm1wmA&usqp=CAU" group-title="CANAIS | VARIEDADES",MULTISHOW
 http://163.172.103.202:8880/287994003710/287994003710/16740
@@ -312,16 +312,13 @@ http://163.172.103.202:8880/287994003710/287994003710/16743
 http://163.172.103.202:8880/287994003710/287994003710/31520
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="CANAIS | INFANTIS ",NICK JR
-http://163.172.103.202:8880/287994003710/287994003710/16744
+http://rec2.distv.net:80/carlinhos/carlinhos/176
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1280px-Nick_HD_Logo.svg.png" group-title="CANAIS | INFANTIS ",NICKELODEON
-http://163.172.103.202:8880/287994003710/287994003710/16745
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/7537
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png"CANAIS | ESPORTES",OFF
 http://rec2.distv.net:80/carlinhos/carlinhos/177
-
-#EXTINF:-1 tvg-id="PAI ETERNO" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | RELIGIOSOS",PAI ETERNO
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w369174169.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK
 http://163.172.103.202:8880/287994003710/287994003710/16746
@@ -378,7 +375,7 @@ http://163.172.103.202:8880/287994003710/287994003710/31575
 http://rec2.distv.net:80/carlinhos/carlinhos/69
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/45590
 
 #EXTINF:-1 tvg-id="RED BULL TV" tvg-name="RED BULL TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL._SY400_.jpg" group-title="CANAIS | ESPORTES",REDE BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -405,7 +402,7 @@ http://163.172.103.202:8880/287994003710/287994003710/16751
 http://163.172.103.202:8880/287994003710/287994003710/16752
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL
-http://163.172.103.202:8880/287994003710/287994003710/16720
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6122
 
 #EXTINF:-1 tvg-id="STAR HITS" tvg-name="STAR HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/800px-Star_Hits_2020.svg.png" group-title="CANAIS | FILMES E SÉRIES",STAR HITS  
 http://163.172.103.202:8880/287994003710/287994003710/16722
