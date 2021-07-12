@@ -22,7 +22,7 @@ http://163.172.103.202:8880/287994003710/287994003710/16694
 http://rec2.distv.net:80/carlinhos/carlinhos/116
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="CANAIS | INFANTIS ",BABY TV
-http://srvuhd.top:80/FAMILIA/12345/38437
+http://rec2.distv.net:80/carlinhos/carlinhos/117
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://www.globalhub.com.br/wp-content/uploads/2015/03/Logo-TV-BAND-HD.png" group-title="CANAIS | SINAL ABERTO",BAND
 http://163.172.103.202:8880/287994003710/287994003710/16697
@@ -82,13 +82,13 @@ https://live.cgtn.com/1000/prog_index.m3u8
 http://163.172.103.202:8880/287994003710/287994003710/16702
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL
-http://srvuhd.top:80/FAMILIA/12345/5285
+http://rec2.distv.net:80/carlinhos/carlinhos/225
 
 #EXTINF:-1 tvg-id="CNN ESPANHOL" tvg-name="CNN ESPANHOL" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL
-http://163.172.103.202:8880/287994003710/287994003710/31510
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/61136
 
 #EXTINF:-1 tvg-id="CNN INTERNACIONAL" tvg-name="CNN INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/200px-CNN-International-Logo.svg.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL
-http://163.172.103.202:8880/287994003710/287994003710/31511
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/61137
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS | ESPORTES",COMBATE
 http://163.172.103.202:8880/287994003710/287994003710/16703
