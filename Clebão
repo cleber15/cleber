@@ -100,10 +100,10 @@ http://163.172.103.202:8880/287994003710/287994003710/16704
 http://srvuhd.top:80/FAMILIA/12345/47849
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 2"tvg-name="CONMEBOL TV 2"tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 2
-http://paineliptv8.xyz:2082/live/3445332/3445332/69904.m3u8
+http://srv.maxptv.net:8080/Danilooo/Camisaa/18836
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 3
-http://srvuhd.top:80/FAMILIA/12345/47853
+http://srv.maxptv.net:8080/Danilooo/Camisaa/18837
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 4
 http://paineliptv8.xyz:2082/live/3445332/3445332/73670.m3u8
@@ -121,16 +121,16 @@ http://163.172.103.202:8880/287994003710/287994003710/31204
 http://srvuhd.top:80/FAMILIA/12345/5413
 
 #EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN
-http://srvuhd.top:80/FAMILIA/12345/47875
+http://srv.maxptv.net:8080/Danilooo/Camisaa/19542
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN 2
 http://rec2.distv.net:80/carlinhos/carlinhos/226
 
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN 3
-http://srvuhd.top:80/FAMILIA/12345/47879
+http://srv.maxptv.net:8080/Danilooo/Camisaa/19544
 
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN 4
-http://srvuhd.top:80/FAMILIA/12345/47881
+http://srv.maxptv.net:8080/Danilooo/Camisaa/19545
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://163.172.103.202:8880/287994003710/287994003710/16705
@@ -345,7 +345,7 @@ http://163.172.103.202:8880/287994003710/287994003710/31543
 http://163.172.103.202:8880/287994003710/287994003710/31545
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes-hd_m.png" group-title="CANAIS | ESPORTES",PREMIERE CLUBES
-http://rec2.distv.net:80/carlinhos/carlinhos/184
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/61045
 
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL
 http://163.172.103.202:8880/287994003710/287994003710/31621
