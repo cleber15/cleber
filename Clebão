@@ -16,7 +16,7 @@ http://163.172.103.202:8880/287994003710/287994003710/16693
 http://163.172.103.202:8880/287994003710/287994003710/31579
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcVDxuj302I9XycVwoLbb2ns0hisF4NaZVQ&usqp=CAU" group-title="CANAIS | VARIEDADES",ARTE 1
-http://163.172.103.202:8880/287994003710/287994003710/16694
+http://rec2.distv.net:80/carlinhos/carlinhos/115
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvtiW60JQfTCiEZIraSJBBTYEv_N0ApTBCg&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",AXN
 http://rec2.distv.net:80/carlinhos/carlinhos/116
@@ -28,7 +28,7 @@ http://rec2.distv.net:80/carlinhos/carlinhos/117
 http://163.172.103.202:8880/287994003710/287994003710/16697
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1368930542058635270/ddfsL_BV.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS
-http://163.172.103.202:8880/287994003710/287994003710/16696
+http://rec2.distv.net:80/carlinhos/carlinhos/118
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48SD8z1WbAm-xeVRI1DSkjZBwW5O36EMJyQ&usqp=CAU" group-title="CANAIS | ESPORTES",BAND SPORTS
 http://163.172.103.202:8880/287994003710/287994003710/16698
@@ -106,7 +106,7 @@ http://srv.maxptv.net:8080/Danilooo/Camisaa/18836
 http://srv.maxptv.net:8080/Danilooo/Camisaa/18837
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 4
-http://paineliptv8.xyz:2082/live/3445332/3445332/73670.m3u8
+http://xcui.vitvabc.xyz:8880/2879940030ee/2879940030ee/31191
 
 #EXTINF:-1 tvg-id="COPA DO NORDESTE 1" tvg-name="COPA DO NORDESTE 1"tvg-logo="https://www.ogol.com.br/img/logos/competicoes/921_imgbank_cn_20150701164442.png" group-title="CANAIS | ESPORTES",COPA DO NORDESTE 1
 http://163.172.103.202:8880/287994003710/287994003710/31202
@@ -121,16 +121,10 @@ http://163.172.103.202:8880/287994003710/287994003710/31204
 http://rec2.distv.net:80/carlinhos/carlinhos/129
 
 #EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN
-http://srv.maxptv.net:8080/Danilooo/Camisaa/19542
+http://xcui.vitvabc.xyz:8880/2879940030ee/2879940030ee/31210
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN 2
 http://rec2.distv.net:80/carlinhos/carlinhos/226
-
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN 3
-http://srv.maxptv.net:8080/Danilooo/Camisaa/19544
-
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | ESPORTES",DAZN 4
-http://srv.maxptv.net:8080/Danilooo/Camisaa/19545
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://163.172.103.202:8880/287994003710/287994003710/16705
@@ -222,10 +216,7 @@ http://rec2.distv.net:80/carlinhos/carlinhos/229
 #EXTINF:-1 tvg-id="GOLF CHANNEL" tvg-name="GOLF CHANNEL" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/606.png" group-title="CANAIS | ESPORTES",GOLF CHANNEL http://163.172.103.202:8880/287994003710/287994003710/31158
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK1m0zL6Q2TQM0kBDVuIj4f-bB7lli996qQ&usqp=CAU" group-title="CANAIS | SINAL ABERTO",GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK1m0zL6Q2TQM0kBDVuIj4f-bB7lli996qQ&usqp=CAU" group-title="CANAIS | SINAL ABERTO",GLOBO RJ
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6113
+http://xcui.vitvabc.xyz:8880/2879940030ee/2879940030ee/32170
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK1m0zL6Q2TQM0kBDVuIj4f-bB7lli996qQ&usqp=CAU" group-title="CANAIS | SINAL ABERTO",GLOBO SP
 http://163.172.103.202:8880/287994003710/287994003710/16730
@@ -393,15 +384,15 @@ http://live.impresa.pt/live/sicint/sicint.m3u8
 http://163.172.103.202:8880/287994003710/287994003710/16750
 
  #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4VS1qftmIvY_KNzixm8rEgS6ZRfUH5P6IXwXOBgI5tOe8zMl&s" group-title="CANAIS | ESPORTES",SPORTV  
-http://srv.maxptv.net:8080/Danilooo/Camisaa/49
+http://xcui.vitvabc.xyz:8880/2879940030ee/2879940030ee/31168
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-38-canal-sportv-2.png"CANAIS | ESPORTES",SPORTV 2
-http://163.172.103.202:8880/287994003710/287994003710/16751
+http://xcui.vitvabc.xyz:8880/2879940030ee/2879940030ee/31163
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1406px-SporTV_3_2017_logo.svg.png" group-title="CANAIS | ESPORTES",SPORTV 3
-http://srv.maxptv.net:8080/Danilooo/Camisaa/45
+http://xcui.vitvabc.xyz:8880/2879940030ee/2879940030ee/31166
 
-#EXTINF:-1 tvg-id="SPORTV 3 PORTUGAL" tvg-name="SPORTV 3 PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1406px-SporTV_3_2017_logo.svg.png" group-title="CANAIS | ESPORTES",SPORTV 3 PORTUGAL
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1406px-SporTV_3_2017_logo.svg.png" group-title="CANAIS | ESPORTES",SPORTV 3
 http://163.172.103.202:8880/287994003710/287994003710/16752
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL
