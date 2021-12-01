@@ -16,13 +16,13 @@ http://xsrv.me:8080/fabiana123/123fabiana/33800
 https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvtiW60JQfTCiEZIraSJBBTYEv_N0ApTBCg&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",AXN
-https://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_2.m3u8
+http://rec2.distv.net:80/carlinhos/carlinhos/116
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="CANAIS | INFANTIS ",BABY TV
 http://xsrv.me:8080/fabiana123/123fabiana/25094
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://www.globalhub.com.br/wp-content/uploads/2015/03/Logo-TV-BAND-HD.png" group-title="CANAIS | SINAL ABERTO",BAND
-http://xsrv.me:8080/fabiana123/123fabiana/33801
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w793816707.m3u8
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1368930542058635270/ddfsL_BV.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS
 http://xsrv.me:8080/fabiana123/123fabiana/24552
@@ -31,7 +31,7 @@ http://xsrv.me:8080/fabiana123/123fabiana/24552
 https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="CANAIS | VARIEDADES",BIS
-http://xsrv.me:8080/fabiana123/123fabiana/25119
+http://rec2.distv.net:80/carlinhos/carlinhos/120
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2016/08/boomerang-hd-na-sky.png" group-title="CANAIS | INFANTIS ",BOOMERANG
 http://xsrv.me:8080/fabiana123/123fabiana/25088
@@ -52,7 +52,7 @@ http://xsrv.me:8080/fabiana123/123fabiana/35033
 https://video01.kshost.com.br/gente8322/gente8322/chunklist_w1016045675.m3u8
 
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-name="CANAL SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY
-http://xsrv.me:8080/fabiana123/123fabiana/24822
+http://xsrv.me:8080/fabiana123/123fabiana/24820
 
 #EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA
 http://xsrv.me:8080/fabiana123/123fabiana/25201
