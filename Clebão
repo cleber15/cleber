@@ -153,7 +153,7 @@ http://xsrv.me:8080/fabiana123/123fabiana/24646
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN 2
 http://xsrv.me:8080/fabiana123/123fabiana/24658
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVEj0_jGwe8Kq5F0pawMk6jwJ9_69dLBOyAQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSpNIrwZkczuPJiLFrO6tNAwxyQHYSDfgwQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESPN 3
 http://tv.meuserver.me:8080/665473/998445/207685
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://static.wikia.nocookie.net/vvikipedia/images/5/52/ESPN4_Logo_tipo.jpg/revision/latest?cb=20220117122342&path-prefix=pt" group-title="CANAIS | ESPORTES",ESPN 4
