@@ -103,12 +103,9 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/195
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/100
 
 #EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="CANAIS | ESPORTES",DAZN
-http://tv.meuserver.me:8080/665473/998445/337436
-
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="CANAIS | ESPORTES",DAZN 2
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/821
 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="CANAIS | ESPORTES",DAZN 3
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="CANAIS | ESPORTES",DAZN 2
 http://xsrv.me:8080/fabiana123/123fabiana/85984
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
@@ -218,6 +215,9 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1837
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/21
+
+#EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="CANAIS | ESPORTES",HBO MAX
+http://tv.meuserver.me:8080/665473/998445/337436
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzV6xHGS1VJCd2RnJcoad1MJgsdOHy0eprp6WIuk8_pXCHXzE&s" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1330
@@ -409,7 +409,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTkH2-IbZss8f9dkQfRb7nXU7muF3lsJeZyg4d3y5BctpbKFq&s" group-title="CANAIS | DOCUMENTÁRIOS",TLC
 http://xsrv.me:8080/fabiana123/123fabiana/29902
 
-#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRcMwRSkqhZ3gVw3KBkxO2uKvzQ48k0WHjXw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",TNT SPORTS
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOhsyMiiKW4lagcWg7yJ7fd6u-j7fIF1wcw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",TNT
 http://xsrv.me:8080/fabiana123/123fabiana/24931 
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES
