@@ -52,7 +52,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1342
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/97
 
 #EXTINF:-1 tvg-id="CARIOCÃO 2"tvg-name="CARIOCÃO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="CANAIS | ESPORTES",CARIOCÃO
-http://tv.meuserver.me:8080/665473/998445/337439
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/5007
 
 #EXTINF:-1 tvg-id="CARIOCÃO 2 2"tvg-name="CARIOCÃO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="CANAIS | ESPORTES",CARIOCÃO 2
 http://main.webhostingtoto.xyz:2095/NEW_LIVE3408907768/3649014945/987
@@ -174,6 +174,9 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="CANAIS | ESPORTES",ESTÁDIO TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="FCF TV" tvg-name="FCF TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Fl9uFcnrndltF3nmZHM9MDEn3RkoSeTscQ&usqp=CAU" group-title="CANAIS | ESPORTES",FCF TV
+http://tv.meuserver.me:8080/665473/998445/337436
+
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="CANAIS | VARIEDADES",FILM & ARTS
 http://xsrv.me:8080/fabiana123/123fabiana/25197
 
@@ -215,9 +218,6 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1837
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/21
-
-#EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="CANAIS | ESPORTES",HBO MAX
-http://tv.meuserver.me:8080/665473/998445/337436
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzV6xHGS1VJCd2RnJcoad1MJgsdOHy0eprp6WIuk8_pXCHXzE&s" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1330
@@ -274,8 +274,6 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/351
 http://tv.meuserver.me:8080/665473/998445/157694
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://www.nationalgeographicbrasil.com/images/logo.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
-
-
 
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-name="NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="CANAIS | VARIEDADES",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
