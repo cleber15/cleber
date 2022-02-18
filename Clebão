@@ -6,7 +6,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1305
 #EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuurSZZ9P_GXvVGOOYHK7mlUqVXfa3DanM_A&usqp=CAU" group-title="CANAIS | ESPORTES", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CANAIS | FILMES E SÉRIES",AMC
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2146
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVIQmytud5lLbuhPW38oODpu3RI7dGsBLLQ&usqp=CAU" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET
@@ -21,7 +21,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1306
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="CANAIS | INFANTIS ",BABY TV
 http://tv.meuserver.me:8080/665473/998445/184218
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://www.band.uol.com.br/assets/band_logo.png" group-title="CANAIS | SINAL ABERTO",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/400px-Rede_Bandeirantes_logo_2018.svg.png" group-title="CANAIS | SINAL ABERTO",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w793816707.m3u8
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1368930542058635270/ddfsL_BV.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS
@@ -33,7 +33,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1791
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="CANAIS | VARIEDADES",BIS
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/419
 
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://s2.glbimg.com/dwymxqYjS3Nkf0eGk0H5DMUYZBI=/fit-in/84x42/https://s2.glbimg.com/jPwh9l7WYOYGSMg37zSiwgekqVY=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_d2470d85104948f09eee09d5028bee11/internal_photos/bs/2020/P/o/muvwsITja0RTBNFVIkPQ/logo-canal-brasil-03.png" group-title="CANAIS | SINAL ABERTO",CANAL BRASIL
+#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1680px-Canal_Brasil_logo.svg.png" group-title="CANAIS | SINAL ABERTO",CANAL BRASIL
 http://tv.meuserver.me:8080/665473/998445/184070 
 
 #EXTINF:-1 tvg-id="CANAL COMUNITÁRIO" tvg-name="CANAL COMUNITÁRIO" tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="CANAIS | SINAL ABERTO",CANAL COMUNITÁRIO
@@ -192,7 +192,7 @@ http://tv.meuserver.me:8080/665473/998445/207705
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS | SINAL ABERTO",FUTURA
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2899
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets.fxnetworks.com/images/fx_logo_white_compact.png" group-title="CANAIS | FILMES E SÉRIES",FX
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",FX
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1319
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | SINAL ABERTO",GLOBO RJ
@@ -258,7 +258,7 @@ http://xsrv.me:8080/fabiana123/123fabiana/24867
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHEhI5vqWL2Y5Lzf-x5hJoRSXRlz4hjzFpg&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1779
 
-#EXTINF:-1 tvg-id="MODO VIAGEM" tvg-name="MODO VIAGEM" tvg-logo="https://s2.glbimg.com/V1WWJv4ZhpihiB8qZ3Bj6q4Lkvw=/fit-in/84x42/https://s2.glbimg.com/DmjfWf0gsrQx2Qx02H8nOz7b7iI=/trim/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/l/qwR5RjR9GDh2WfdAERhw/logo-transparente-modo-viagem-700x700.png" group-title="CANAIS | DOCUMENTÁRIOS",MODO VIAGEM
+#EXTINF:-1 tvg-id="MODO VIAGEM" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/400px-Logotipo_do_Modo_Viagem.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",MODO VIAGEM
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/139
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMrTQdn6LTIH8tGyX4dqga5Exw0N5iynwcMlRMOgWLGl4WCY&s" group-title="CANAIS | VARIEDADES",MTV
@@ -293,22 +293,22 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1736
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org//wikipedia/commons/thumb/9/9d/Paramount_Network_%28Blue%29_Logo.png/200px-Paramount_Network_%28Blue%29_Logo.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1856
 
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2" tvg-logo="https://i.pinimg.com/originals/45/85/75/45857537421cf0f7c7b1aab9b2ea6f9b.jpg" group-title="CANAIS | ESPORTES",PREMIERE 2
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 2
 http://xsrv.me:8080/fabiana123/123fabiana/24679
 
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9BZ2Fr9J9iHrnYm66cYwlz_LakxkX1pQcw&usqp=CAU" group-title="CANAIS | ESPORTES",PREMIERE 3
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 3
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1762
 
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwH_ijvTVYfQaXP18V7LNKtpSMCiIgTTAxBg&usqp=CAU" group-title="CANAIS | ESPORTES",PREMIERE 4
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 4
 http://tv.meuserver.me:8080/665473/998445/207744
 
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-5-hd_m.png" group-title="CANAIS | ESPORTES",PREMIERE 5
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 5
 http://tv.meuserver.me:8080/665473/998445/207747
 
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PREMIERE 6" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-5-hd_m.png" group-title="CANAIS | ESPORTES",PREMIERE 6
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 6
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/316
 
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PREMIERE 7" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-5-hd_m.png" group-title="CANAIS | ESPORTES",PREMIERE 7
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 7
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/317
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="CANAIS | ESPORTES",PREMIERE CLUBES
@@ -353,7 +353,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://pbs.twimg.com/profile_images/1450474890612576267/5OqcDL9-_400x400.jpg" group-title="CANAIS | FILMES E SÉRIES",SPACE
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/64
 
- #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBNN1yjCgNkVkBVvodQiGDCeHtT2vrREQEg&usqp=CAU" group-title="CANAIS | ESPORTES",SPORTV  
+ #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV  
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1766
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png"CANAIS | ESPORTES",SPORTV 2
@@ -365,10 +365,10 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1768
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR-CsuWkPtt1CQ-AHqLPmEncvp74QehONUrw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1547
 
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE  
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/2560px-Star_Life_2021.svg.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE  
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1813
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://img1.gratispng.com/20180617/fvv/kisspng-universal-studios-hollywood-universal-pictures-uni-universal-studios-5b26dbd2cce012.5243627815292732988392.jpg" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL 
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://xsrv.me:8080/fabiana123/123fabiana/24909 
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://skytvplanos.com.br/img/channels/lg-46-canal-syfy.png" group-title="CANAIS | FILMES E SÉRIES",SYFY
@@ -458,7 +458,7 @@ http://xsrv.me:8080/fabiana123/123fabiana/25155
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL
 http://xsrv.me:8080/fabiana123/123fabiana/24952
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://woohoo.com.br/wp-content/uploads/2021/04/Logo-03.png" group-title="CANAIS | VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdalPoOpkQlT3YRoYpE-VCC5W_FUYH054skw&usqp=CAU" group-title="CANAIS | VARIEDADES",WOOHOO
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/150
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS ",ZOOMOO
