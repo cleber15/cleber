@@ -25,7 +25,7 @@ http://tv.meuserver.me:8080/665473/998445/184218
 http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist_w793816707.m3u8
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1368930542058635270/ddfsL_BV.jpg" group-title="CANAIS | NOTÍCIAS",BAND NEWS
-http://xsrv.me:8080/fabiana123/123fabiana/24552
+http://tv.meuserver.me:8080/665473/998445/184258
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48SD8z1WbAm-xeVRI1DSkjZBwW5O36EMJyQ&usqp=CAU" group-title="CANAIS | ESPORTES",BAND SPORTS
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1791
@@ -67,10 +67,10 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2890
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://skytvplanos.com.br/img/channels/lg-56-canal-cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
-http://xsrv.me:8080/fabiana123/123fabiana/24828
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1309
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1797
+http://tv.meuserver.me:8080/665473/998445/184267
 
 #EXTINF:-1 tvg-id="CNN ESPANHOL" tvg-name="CNN ESPANHOL" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/180
@@ -112,7 +112,7 @@ http://xsrv.me:8080/fabiana123/123fabiana/85984
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/65
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH
-http://xsrv.me:8080/fabiana123/123fabiana/24977
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1777
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | INFANTIS ",DISCOVERY KIDS
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/347
@@ -121,7 +121,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/347
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1715
 
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER
-http://xsrv.me:8080/fabiana123/123fabiana/24985
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1313
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/76
@@ -136,7 +136,7 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/351
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/353
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.pinimg.com/originals/9e/d2/f7/9ed2f72fed9425a791ac4eebab0c9093.png" group-title="CANAIS | INFANTIS ",DISNEY XD
-http://xsrv.me:8080/fabiana123/123fabiana/25060
+http://tv.meuserver.me:8080/665473/998445/184236
 
 #EXTINF:-1 tvg-id="DW ESPANHOL" tvg-name="DW ESPANHOL" tvg-logo="https://dwactive.files.wordpress.com/2015/04/dw-logo_circles_turq.png" group-title="CANAIS | VARIEDADES",DW ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -178,13 +178,13 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://tv.meuserver.me:8080/665473/998445/337436
 
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="CANAIS | VARIEDADES",FILM & ARTS
-http://xsrv.me:8080/fabiana123/123fabiana/25197
+
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="CANAIS | VARIEDADES",FISH TV
 http://tv.meuserver.me:8080/665473/998445/207701
 
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK
-http://xsrv.me:8080/fabiana123/123fabiana/25131
+http://tv.meuserver.me:8080/665473/998445/184309
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2
 http://tv.meuserver.me:8080/665473/998445/207705
@@ -199,13 +199,13 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1319
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1322
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | SINAL ABERTO",GLOBO SP
-http://xsrv.me:8080/fabiana123/123fabiana/30675
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/102
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbo2etQPT7KaBK7z3Zd0WMoP96jjjZ1GcOA&usqp=CAU" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
-http://xsrv.me:8080/fabiana123/123fabiana/24485
+http://tv.meuserver.me:8080/665473/998445/184273
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="CANAIS | INFANTIS ",GLOOB
-http://xsrv.me:8080/fabiana123/123fabiana/25073
+http://tv.meuserver.me:8080/665473/998445/184145
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="CANAIS | INFANTIS ",GLOOBINHO
 http://tv.meuserver.me:8080/665473/998445/184239
@@ -229,19 +229,19 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1330
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1550
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyhylkMh12QLIYQue1RJB1rznESNif0AYTg&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE
-http://xsrv.me:8080/fabiana123/123fabiana/24758
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1329
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://i2.wp.com/associacaoneo.com.br/wp-content/uploads/2020/06/0000_all_l_hboall-HBO-XTREME-Black.png?fit=1338%2C1317&ssl=1" group-title="CANAIS | FILMES E SÉRIES",HBO XTREME
-http://xsrv.me:8080/fabiana123/123fabiana/33511
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1331
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ832RNQn3bTlpF6Tyq13ghhjQAHtAsZlkEvw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",HBO+
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/23
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2
-http://xsrv.me:8080/fabiana123/123fabiana/24737
+http://main.webhostingtoto.xyz:2095/NEW_LIVE3408907768/3649014945/247
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV
-http://xsrv.me:8080/fabiana123/123fabiana/29391
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/248
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2n7WiOITHqWJL0h0-IK5FQOXNXRIo5cAlg&usqp=CAU" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY
 http://tv.meuserver.me:8080/665473/998445/157816
@@ -294,7 +294,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1736
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1856
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 2
-http://xsrv.me:8080/fabiana123/123fabiana/24679
+http://tv.meuserver.me:8080/665473/998445/207740
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS | ESPORTES",PREMIERE 3
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1762
@@ -312,7 +312,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/316
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/317
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="CANAIS | ESPORTES",PREMIERE CLUBES
-http://xsrv.me:8080/fabiana123/123fabiana/24671
+http://tv.meuserver.me:8080/665473/998445/207753
 
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL
 http://tv.meuserver.me:8080/665473/998445/184320
@@ -333,7 +333,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1310604798.m3u8
 
 #EXTINF:-1 tvg-id="REDE GOSPEL" tvg-name="REDE GOSPEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH_F_C_7R-fSH2nYbgPEUTOHAlLfY1uRYCMQ&usqp=CAU" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL
-http://xsrv.me:8080/fabiana123/123fabiana/25204
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | SINAL ABERTO",REDE TV
 http://tv.meuserver.me:8080/665473/998445/184086
@@ -357,58 +357,58 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/64
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1766
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png"CANAIS | ESPORTES",SPORTV 2
-http://xsrv.me:8080/fabiana123/123fabiana/24620
+http://tv.meuserver.me:8080/665473/998445/207710
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1768
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR-CsuWkPtt1CQ-AHqLPmEncvp74QehONUrw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1547
 
 #EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/2560px-Star_Life_2021.svg.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE  
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1813
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL 
-http://xsrv.me:8080/fabiana123/123fabiana/24909 
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1537 
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://skytvplanos.com.br/img/channels/lg-46-canal-syfy.png" group-title="CANAIS | FILMES E SÉRIES",SYFY
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1866
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/500px-TBS_logo_2016.svg.png" group-title="CANAIS | FILMES E SÉRIES",TBS
-http://xsrv.me:8080/fabiana123/123fabiana/24919
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/32
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES E SÉRIES",TCM  
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/50
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HmrY619YTaNO4aD_W-rnC168WekAbNsRTGkwmJZBt3dfPOw&s" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION
-http://xsrv.me:8080/fabiana123/123fabiana/24763
+http://tv.meuserver.me:8080/665473/998445/207839
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT
-http://xsrv.me:8080/fabiana123/123fabiana/29901
+http://tv.meuserver.me:8080/665473/998445/207842
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.pinimg.com/originals/fa/90/df/fa90dffbbadbff35cc27f755f5efa476.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN
-http://xsrv.me:8080/fabiana123/123fabiana/24773
+http://tv.meuserver.me:8080/665473/998445/207845
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA
-http://xsrv.me:8080/fabiana123/123fabiana/24780
+http://tv.meuserver.me:8080/665473/998445/207848
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM
-http://xsrv.me:8080/fabiana123/123fabiana/24786
+http://tv.meuserver.me:8080/665473/998445/207851
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://skytvplanos.com.br/img/channels/lg-63-canal-tc-touch.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH
-http://xsrv.me:8080/fabiana123/123fabiana/24796
+http://tv.meuserver.me:8080/665473/998445/207854
 
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="CANAIS | SINAL ABERTO",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTkH2-IbZss8f9dkQfRb7nXU7muF3lsJeZyg4d3y5BctpbKFq&s" group-title="CANAIS | DOCUMENTÁRIOS",TLC
-http://xsrv.me:8080/fabiana123/123fabiana/29902
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2897
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOhsyMiiKW4lagcWg7yJ7fd6u-j7fIF1wcw&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",TNT
-http://xsrv.me:8080/fabiana123/123fabiana/24931 
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/104 
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES
-http://xsrv.me:8080/fabiana123/123fabiana/24937
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/40
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReE-eBPvnkFr8r10QU1iYlZ7G4wXZilBfmAA&usqp=CAU" group-title="CANAIS | INFANTIS ",TOONCAST
 http://tv.meuserver.me:8080/665473/998445/184251
@@ -420,7 +420,7 @@ http://tv.meuserver.me:8080/665473/998445/184326
 http://tv.meuserver.me:8080/665473/998445/184327
 
 #EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="TV APARECIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA
-http://xsrv.me:8080/fabiana123/123fabiana/25198
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1742
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-zGoPQhJK-DuACGd7830vflOxdiUzRwf6Q&usqp=CAU" group-title="CANAIS | SINAL ABERTO",TV BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1931722850.m3u8
@@ -443,23 +443,23 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 #EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-name="TV PAI ETERNO" tvg-logo="https://i.ibb.co/JBWn8S6/Pai-Eterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w761740709.m3u8
 
-#EXTINF:-1 tvg-id="TV RÁ TIM BUM" tvg-name="TV RÁ TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | INFANTIS ",TV RÁ TIM BUM
+#EXTINF:-1 tvg-id="TV RÁ TIM BUM" tvg-name="TV RÁ TIM BUM" tvg-logo="http://tvratimbum.cmais.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/banner-out-2020-1/logo.png" group-title="CANAIS | INFANTIS ",TV RÁ TIM BUM
 http://tv.meuserver.me:8080/665473/998445/184255
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="CANAIS | SINAL ABERTO",TV SENADO
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/208
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV
-http://xsrv.me:8080/fabiana123/123fabiana/24941
+
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA
-http://xsrv.me:8080/fabiana123/123fabiana/25155
+http://tv.meuserver.me:8080/665473/998445/184333
  
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL
-http://xsrv.me:8080/fabiana123/123fabiana/24952
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1542
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdalPoOpkQlT3YRoYpE-VCC5W_FUYH054skw&usqp=CAU" group-title="CANAIS | VARIEDADES",WOOHOO
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/150
 
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS ",ZOOMOO
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2020/03/ZooMoo-Kids_Favicon-2020-300x300-1-150x150.png" group-title="CANAIS | INFANTIS ",ZOOMOO
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1881
