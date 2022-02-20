@@ -106,7 +106,10 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/100
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/821
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="CANAIS | ESPORTES",DAZN 2
-http://xsrv.me:8080/fabiana123/123fabiana/85984
+http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/823
+
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="CANAIS | ESPORTES",DAZN 3
+http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/824
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/65
@@ -250,10 +253,10 @@ http://tv.meuserver.me:8080/665473/998445/157816
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/123
 
 #EXTINF:-1 tvg-id="ID - INVESTIGAÇÃO DISCOVERY" tvg-name=" ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS | FILMES E SÉRIES",ID - INVESTIGAÇÃO DISCOVERY
-http://xsrv.me:8080/fabiana123/123fabiana/24996
+
 
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="CANAIS | VARIEDADES",LIFETIME
-http://xsrv.me:8080/fabiana123/123fabiana/24867
+
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHEhI5vqWL2Y5Lzf-x5hJoRSXRlz4hjzFpg&usqp=CAU" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1779
@@ -367,6 +370,9 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1547
 
 #EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/2560px-Star_Life_2021.svg.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE  
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1813
+
+#EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="CANAIS | ESPORTES",STAR+
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/341
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1537 
