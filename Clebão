@@ -290,7 +290,7 @@ http://tv.meuserver.me:8080/665473/998445/184247
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AW961f-6Mj0xGvZmVcb5xIiOtqjUSYdeRw&usqp=CAU" group-title="INFANTIS",NICKELODEON
 http://tv.meuserver.me:8080/665473/998445/184250
 
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png"ESPORTES",OFF
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="ESPORTES",OFF  
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1736
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org//wikipedia/commons/thumb/9/9d/Paramount_Network_%28Blue%29_Logo.png/200px-Paramount_Network_%28Blue%29_Logo.png" group-title="FILMES E SÉRIES",PARAMOUNT NETWORK
