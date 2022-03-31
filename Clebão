@@ -18,6 +18,12 @@ http://tv.meuserver.me:8080/665473/998445/184291
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvtiW60JQfTCiEZIraSJBBTYEv_N0ApTBCg&usqp=CAU" group-title="FILMES E SÉRIES",AXN
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1306
 
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWqcJ2zDRbUT_Za5WBPd4E_4sc1RZmnaq3Q&usqp=CAU" group-title="pay per view",BBB
+http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/943
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWqcJ2zDRbUT_Za5WBPd4E_4sc1RZmnaq3Q&usqp=CAU" group-title="pay per view",BBB
+http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/944
+
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIS",BABY TV
 http://tv.meuserver.me:8080/665473/998445/184218
 
@@ -136,7 +142,7 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/78
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/351
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png" group-title="INFANTIS",DISNEY JUNIOR
-http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/353
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2145
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.pinimg.com/originals/9e/d2/f7/9ed2f72fed9425a791ac4eebab0c9093.png" group-title="INFANTIS",DISNEY XD
 http://tv.meuserver.me:8080/665473/998445/184236
@@ -330,7 +336,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvsp.png" group-title="SINAL ABERTO",RECORD SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+http://85.17.77.81:8080/HomeBlive5994597556/9849005236/202
 
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="RELIGIOSOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1310604798.m3u8
