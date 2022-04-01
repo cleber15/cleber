@@ -52,7 +52,7 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/486
 http://tv.meuserver.me:8080/665473/998445/184072
 
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-name="CANAL SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU" group-title="FILMES E SÉRIES",CANAL SONY
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1342
+http://50.7.34.155:2201/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSOS",CANÇÃO NOVA
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/97
@@ -145,7 +145,7 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/351
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2145
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.pinimg.com/originals/9e/d2/f7/9ed2f72fed9425a791ac4eebab0c9093.png" group-title="INFANTIS",DISNEY XD
-http://tv.meuserver.me:8080/665473/998445/184236
+http://50.7.34.155:2201/BR/disneyxd-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="DW ESPANHOL" tvg-name="DW ESPANHOL" tvg-logo="https://dwactive.files.wordpress.com/2015/04/dw-logo_circles_turq.png" group-title="VARIEDADES",DW ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -202,7 +202,7 @@ http://50.7.34.155:2200/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCn
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2899
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1319
+http://50.7.34.155:2201/BR/FX_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO RJ
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1322
@@ -217,16 +217,16 @@ http://tv.meuserver.me:8080/665473/998445/184273
 http://tv.meuserver.me:8080/665473/998445/184145
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIS",GLOOBINHO
-http://tv.meuserver.me:8080/665473/998445/184239
+http://50.7.34.155:2201/BR/GLOOBINHO_-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT
 http://tv.meuserver.me:8080/665473/998445/184312
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHdpy7bXdjn8uyMlD9CrIOcwDgaH1KZUgeg&usqp=CAU" group-title="FILMES E SÉRIES",HBO
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1837
+http://50.7.34.155:2201/BR/HBO_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="FILMES E SÉRIES",HBO FAMILY
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/21
+http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="ESPORTES",HBO MAX
 http://tv.meuserver.me:8080/665473/998445/337416
@@ -238,16 +238,16 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1330
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1550
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyhylkMh12QLIYQue1RJB1rznESNif0AYTg&usqp=CAU" group-title="FILMES E SÉRIES",HBO SIGNATURE
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1329
+http://50.7.34.155:2201/BR/HBO_Signature_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://i2.wp.com/associacaoneo.com.br/wp-content/uploads/2020/06/0000_all_l_hboall-HBO-XTREME-Black.png?fit=1338%2C1317&ssl=1" group-title="FILMES E SÉRIES",HBO XTREME
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1331
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ832RNQn3bTlpF6Tyq13ghhjQAHtAsZlkEvw&usqp=CAU" group-title="FILMES E SÉRIES",HBO+
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/23
+http://50.7.34.155:2201/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="FILMES E SÉRIES",HBO 2
-http://main.webhostingtoto.xyz:2095/NEW_LIVE3408907768/3649014945/247
+http://50.7.34.155:2201/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS",HGTV
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/248
@@ -265,7 +265,7 @@ http://tv.meuserver.me:8080/665473/998445/157640
 
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHEhI5vqWL2Y5Lzf-x5hJoRSXRlz4hjzFpg&usqp=CAU" group-title="FILMES E SÉRIES",MEGAPIX
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1779
+http://50.7.34.155:2201/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="MODO VIAGEM" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/400px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",MODO VIAGEM
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/139
@@ -384,13 +384,13 @@ http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MT
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/341
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1537 
+http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull 
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://skytvplanos.com.br/img/channels/lg-46-canal-syfy.png" group-title="FILMES E SÉRIES",SYFY
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1866
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/500px-TBS_logo_2016.svg.png" group-title="FILMES E SÉRIES",TBS
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/32
+http://50.7.34.155:2201/BR/TBS_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SÉRIES",TCM  
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/50
@@ -399,19 +399,19 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/50
 http://tv.meuserver.me:8080/665473/998445/207839
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="FILMES E SÉRIES",TELECINE CULT
-http://tv.meuserver.me:8080/665473/998445/207842
+http://50.7.34.155:2201/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.pinimg.com/originals/fa/90/df/fa90dffbbadbff35cc27f755f5efa476.png" group-title="FILMES E SÉRIES",TELECINE FUN
-http://tv.meuserver.me:8080/665473/998445/207845
+http://50.7.34.155:2201/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA
-http://tv.meuserver.me:8080/665473/998445/207848
+http://50.7.34.155:2201/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM
-http://tv.meuserver.me:8080/665473/998445/207851
+http://50.7.34.155:2201/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://skytvplanos.com.br/img/channels/lg-63-canal-tc-touch.png" group-title="FILMES E SÉRIES",TELECINE TOUCH
-http://tv.meuserver.me:8080/665473/998445/207854
+http://50.7.34.155:2201/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="SINAL ABERTO",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
@@ -465,7 +465,7 @@ http://tv.meuserver.me:8080/665473/998445/184255
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/208
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="FILMES E SÉRIES",UNIVERSAL TV
-
+http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="VARIEDADES",VIVA
 http://tv.meuserver.me:8080/665473/998445/184333
