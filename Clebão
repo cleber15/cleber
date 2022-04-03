@@ -186,9 +186,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="FCF TV" tvg-name="FCF TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Fl9uFcnrndltF3nmZHM9MDEn3RkoSeTscQ&usqp=CAU" group-title="ESPORTES",FCF TV
 http://tv.meuserver.me:8080/665473/998445/337436
 
-#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="VARIEDADES",FILM & ARTS
-
-
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="VARIEDADES",FISH TV
 http://tv.meuserver.me:8080/665473/998445/207701
 
@@ -259,10 +256,10 @@ http://tv.meuserver.me:8080/665473/998445/157816
 http://tv.meuserver.me:8080/665473/998445/157640
 
 #EXTINF:-1 tvg-id="ID - INVESTIGAÇÃO DISCOVERY" tvg-name=" ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="FILMES E SÉRIES",ID - INVESTIGAÇÃO DISCOVERY
-
+http://pfsv.io:80/07720253/51853/190
 
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME
-
+http://pfsv.io:80/07720253/51853/309
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHEhI5vqWL2Y5Lzf-x5hJoRSXRlz4hjzFpg&usqp=CAU" group-title="FILMES E SÉRIES",MEGAPIX
 http://50.7.34.155:2201/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
@@ -286,6 +283,7 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/351
 http://tv.meuserver.me:8080/665473/998445/157694
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://www.nationalgeographicbrasil.com/images/logo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+http://pfsv.io:80/07720253/51853/191
 
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-name="NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="VARIEDADES",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -327,7 +325,7 @@ http://pfsv.io:80/9690096860/3170/529
 http://pfsv.io:80/9690096860/3170/30290
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="ESPORTES",PREMIERE CLUBES
-http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://pfsv.io:80/07720253/51853/537
 
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://tv.meuserver.me:8080/665473/998445/184320
@@ -384,7 +382,7 @@ http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe
 http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/341
+http://tv.meuserver.me:8080/665473/998445/337439
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull 
