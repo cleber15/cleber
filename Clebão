@@ -205,10 +205,10 @@ http://85.17.77.81:8080/HomeBlive5994597556/9849005236/2899
 http://50.7.34.155:2201/BR/FX_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO RJ
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/1322
+http://45.224.115.214:8080/mirella/123/480
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO SP
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/102
+http://45.224.115.214:8080/mirella/123/484
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbo2etQPT7KaBK7z3Zd0WMoP96jjjZ1GcOA&usqp=CAU" group-title="NOTÍCIAS",GLOBO NEWS
 http://tv.meuserver.me:8080/665473/998445/184273
@@ -296,6 +296,12 @@ http://tv.meuserver.me:8080/665473/998445/184247
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AW961f-6Mj0xGvZmVcb5xIiOtqjUSYdeRw&usqp=CAU" group-title="INFANTIS",NICKELODEON
 http://tv.meuserver.me:8080/665473/998445/184250
 
+#EXTINF:-1 tvg-id="NORDESTE FC" tvg-name="NORDESTE FC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYNV4cAEJQ6jBrpHRAr8i0J1h2yK_bVOFAQ&usqp=CAU" group-title="ESPORTES",NORDESTE FC
+http://45.224.115.214:8080/mirella/123/555
+
+#EXTINF:-1 tvg-id="NORDESTE FC 2" tvg-name="NORDESTE FC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYNV4cAEJQ6jBrpHRAr8i0J1h2yK_bVOFAQ&usqp=CAU" group-title="ESPORTES",NORDESTE FC 2
+http://45.224.115.214:8080/mirella/123/556
+
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="ESPORTES",OFF  
 http://50.7.34.155:2201/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
@@ -355,9 +361,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="SINAL ABERTO",SBT
 http://tv.meuserver.me:8080/665473/998445/207868
-
-#EXTINF:-1 tvg-id="TV JORNAL RECIFE (SBT)" tvg-name="TV JORNAL RECIFE (SBT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU7ZkuYErjESEpMDrkWfla-ygQ11hnClweQ6fQYnCmyNvI8OqBff1Ky0&s=10" group-title="SINAL ABERTO",TV JORNAL RECIFE (SBT)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1048568750600019970/xgPKge8K.jpg" group-title="VARIEDADES",SIC INTERNACIONAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
@@ -443,14 +446,20 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1931722850.m3u8
 #EXTINF:-1 tvg-id="TV CÂMARA" tvg-name="TV CÂMARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYO8727LrhuO66ztamFX5M3Z-57-7ITN8pvw&usqp=CAU" group-title="SINAL ABERTO",TV CÂMARA
 http://tv.meuserver.me:8080/665473/998445/184100
 
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="SINAL ABERTO",TV ESCOLA
-http://tv.meuserver.me:8080/665473/998445/184110
-
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/400px-Cultura_logo_2013.svg.png" group-title="SINAL ABERTO",TV CULTURA
 http://tv.meuserver.me:8080/665473/998445/184073
 
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://2.bp.blogspot.com/-bzMKb4EFFvw/W5FM9DuNeUI/AAAAAAAAQKk/MXUHxJxSU7Um95KvfRIC29bBr9ehJICeQCLcBGAs/s1600/tv-diario-bleez.png" group-title="SINAL ABERTO",TV DIÁRIO
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/231
+
+#EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="SINAL ABERTO",TV ESCOLA
+http://tv.meuserver.me:8080/665473/998445/184110
+
+#EXTINF:-1 tvg-id="TV JANGADEIRO (SBT)" tvg-name="TV JANGADEIRO (SBT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDcWVJpVF1e8A9VCTdJ_lm4W9uwRqNQnHRA&usqp=CAU" group-title="SINAL ABERTO",TV JANGADEIRO (SBT)
+http://45.224.115.214:8080/mirella/123/405
+
+#EXTINF:-1 tvg-id="TV JORNAL RECIFE (SBT)" tvg-name="TV JORNAL RECIFE (SBT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU7ZkuYErjESEpMDrkWfla-ygQ11hnClweQ6fQYnCmyNvI8OqBff1Ky0&s=10" group-title="SINAL ABERTO",TV JORNAL RECIFE (SBT)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TV NOVO TEMPO" tvg-name="TV NOVO TEMPO" tvg-logo="http://1.bp.blogspot.com/-h9_CkH7QJXI/VEAb0dcWxWI/AAAAAAAAAuM/ylmZcAxl9lg/s320/novotempo.jpg" group-title="RELIGIOSOS",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
