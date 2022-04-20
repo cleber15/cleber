@@ -57,12 +57,6 @@ http://50.7.34.155:2201/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndp
 #EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSOS",CANÇÃO NOVA
 http://tv.meuserver.me:8080/665473/998445/184284
 
-#EXTINF:-1 tvg-id="CARIOCÃO 2"tvg-name="CARIOCÃO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/5007
-
-#EXTINF:-1 tvg-id="CARIOCÃO 2 2"tvg-name="CARIOCÃO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGvoeSTX_4zC7OU-mANBBZA9yZnuDzupikQ&usqp=CAU" group-title="ESPORTES",CARIOCÃO 2
-http://main.webhostingtoto.xyz:2095/NEW_LIVE3408907768/3649014945/987
-
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://img2.gratispng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="INFANTIS",CARTOON NETWORK
 http://tv.meuserver.me:8080/665473/998445/184224
 
@@ -333,6 +327,12 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14365
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://tv.meuserver.me:8080/665473/998445/184320
 
+#EXTINF:-1 tvg-id="PRIME VIDEO" tvg-name="PRIME VIDEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPleqQWbIY7UZIFqfTsYGwLvJhD-ytq599lA&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
+
+#EXTINF:-1 tvg-id="PRIME VIDEO 2" tvg-name="PRIME VIDEO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPleqQWbIY7UZIFqfTsYGwLvJhD-ytq599lA&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 2
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56341
+
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48559
 
@@ -382,7 +382,19 @@ http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe
 http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+
-http://tv.meuserver.me:8080/665473/998445/337439
+http://cdnrede.com:80/rai/rai2021/214656
+
+#EXTINF:-1 tvg-id="STAR+ 2" tvg-name="STAR+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 2
+http://cdnrede.com:80/rai/rai2021/214659
+
+#EXTINF:-1 tvg-id="STAR+ 3" tvg-name="STAR+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 3
+http://cdnrede.com:80/rai/rai2021/214660
+
+#EXTINF:-1 tvg-id="STAR+ 4" tvg-name="STAR+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 4
+http://cdnrede.com:80/rai/rai2021/221853
+
+#EXTINF:-1 tvg-id="STAR+ 5" tvg-name="STAR+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 5
+http://cdnrede.com:80/rai/rai2021/221854
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull 
