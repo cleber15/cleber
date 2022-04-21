@@ -82,7 +82,7 @@ http://tv.meuserver.me:8080/665473/998445/184261
 http://85.17.77.81:8080/HomeBlive5994597556/9849005236/185
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="ESPORTES",COMBATE
-http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14353
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsnflehk9iXp0RWasuLTve72B4JhT145oJg&usqp=CAU" group-title="VARIEDADES",COMEDY CENTRAL
 http://50.7.34.155:2201/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
@@ -298,7 +298,7 @@ http://45.224.115.214:8080/mirella/123/555
 http://45.224.115.214:8080/mirella/123/556
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="ESPORTES",OFF  
-http://50.7.34.155:2201/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14363
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org//wikipedia/commons/thumb/9/9d/Paramount_Network_%28Blue%29_Logo.png/200px-Paramount_Network_%28Blue%29_Logo.png" group-title="FILMES E SÉRIES",PARAMOUNT NETWORK
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14402
@@ -333,6 +333,9 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
 #EXTINF:-1 tvg-id="PRIME VIDEO 2" tvg-name="PRIME VIDEO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPleqQWbIY7UZIFqfTsYGwLvJhD-ytq599lA&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 2
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56341
 
+#EXTINF:-1 tvg-id="PRIME VIDEO 3" tvg-name="PRIME VIDEO 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPleqQWbIY7UZIFqfTsYGwLvJhD-ytq599lA&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 3
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56338
+
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48559
 
@@ -349,7 +352,7 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1310604
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="SINAL ABERTO",REDE TV
-http://tv.meuserver.me:8080/665473/998445/184086
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48553
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",REDE VIDA
 http://51.89.98.62:8080/japones/japones/62
@@ -382,19 +385,13 @@ http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe
 http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
 #EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+
-http://cdnrede.com:80/rai/rai2021/214656
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56339
 
 #EXTINF:-1 tvg-id="STAR+ 2" tvg-name="STAR+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 2
-http://cdnrede.com:80/rai/rai2021/214659
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
 
 #EXTINF:-1 tvg-id="STAR+ 3" tvg-name="STAR+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 3
-http://cdnrede.com:80/rai/rai2021/214660
-
-#EXTINF:-1 tvg-id="STAR+ 4" tvg-name="STAR+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 4
-http://cdnrede.com:80/rai/rai2021/221853
-
-#EXTINF:-1 tvg-id="STAR+ 5" tvg-name="STAR+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+ 5
-http://cdnrede.com:80/rai/rai2021/221854
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56341
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull 
@@ -460,7 +457,7 @@ http://tv.meuserver.me:8080/665473/998445/184100
 http://tv.meuserver.me:8080/665473/998445/184073
 
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://2.bp.blogspot.com/-bzMKb4EFFvw/W5FM9DuNeUI/AAAAAAAAQKk/MXUHxJxSU7Um95KvfRIC29bBr9ehJICeQCLcBGAs/s1600/tv-diario-bleez.png" group-title="SINAL ABERTO",TV DIÁRIO
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZY5_yaBr4R7zd8EftI180Hss7modjK133_nnChOCyLPZ)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48558
 
 #EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="SINAL ABERTO",TV ESCOLA
 http://tv.meuserver.me:8080/665473/998445/184110
