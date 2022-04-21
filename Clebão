@@ -214,19 +214,13 @@ http://50.7.34.155:2201/BR/HBO_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXp
 http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="ESPORTES",HBO MAX
-http://cdnrede.com:80/rai/rai2021/214664
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56336
 
 #EXTINF:-1 tvg-id="HBO MAX 2" tvg-name="HBO MAX 2" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="ESPORTES",HBO MAX 2
-http://cdnrede.com:80/rai/rai2021/214665
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56337
 
 #EXTINF:-1 tvg-id="HBO MAX 3" tvg-name="HBO MAX 3" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="ESPORTES",HBO MAX 3
-http://cdnrede.com:80/rai/rai2021/214666
-
-#EXTINF:-1 tvg-id="HBO MAX 4" tvg-name="HBO MAX 4" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="ESPORTES",HBO MAX 4
-http://cdnrede.com:80/rai/rai2021/221855
-
-#EXTINF:-1 tvg-id="HBO MAX 5" tvg-name="HBO MAX 5" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="ESPORTES",HBO MAX 5
-http://cdnrede.com:80/rai/rai2021/221856
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56338
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzV6xHGS1VJCd2RnJcoad1MJgsdOHy0eprp6WIuk8_pXCHXzE&s" group-title="FILMES E SÉRIES",HBO MUNDI
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14393
