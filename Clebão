@@ -19,10 +19,10 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14559
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14398
 
 #EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWqcJ2zDRbUT_Za5WBPd4E_4sc1RZmnaq3Q&usqp=CAU" group-title="pay per view",BBB
-http://51.222.249.13:80/Kei77la/k22g07C77/416522
+http://b5.vc:80/022773/J2AUU4/146839.ts
 
 #EXTINF:-1 tvg-id="BBB MOSAICO Multi CÂMERAS" tvg-name="BBB MOSAICO MULTI CÂMERAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWqcJ2zDRbUT_Za5WBPd4E_4sc1RZmnaq3Q&usqp=CAU" group-title="pay per view",BBB MOSAICO MULTI CÂMERAS
-http://51.222.249.13:80/Kei77la/k22g07C77/416517
+http://b5.vc:80/022773/J2AUU4/147207.ts
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIS",BABY TV
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14419
@@ -46,7 +46,7 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14397
 https://596639ebdd89b.streamlock.net:443/8032/8032/chunklist_w901284008.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="SINAL ABERTO",CANAL DO BOI
-http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/486
+http://b5.vc:80/022773/J2AUU4/103516.ts
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFZesFExO7qUYRVQaZ1P0Iemmqk4Czebbeg&usqp=CAU" group-title="SINAL ABERTO",CANAL RURAL
 http://tv.meuserver.me:8080/665473/998445/184072
@@ -61,13 +61,16 @@ http://tv.meuserver.me:8080/665473/998445/184284
 http://tv.meuserver.me:8080/665473/998445/184224
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://adnews.com.br/wp-content/uploads/2021/12/Cartoonito-Logo-02.png" group-title="INFANTIS",CARTOONITO
-http://50.7.34.155:2201/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://b5.vc:80/022773/J2AUU4/71813.ts
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJPoMhfM9xU9BlKhy1XaPTTOhY3uSAoXMcQ&usqp=CAU" group-title="NOTÍCIAS",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://spng.pngfind.com/pngs/s/287-2871635_cinecanal-logo-hd-png-download.png" group-title="FILMES E SÉRIES",CINECANAL 
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14380
+
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://skytvplanos.com.br/img/channels/lg-56-canal-cinemax.png" group-title="FILMES E SÉRIES",CINEMAX
-http://50.7.34.155:2201/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://b5.vc:80/022773/J2AUU4/71834.ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="NOTÍCIAS",CNN BRASIL
 http://tv.meuserver.me:8080/665473/998445/184267
@@ -79,13 +82,13 @@ http://tv.meuserver.me:8080/665473/998445/184264
 http://tv.meuserver.me:8080/665473/998445/184261
 
 #EXTINF:-1 tvg-id="CNT" tvg-name="CNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GkrKxNnFhRVf_FhuDN9HfBHEJ5Sk5UqI4w&usqp=CAU" group-title="RELIGIOSOS",CNT
-http://85.17.77.81:8080/HomeBlive5994597556/9849005236/185
+http://api.magiaiptv.com/live/800338/585505/m1_QwqszWbcprjy0LUWRBAM_720p
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="ESPORTES",COMBATE
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14353
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsnflehk9iXp0RWasuLTve72B4JhT145oJg&usqp=CAU" group-title="VARIEDADES",COMEDY CENTRAL
-http://50.7.34.155:2201/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://b5.vc:80/022773/J2AUU4/71848.ts
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 1
 http://51.89.98.62:8080/japones/japones/18835
@@ -156,21 +159,6 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14358
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="ESPORTES",ESPN EXTRA
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14357
 
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS - O Melhor da Champions League" tvg-name="ESTÁDIO TNT SPORTS - O Melhor da Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="ESPORTES",ESTÁDIO TNT SPORTS - O Melhor da Champions League
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS - Melhores Momentos" tvg-name="ESTÁDIO TNT SPORTS - Melhores Momentos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="ESPORTES",ESTÁDIO TNT SPORTS - Melhores Momentos
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS - Programação Estádio TNT Sports" tvg-name="ESTÁDIO TNT SPORTS - Programação Estádio TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="ESPORTES",ESTÁDIO TNT SPORTS - Programação Estádio TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS - Originais TNT Sports" tvg-name="ESTÁDIO TNT SPORTS - Originais TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="ESPORTES",ESTÁDIO TNT SPORTS - Originais TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="ESTÁDIO TNT SPORTS" tvg-name="ESTÁDIO TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysq11cXpN6fvmeo216M-8MlGL918X2DNGnQ&usqp=CAU" group-title="ESPORTES",ESTÁDIO TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="VARIEDADES",FISH TV
 http://tv.meuserver.me:8080/665473/998445/207701
 
@@ -184,7 +172,7 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14359
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14560
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX
-http://50.7.34.155:2201/BR/FX_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://b5.vc:80/022773/J2AUU4/71967.ts
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO RJ
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48531
@@ -205,10 +193,10 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14421
 http://tv.meuserver.me:8080/665473/998445/184312
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHdpy7bXdjn8uyMlD9CrIOcwDgaH1KZUgeg&usqp=CAU" group-title="FILMES E SÉRIES",HBO
-http://50.7.34.155:2201/BR/HBO_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://pfsv.io:80/07720253/51853/471
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="FILMES E SÉRIES",HBO FAMILY
-http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://b5.vc:80/022773/J2AUU4/90637.ts
 
 #EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://pbs.twimg.com/profile_images/1487093941929484294/jUmr17-g_400x400.jpg" group-title="ESPORTES",HBO MAX
 http://api.magiaiptv.com/live/800338/585505/m2_N44ZDspEYyjOq881vt39l_720p
@@ -232,16 +220,16 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14393
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14394
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyhylkMh12QLIYQue1RJB1rznESNif0AYTg&usqp=CAU" group-title="FILMES E SÉRIES",HBO SIGNATURE
-http://50.7.34.155:2201/BR/HBO_Signature_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://b5.vc:80/022773/J2AUU4/103494.ts
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://i2.wp.com/associacaoneo.com.br/wp-content/uploads/2020/06/0000_all_l_hboall-HBO-XTREME-Black.png?fit=1338%2C1317&ssl=1" group-title="FILMES E SÉRIES",HBO XTREME
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14395
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ832RNQn3bTlpF6Tyq13ghhjQAHtAsZlkEvw&usqp=CAU" group-title="FILMES E SÉRIES",HBO+
-http://50.7.34.155:2201/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14390
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="FILMES E SÉRIES",HBO 2
-http://50.7.34.155:2201/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://pfsv.io:80/07720253/51853/470?md5=null
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS",HGTV
 http://51.89.98.62:8080/japones/japones/193
@@ -262,19 +250,16 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14446
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14401
 
 #EXTINF:-1 tvg-id="MODO VIAGEM" tvg-name="MODO VIAGEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/400px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",MODO VIAGEM
-http://51.89.98.62:8080/japones/japones/117
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14557
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMrTQdn6LTIH8tGyX4dqga5Exw0N5iynwcMlRMOgWLGl4WCY&s" group-title="VARIEDADES",MTV
-http://tv.meuserver.me:8080/665473/998445/267629
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14425
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://pbs.twimg.com/profile_images/1486037529317068802/m-F2h3zW_400x400.jpg" group-title="VARIEDADES",MULTISHOW
 http://tv.meuserver.me:8080/665473/998445/292162
 
 #EXTINF:-1 tvg-id="MUSIC BOX BRAZIL" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nM3n5otBS-pGuXeZIMxDUszaotc6RIZIFA&usqp=CAU" group-title="VARIEDADES",MUSIC BOX BRAZIL
 http://51.89.98.62:8080/japones/japones/48343
-
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD
-http://tv.meuserver.me:8080/665473/998445/157694
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://www.nationalgeographicbrasil.com/images/logo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14427
@@ -318,15 +303,6 @@ http://b5.vc:80/022773/J2AUU4/72264.ts
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://tv.meuserver.me:8080/665473/998445/184320
 
-#EXTINF:-1 tvg-id="PRIME VIDEO" tvg-name="PRIME VIDEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPleqQWbIY7UZIFqfTsYGwLvJhD-ytq599lA&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
-
-#EXTINF:-1 tvg-id="PRIME VIDEO 2" tvg-name="PRIME VIDEO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPleqQWbIY7UZIFqfTsYGwLvJhD-ytq599lA&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 2
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56341
-
-#EXTINF:-1 tvg-id="PRIME VIDEO 3" tvg-name="PRIME VIDEO 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPleqQWbIY7UZIFqfTsYGwLvJhD-ytq599lA&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 3
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56338
-
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48559
 
@@ -349,7 +325,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48553
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",REDE VIDA
-http://51.89.98.62:8080/japones/japones/62
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF:-1 tvg-id="RED BULL TV" tvg-name="RED BULL TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL._SY400_.jpg" group-title="ESPORTES",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -359,6 +335,9 @@ http://tv.meuserver.me:8080/665473/998445/207868
 
 #EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1048568750600019970/xgPKge8K.jpg" group-title="VARIEDADES",SIC INTERNACIONAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-id=" SMITHSONIAN CHANNEL" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Smithsonian_sun_logo_no_text.svg/1200px-Smithsonian_sun_logo_no_text.svg.png" group-title="VARIEDADES",SMITHSONIAN CHANNEL
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14429
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://pbs.twimg.com/profile_images/1450474890612576267/5OqcDL9-_400x400.jpg" group-title="FILMES E SÉRIES",SPACE
 http://b5.vc:80/022773/J2AUU4/72318.ts
@@ -373,22 +352,16 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14361
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14362
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL
-http://50.7.34.155:2201/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/2560px-Star_Life_2021.svg.png" group-title="FILMES E SÉRIES",STAR LIFE  
-http://50.7.34.155:2201/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-
-#EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",STAR+
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56339
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14379
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
-http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull 
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14406
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://skytvplanos.com.br/img/channels/lg-46-canal-syfy.png" group-title="FILMES E SÉRIES",SYFY
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14400
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/500px-TBS_logo_2016.svg.png" group-title="FILMES E SÉRIES",TBS
-http://50.7.34.155:2201/BR/TBS_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14449
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SÉRIES",TCM  
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14409
@@ -397,19 +370,19 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14409
 http://tv.meuserver.me:8080/665473/998445/207839
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="FILMES E SÉRIES",TELECINE CULT
-http://50.7.34.155:2201/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14387
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.pinimg.com/originals/fa/90/df/fa90dffbbadbff35cc27f755f5efa476.png" group-title="FILMES E SÉRIES",TELECINE FUN
-http://50.7.34.155:2201/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14386
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="FILMES E SÉRIES",TELECINE PIPOCA
-http://50.7.34.155:2201/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14384
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="FILMES E SÉRIES",TELECINE PREMIUM
-http://50.7.34.155:2201/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14383
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://skytvplanos.com.br/img/channels/lg-63-canal-tc-touch.png" group-title="FILMES E SÉRIES",TELECINE TOUCH
-http://50.7.34.155:2201/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14385
 
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="SINAL ABERTO",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
@@ -421,13 +394,37 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14442
 http://b5.vc:80/022773/J2AUU4/72376.ts 
 
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SÉRIES
-http://50.7.34.155:2201/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://b5.vc:80/022773/J2AUU4/72382.ts
+
+#EXTINF:-1 tvg-id="TNT SPORTS - O Melhor da Champions League" tvg-name="TNT SPORTS - O Melhor da Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS
+https://live.cdn.br.estadio.com/live/canal_01/playlist-1080p.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsaXZlLmNkbi5ici5lc3RhZGlvLmNvbSIsInVyaV9zdWIiOiIvbGl2ZS9jYW5hbF8wMSIsImp0aSI6IjlhZmYwYWI3LTI5OTctNDJkNS1iODc3LTY2Y2IyMzk5ZWZlOSIsImlhdCI6MTY1MDY0NTI2MSwibmJmIjoxNjUwNjQ1MjAxLCJleHAiOjE2NTA2ODg0NjEsImRpbmFtaWNvIjoxLCJ1c2VyX2lkIjoiY2RlYWZjZjgtY2JjYy00ODk3LTlkZDAtZTMzNWQ0YWU3ZTJmIn0.mujBdiRmxsjyv9scTrnFUcRuVzYuLo5edP2Xw7Q-fpk
+
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS
+https://live.cdn.br.estadio.com/live/canal_02/playlist-1080p.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsaXZlLmNkbi5ici5lc3RhZGlvLmNvbSIsInVyaV9zdWIiOiIvbGl2ZS9jYW5hbF8wMiIsImp0aSI6IjM1YWE3ZmRhLTc0ZDEtNDY2NC1hMzRjLTg4Mzc2MTNiMGZhMiIsImlhdCI6MTY1MDYzNzM3NCwibmJmIjoxNjUwNjM3MzE0LCJleHAiOjE2NTA2ODA1NzQsImRpbmFtaWNvIjoxLCJ1c2VyX2lkIjoiY2RlYWZjZjgtY2JjYy00ODk3LTlkZDAtZTMzNWQ0YWU3ZTJmIn0.Q86Wiku1H2gSaE68SjWnWKx-zFTzzjScDM5RPrL4UoQ
+
+#EXTINF:-1 tvg-id="TNT SPORTS - CORTES" tvg-name="TNT SPORTS - CORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - CORTES
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS - O Melhor da Champions League" tvg-name="TNT SPORTS - O Melhor da Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - O Melhor da Champions League
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS - Melhores Momentos" tvg-name="TNT SPORTS - Melhores Momentos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - Melhores Momentos
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS - Programação TNT Sports" tvg-name="TNT SPORTS - Programação TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",ESTÁDIO TNT SPORTS - Programação TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS - Originais TNT Sports" tvg-name="TNT SPORTS - Originais TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",ESTÁDIO TNT SPORTS - TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReE-eBPvnkFr8r10QU1iYlZ7G4wXZilBfmAA&usqp=CAU" group-title="INFANTIS",TOONCAST
-http://tv.meuserver.me:8080/665473/998445/184251
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14422
 
-#EXTINF:-1 tvg-id="TRAVEL BOX BRASIL" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel-276x300.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL
-http://tv.meuserver.me:8080/665473/998445/184326 
+#EXTINF:-1 tvg-id="TRAVEL BOX BRASIL" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/10/13122016/Logo_Travel-Box-Brazil.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL
+http://pfsv.io:80/07720253/51853/50882 
 
 #EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://cdn.mitvstatic.com/channels/br_trutv-1_m.png" group-title="VARIEDADES",TRUTV
 http://tv.meuserver.me:8080/665473/998445/184327
@@ -436,13 +433,13 @@ http://tv.meuserver.me:8080/665473/998445/184327
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15065
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-zGoPQhJK-DuACGd7830vflOxdiUzRwf6Q&usqp=CAU" group-title="SINAL ABERTO",TV BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1931722850.m3u8
+http://b5.vc:80/022773/J2AUU4/103463.ts
 
 #EXTINF:-1 tvg-id="TV CÂMARA" tvg-name="TV CÂMARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYO8727LrhuO66ztamFX5M3Z-57-7ITN8pvw&usqp=CAU" group-title="SINAL ABERTO",TV CÂMARA
-http://tv.meuserver.me:8080/665473/998445/184100
+http://b5.vc:80/022773/J2AUU4/72403.ts
 
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/400px-Cultura_logo_2013.svg.png" group-title="SINAL ABERTO",TV CULTURA
-http://tv.meuserver.me:8080/665473/998445/184073
+http://b5.vc:80/022773/J2AUU4/103513.ts
 
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://2.bp.blogspot.com/-bzMKb4EFFvw/W5FM9DuNeUI/AAAAAAAAQKk/MXUHxJxSU7Um95KvfRIC29bBr9ehJICeQCLcBGAs/s1600/tv-diario-bleez.png" group-title="SINAL ABERTO",TV DIÁRIO
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48558
@@ -466,7 +463,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w7
 http://tv.meuserver.me:8080/665473/998445/184255
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="SINAL ABERTO",TV SENADO
-http://cdnrede.com:80/rai/rai2021/177946
+http://b5.vc:80/022773/J2AUU4/72416.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="FILMES E SÉRIES",UNIVERSAL TV
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14403
