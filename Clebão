@@ -448,7 +448,7 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48558
 http://tv.meuserver.me:8080/665473/998445/184110
 
 #EXTINF:-1 tvg-id="TV JANGADEIRO (SBT)" tvg-name="TV JANGADEIRO (SBT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDcWVJpVF1e8A9VCTdJ_lm4W9uwRqNQnHRA&usqp=CAU" group-title="SINAL ABERTO",TV JANGADEIRO (SBT)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w625745444_b1000000.m3u8
+http://b5.vc:80/022773/J2AUU4/100417.ts
 
 #EXTINF:-1 tvg-id="TV JORNAL RECIFE (SBT)" tvg-name="TV JORNAL RECIFE (SBT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU7ZkuYErjESEpMDrkWfla-ygQ11hnClweQ6fQYnCmyNvI8OqBff1Ky0&s=10" group-title="SINAL ABERTO",TV JORNAL RECIFE (SBT)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
