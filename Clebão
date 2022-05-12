@@ -297,8 +297,20 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36948
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14407
 
-#EXTINF:-1 tvg-id="PRIME VIDEO" tvg-name="PRIME VIDEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO
+#EXTINF:-1 tvg-id="PRIME VIDEO - COPA DO BRASIL" tvg-name="PRIME VIDEO - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO - COPA DO BRASIL
 http://b5.vc:80/0672648180/fireurl.co/105789.ts
+
+#EXTINF:-1 tvg-id="PRIME VIDEO - COPA DO BRASIL" tvg-name="PRIME VIDEO - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO - COPA DO BRASIL
+http://cms.trenduhd.xyz:80/daniel2022/2022daniel/299403
+
+#EXTINF:-1 tvg-id="PRIME VIDEO - COPA DO BRASIL" tvg-name="PRIME VIDEO - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO - COPA DO BRASIL
+http://cms.trenduhd.xyz:80/daniel2022/2022daniel/299402
+
+#EXTINF:-1 tvg-id="PRIME VIDEO - COPA DO BRASIL FHD" tvg-name="PRIME VIDEO - COPA DO BRASIL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO - COPA DO BRASIL FHD
+http://b5.vc:80/0672648180/fireurl.co/150498.ts
+
+#EXTINF:-1 tvg-id="PRIME VIDEO - COPA DO BRASIL HD" tvg-name="PRIME VIDEO - COPA DO BRASIL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO - COPA DO BRASIL HD
+http://b5.vc:80/0672648180/fireurl.co/150499.ts
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48559
@@ -399,7 +411,7 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14374
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SÉRIES
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14375
 
-#EXTINF:-1 tvg-id="TNT SPORTS - CORTES" tvg-name="TNT SPORTS - CORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - CORTES
+#EXTINF:-1 tvg-id="TNT SPORTS - Cortes" tvg-name="TNT SPORTS - Cortes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - Cortes
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS - O Melhor da Champions League" tvg-name="TNT SPORTS - O Melhor da Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - O Melhor da Champions League
@@ -408,7 +420,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS - Melhores Momentos" tvg-name="TNT SPORTS - Melhores Momentos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - Melhores Momentos
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="TNT SPORTS - EURO MELHORES MOMENTOS" tvg-name="TNT SPORTS - EURO MELHORES MOMENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - EURO MELHORES MOMENTOS
+#EXTINF:-1 tvg-id="TNT SPORTS - Euro Melhores  Momentos" tvg-name="TNT SPORTS - Euro Melhores Momentos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2ljkGxAhiksn9SHYjnVtaBSz1vpOk3ds1g&usqp=CAU" group-title="ESPORTES",TNT SPORTS - Euro Melhores Momentos
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReE-eBPvnkFr8r10QU1iYlZ7G4wXZilBfmAA&usqp=CAU" group-title="INFANTIS",TOONCAST
