@@ -85,16 +85,16 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14353
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14405
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 1
-http://51.89.98.62:8080/japones/japones/18835
+http://pfsv.io:80/07720253/51853/65585
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 2 2"tvg-name="CONMEBOL TV 2 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 2
-http://51.89.98.62:8080/japones/japones/18836
+http://pfsv.io:80/07720253/51853/65586
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 3
-http://51.89.98.62:8080/japones/japones/18837
+http://pfsv.io:80/07720253/51853/65587
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 4
-http://51.89.98.62:8080/japones/japones/18838
+http://pfsv.io:80/07720253/51853/65588
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA!" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",CURTA!
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14561
@@ -103,10 +103,16 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14561
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/58130
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
+http://b5.vc:80/0672648180/fireurl.co/71860.ts
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
 http://pfsv.io:80/07720253/51853/504
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 2
-http://api.magiaiptv.com/live/800338/585505/p2_dazn2hd
+http://b5.vc:80/0672648180/fireurl.co/72630.ts
+
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 3
+http://b5.vc:80/0672648180/fireurl.co/71861.ts
 
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 3
 http://api.magiaiptv.com/live/800338/585505/p3_dazn3hd
@@ -115,22 +121,25 @@ http://api.magiaiptv.com/live/800338/585505/p3_dazn3hd
 http://pfsv.io:80/07720253/51853/506
 
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 4
+http://b5.vc:80/0672648180/fireurl.co/71859.ts
+
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 4
 http://pfsv.io:80/07720253/51853/507
 
 #EXTINF:-1 tvg-id="DAZN 5" tvg-name="DAZN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 5
 http://pfsv.io:80/07720253/51853/508
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
-http://51.89.98.62:8080/japones/japones/20225
+http://b5.vc:80/0672648180/fireurl.co/71864.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWBhUsrhZoIam11uQfSSusvZvZailvI8DVg&usqp=CAU" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH
-http://51.89.98.62:8080/japones/japones/190
+http://b5.vc:80/0672648180/fireurl.co/90251.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIS",DISCOVERY KIDS
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14415
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/300px-Science_Channel_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
-http://51.89.98.62:8080/japones/japones/187
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36922
 
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14433
@@ -238,7 +247,7 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14390
 http://pfsv.io:80/07720253/51853/470?md5=null
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS",HGTV
-http://51.89.98.62:8080/japones/japones/193
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36924
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2n7WiOITHqWJL0h0-IK5FQOXNXRIo5cAlg&usqp=CAU" group-title="DOCUMENTÁRIOS",HISTORY
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14431
@@ -451,7 +460,10 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14445
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15065
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-zGoPQhJK-DuACGd7830vflOxdiUzRwf6Q&usqp=CAU" group-title="SINAL ABERTO",TV BRASIL
-http://51.89.98.62:8080/japones/japones/47534
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63632
+
+#EXTINF:-1 tvg-id="TV BRASIL 2" tvg-name="TV BRASIL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-zGoPQhJK-DuACGd7830vflOxdiUzRwf6Q&usqp=CAU" group-title="SINAL ABERTO",TV BRASIL 2
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/62133
 
 #EXTINF:-1 tvg-id="TV CÂMARA" tvg-name="TV CÂMARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYO8727LrhuO66ztamFX5M3Z-57-7ITN8pvw&usqp=CAU" group-title="SINAL ABERTO",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -475,7 +487,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w761740709.m3u8
 
 #EXTINF:-1 tvg-id="TV RÁ TIM BUM" tvg-name="TV RÁ TIM BUM" tvg-logo="http://tvratimbum.cmais.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/banner-out-2020-1/logo.png" group-title="INFANTIS",TV RÁ TIM BUM
-http://51.89.98.62:8080/japones/japones/70
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37015
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="SINAL ABERTO",TV SENADO
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/57266
