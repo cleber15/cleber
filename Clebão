@@ -105,9 +105,6 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/58130
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
 http://b5.vc:80/0672648180/fireurl.co/71860.ts
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
-http://pfsv.io:80/07720253/51853/504
-
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 2
 http://b5.vc:80/0672648180/fireurl.co/72630.ts
 
@@ -125,9 +122,6 @@ http://b5.vc:80/0672648180/fireurl.co/71859.ts
 
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 4
 http://pfsv.io:80/07720253/51853/507
-
-#EXTINF:-1 tvg-id="DAZN 5" tvg-name="DAZN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 5
-http://pfsv.io:80/07720253/51853/508
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://b5.vc:80/0672648180/fireurl.co/71864.ts
@@ -214,19 +208,10 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14388
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14392
 
 #EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/82399
+
+#EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX
 http://api.magiaiptv.com/live/800338/585505/m2_N44ZDspEYyjOq881vt39l_720p
-
-#EXTINF:-1 tvg-id="HBO MAX 2" tvg-name="HBO MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 2
-http://api.magiaiptv.com/live/800338/585505/m1_aa8eb9237a88af37_720p
-
-#EXTINF:-1 tvg-id="HBO MAX 3" tvg-name="HBO MAX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 3
-http://api.magiaiptv.com/live/800338/585505/m1_beae6e31a63b792e_720p
-
-#EXTINF:-1 tvg-id="HBO MAX 4" tvg-name="HBO MAX 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 4
-http://api.magiaiptv.com/live/800338/585505/m1_b4c2e2e0652cbb16_720p
-
-#EXTINF:-1 tvg-id="HBO MAX 5" tvg-name="HBO MAX 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 5
-http://api.magiaiptv.com/live/800338/585505/m1_c08d643bf218cb42d46e_720p
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzV6xHGS1VJCd2RnJcoad1MJgsdOHy0eprp6WIuk8_pXCHXzE&s" group-title="FILMES E SÉRIES",HBO MUNDI
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14393
@@ -321,20 +306,8 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14407
 #EXTINF:-1 tvg-id="PRIME VIDEO 1 - COPA DO BRASIL" tvg-name="PRIME VIDEO 1 - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 1 - COPA DO BRASIL
 http://b5.vc:80/0672648180/fireurl.co/105789.ts
 
-#EXTINF:-1 tvg-id="PRIME VIDEO 1 - COPA DO BRASIL" tvg-name="PRIME VIDEO 1 - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 1 - COPA DO BRASIL
-http://cms.trenduhd.xyz:80/daniel2022/2022daniel/299403
-
-#EXTINF:-1 tvg-id="PRIME VIDEO 1 - COPA DO BRASIL" tvg-name="PRIME VIDEO 1 - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 1 - COPA DO BRASIL
-http://cms.trenduhd.xyz:80/mendes2022/2022mendes/299403
-
 #EXTINF:-1 tvg-id="PRIME VIDEO 1 - COPA DO BRASIL" tvg-name="PRIME VIDEO 1 - COPA DO BRASIL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO - COPA DO BRASIL 1
 http://b5.vc:80/0672648180/fireurl.co/150498.ts
-
-#EXTINF:-1 tvg-id="PRIME VIDEO 2 - COPA DO BRASIL" tvg-name="PRIME VIDEO 2 - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 2 - COPA DO BRASIL
-http://cms.trenduhd.xyz:80/mendes2022/2022mendes/299402
-
-#EXTINF:-1 tvg-id="PRIME VIDEO 2- COPA DO BRASIL" tvg-name="PRIME VIDEO 2 - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 2 - COPA DO BRASIL
-http://cms.trenduhd.xyz:80/daniel2022/2022daniel/299402
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48559
@@ -388,10 +361,10 @@ http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14362
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14379
 
 #EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="FILMES E SÉRIES",STAR+
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
+
 
 #EXTINF:-1 tvg-id="STAR+ 2" tvg-name="STAR+ 2" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="FILMES E SÉRIES",STAR+ 2
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56338
+http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14406
