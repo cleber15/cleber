@@ -258,6 +258,9 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36908
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AW961f-6Mj0xGvZmVcb5xIiOtqjUSYdeRw&usqp=CAU" group-title="INFANTIS",NICKELODEON
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36907
 
+#EXTINF:-1 tvg-id="NSPORTS" tvg-name="NSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCbY54U4fmU_71dVuPgMKjKIo_O2TGbntN8Q&usqp=CAU" group-title="ESPORTES",NSPORTS  
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/87226
+
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="ESPORTES",OFF  
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36954
 
