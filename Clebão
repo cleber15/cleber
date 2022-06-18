@@ -6,7 +6,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36929
 #EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuurSZZ9P_GXvVGOOYHK7mlUqVXfa3DanM_A&usqp=CAU" group-title="ESPORTES", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="FILMES E SÉRIES",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png" group-title="FILMES E SÉRIES",AMC
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36928
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVIQmytud5lLbuhPW38oODpu3RI7dGsBLLQ&usqp=CAU" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
@@ -414,7 +414,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63648
 #EXTINF:-1 tvg-id="TRAVEL BOX BRASIL" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/10/13122016/Logo_Travel-Box-Brazil.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63785 
 
-#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://cdn.mitvstatic.com/channels/br_trutv-1_m.png" group-title="VARIEDADES",TRUTV
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="VARIEDADES",TRUTV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37032
 
 #EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="TV APARECIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
