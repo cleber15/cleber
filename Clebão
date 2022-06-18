@@ -6,7 +6,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36929
 #EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuurSZZ9P_GXvVGOOYHK7mlUqVXfa3DanM_A&usqp=CAU" group-title="ESPORTES", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="FILMES E SÉRIES",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="FILMES E SÉRIES",AMC
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36928
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVIQmytud5lLbuhPW38oODpu3RI7dGsBLLQ&usqp=CAU" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
@@ -60,7 +60,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37123
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJPoMhfM9xU9BlKhy1XaPTTOhY3uSAoXMcQ&usqp=CAU" group-title="NOTÍCIAS",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://spng.pngfind.com/pngs/s/287-2871635_cinecanal-logo-hd-png-download.png" group-title="FILMES E SÉRIES",CINECANAL 
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES E SÉRIES",CINECANAL 
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36918
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe_wiI8_zHsTD_rH5ttSW-M4wkcHE6mvJqA&usqp=CAU" group-title="FILMES E SÉRIES",CINEMAX
@@ -145,7 +145,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36976
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41477
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDNRFqHxc9Uzt3h9FOCB1qvYRSLgcyOMCLw&usqp=CAU" group-title="ESPORTES",ESPN 4
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37099
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36970
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="ESPORTES",ESPN EXTRA
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41977
@@ -153,10 +153,10 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41977
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="VARIEDADES",FISH TV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37103
 
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="VARIEDADES",FOOD NETWORK
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37102
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="ESPORTES",FOX SPORTS 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvzj5jsYeWz8nE3YFug-qEdjVeGD76eZP4g&usqp=CAU" group-title="ESPORTES",FOX SPORTS 2
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/50545
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="SINAL ABERTO",FUTURA
@@ -321,10 +321,10 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37011
 #EXTINF:-1 tvg-id="RED BULL TV" tvg-name="RED BULL TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL._SY400_.jpg" group-title="ESPORTES",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="SINAL ABERTO",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SINAL ABERTO",SBT
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36945
 
-#EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/1048568750600019970/xgPKge8K.jpg" group-title="VARIEDADES",SIC INTERNACIONAL
+#EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="VARIEDADES",SIC INTERNACIONAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 #EXTINF:-1 tvg-id=" SMITHSONIAN CHANNEL" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Smithsonian_sun_logo_no_text.svg/1200px-Smithsonian_sun_logo_no_text.svg.png" group-title="VARIEDADES",SMITHSONIAN CHANNEL
@@ -366,7 +366,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36940
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SÉRIES",TCM  
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63644
 
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HmrY619YTaNO4aD_W-rnC168WekAbNsRTGkwmJZBt3dfPOw&s" group-title="FILMES E SÉRIES",TELECINE ACTION
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7YnHMNJG8fz_w2vRWNkfO6uyePPP7FsYvA&usqp=CAU" group-title="FILMES E SÉRIES",TELECINE ACTION
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36939
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="FILMES E SÉRIES",TELECINE CULT
@@ -387,7 +387,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36935
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="SINAL ABERTO",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTkH2-IbZss8f9dkQfRb7nXU7muF3lsJeZyg4d3y5BctpbKFq&s" group-title="DOCUMENTÁRIOS",TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWh10fRO8R-iFya3rQw-rHUyy9bSxnkswpPg&usqp=CAU" group-title="DOCUMENTÁRIOS",TLC
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36902
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOhsyMiiKW4lagcWg7yJ7fd6u-j7fIF1wcw&usqp=CAU" group-title="FILMES E SÉRIES",TNT
@@ -433,7 +433,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://pfsv.io:80/07720253/51853/64
 
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://2.bp.blogspot.com/-bzMKb4EFFvw/W5FM9DuNeUI/AAAAAAAAQKk/MXUHxJxSU7Um95KvfRIC29bBr9ehJICeQCLcBGAs/s1600/tv-diario-bleez.png" group-title="SINAL ABERTO",TV DIÁRIO
-http://actxs.biz:80/delmir123/123delmir/114477
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64613
 
 #EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="SINAL ABERTO",TV ESCOLA
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36999
