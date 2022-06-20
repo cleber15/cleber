@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/538.png" group-title="FILMES E SÉRIES",A&E
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36929
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" group-title="FILMES E SÉRIES",A&E
+http://api.magiaiptv.com/live/800349/713534/p1_ae
 
-#EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuurSZZ9P_GXvVGOOYHK7mlUqVXfa3DanM_A&usqp=CAU" group-title="ESPORTES", ALL SPORTS
+#EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png/v1/crop/x_301,y_292,w_2184,h_2123/fill/w_240,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_nova_ALLSPORTS.png" group-title="ESPORTES", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png" group-title="FILMES E SÉRIES",AMC
@@ -85,10 +85,10 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37119
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37118
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 1
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/74105
+http://api.magiaiptv.com/live/800349/713534/m2_xrNh5O0VIHWdGhbT5J_720p
 
-#EXTINF:-1 tvg-id="CONMEBOL TV 2 2"tvg-name="CONMEBOL TV 2 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 2
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/74106
+#EXTINF:-1 tvg-id="CONMEBOL TV 2"tvg-name="CONMEBOL TV 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 2
+http://api.magiaiptv.com/live/800349/713534/m3_GY9pO8alp1jpZl8lcIcqH_720p
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 3
 http://tv.factoryiptv.com:80/D03hCGVHrv/factoryiptv/81687
@@ -100,10 +100,13 @@ http://tv.factoryiptv.com:80/D03hCGVHrv/factoryiptv/75603
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37117
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/58130
+http://api.magiaiptv.com/live/800349/713534/p2_dazn_264
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 2
 http://api.magiaiptv.com/live/800338/585505/p3_dazn3hd
+
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 3
+http://api.magiaiptv.com/live/800349/713534/p3_dazn3hd
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37116
@@ -136,19 +139,19 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37108
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="ESPORTES",ESPN
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38413
+http://api.magiaiptv.com/live/800349/713534/m3_ScQBL06LuJftF_720p
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPORTES",ESPN 2
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36976
+http://api.magiaiptv.com/live/800349/713534/m1_jK8qbRUeI8qNMLCC_720p
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AxNcf7mRJprmh_EdD5kNXoUnSkBW1GUEdLhQy0zg28XGliFjV0f21alB&s=10" group-title="ESPORTES",ESPN 3
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41477
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/30277
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDNRFqHxc9Uzt3h9FOCB1qvYRSLgcyOMCLw&usqp=CAU" group-title="ESPORTES",ESPN 4
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36970
+http://api.magiaiptv.com/live/800349/713534/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="ESPORTES",ESPN EXTRA
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41977
+http://api.magiaiptv.com/live/800349/713534/m1_ByxjeSWip68MPJsHRqZ2vku_720p
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="VARIEDADES",FISH TV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37103
@@ -157,7 +160,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37103
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37102
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvzj5jsYeWz8nE3YFug-qEdjVeGD76eZP4g&usqp=CAU" group-title="ESPORTES",FOX SPORTS 2
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/50545
+http://api.magiaiptv.com/live/800349/713534/m2_5jJXtWhS6iP43DGF1porNTkZ_4M
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="SINAL ABERTO",FUTURA
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40074
@@ -166,10 +169,10 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40074
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36969
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO RJ
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36968
+http://api.magiaiptv.com/live/800349/713534/m2_kzeKgKsjyTCBUMl4_720p
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO SP
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37090
+http://api.magiaiptv.com/live/800349/713534/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbo2etQPT7KaBK7z3Zd0WMoP96jjjZ1GcOA&usqp=CAU" group-title="NOTÍCIAS",GLOBO NEWS
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37093
@@ -197,6 +200,21 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/82373
 
 #EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/82375
+
+#EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX
+http://api.magiaiptv.com/live/800349/713534/m2_N44ZDspEYyjOq881vt39l_720p
+
+#EXTINF:-1 tvg-id="HBO MAX 2" tvg-name="HBO MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 2
+http://api.magiaiptv.com/live/800349/713534/m1_aa8eb9237a88af37_720p
+
+#EXTINF:-1 tvg-id="HBO MAX 3" tvg-name="HBO MAX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 3
+http://api.magiaiptv.com/live/800349/713534/m1_beae6e31a63b792e_720p
+
+#EXTINF:-1 tvg-id="HBO MAX 4" tvg-name="HBO MAX 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 4
+http://api.magiaiptv.com/live/800349/713534/m1_b4c2e2e0652cbb16_720p
+
+#EXTINF:-1 tvg-id="HBO MAX 5" tvg-name="HBO MAX 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 5
+http://api.magiaiptv.com/live/800349/713534/m1_c08d643bf218cb42d46e_720p
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzV6xHGS1VJCd2RnJcoad1MJgsdOHy0eprp6WIuk8_pXCHXzE&s" group-title="FILMES E SÉRIES",HBO MUNDI
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36913
@@ -241,7 +259,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42902
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36910
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKszd8_qa9-4aUWRbNQcmmVbXNrm8JaAnoWw&usqp=CAU" group-title="VARIEDADES",MULTISHOW
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36957
+http://api.magiaiptv.com/live/800349/713534/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p
 
 #EXTINF:-1 tvg-id="MUSIC BOX BRAZIL" tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nM3n5otBS-pGuXeZIMxDUszaotc6RIZIFA&usqp=CAU" group-title="VARIEDADES",MUSIC BOX BRAZIL
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37069
@@ -259,7 +277,13 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36908
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36907
 
 #EXTINF:-1 tvg-id="N SPORTS" tvg-name="N SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCbY54U4fmU_71dVuPgMKjKIo_O2TGbntN8Q&usqp=CAU" group-title="ESPORTES",N SPORTS  
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/87226
+http://api.magiaiptv.com/live/800349/713534/m2_n81nf9zgb19hgqd_720p
+
+#EXTINF:-1 tvg-id="N SPORTS 2" tvg-name="N SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCbY54U4fmU_71dVuPgMKjKIo_O2TGbntN8Q&usqp=CAU" group-title="ESPORTES",N SPORTS  2
+http://api.magiaiptv.com/live/800349/713534/m2_bvgjy7b9bc6z1ga_720p
+
+#EXTINF:-1 tvg-id="N SPORTS 3" tvg-name="N SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCbY54U4fmU_71dVuPgMKjKIo_O2TGbntN8Q&usqp=CAU" group-title="ESPORTES",N SPORTS  3
+http://api.magiaiptv.com/live/800349/713534/m2_h781bvkz1bu6a1z_720p
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="ESPORTES",OFF  
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36954
@@ -268,34 +292,34 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36954
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36953
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 2
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36952
+http://api.magiaiptv.com/live/800349/713534/m1_UJlOHOurcXIINOMI8C_720p
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 3
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36951
+http://api.magiaiptv.com/live/800349/713534/m1_QVjAjs05rLeRcJaYwWpr6k_720p
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 4
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36950
+http://api.magiaiptv.com/live/800349/713534/m2_T1kER2k4toPH_720p
 
 #EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 5
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36949
+http://api.magiaiptv.com/live/800349/713534/m2_J2m8CmTHvNkE_720p_2M
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 6
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36906
+http://api.magiaiptv.com/live/800349/713534/m3_Z60O0vqPgGWm5AZ_720p
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 7
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36905
+http://api.magiaiptv.com/live/800349/713534/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="ESPORTES",PREMIERE CLUBES
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36948
+http://pfsv.io:80/07720253/51853/524
 
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37053
 
 #EXTINF:-1 tvg-id="PRIME VIDEO 1 - COPA DO BRASIL" tvg-name="PRIME VIDEO 1 - COPA DO BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO 1 - COPA DO BRASIL
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/86455
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/110297
 
 #EXTINF:-1 tvg-id="PRIME VIDEO 2 - COPA DO BRASIL" tvg-name="PRIME VIDEO 2 - COPA DO BRASIL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTryb7x2tQPWNGdSRzkCZbP1qmnbNW5r6OhQ&usqp=CAU" group-title="ESPORTES",PRIME VIDEO - COPA DO BRASIL 2
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/86456
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/110296
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37050
@@ -337,25 +361,34 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/57387
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36944
 
  #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV  
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37255
+http://api.magiaiptv.com/live/800349/713534/p2_AD5dvVfj6egLHxBwARO
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png"ESPORTES",SPORTV 2
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36943
+http://api.magiaiptv.com/live/800349/713534/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES",SPORTV 3
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36942
-
-#EXTINF:-1 tvg-id="SPORTV PORTUGAL" tvg-name="SPORTV PORTUGAL" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="ESPORTES",SPORTV PORTUGAL
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/82512
-
-#EXTINF:-1 tvg-id="SPORTV 2 PORTUGAL" tvg-name="SPORTV 2 PORTUGAL" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="ESPORTES",SPORTV 2 PORTUGAL
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/85329
+http://api.magiaiptv.com/live/800349/713534/m1_vzd4MQvFCKUahymwGL_1080p
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36972
 
-#EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="FILMES E SÉRIES",STAR+
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/82510
+#EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/92364
+
+#EXTINF:-1 tvg-id="STAR+ 2" tvg-name="STAR+ 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+ 2
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/108984
+
+#EXTINF:-1 tvg-id="STAR+ 3" tvg-name="STAR+ 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+ 3
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/108983
+
+#EXTINF:-1 tvg-id="STAR+ 4" tvg-name="STAR+ 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+ 4
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/108982
+
+#EXTINF:-1 tvg-id="STAR+ 5" tvg-name="STAR+ 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+ 5
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/108981
+
+#EXTINF:-1 tvg-id="STAR+ 6" tvg-name="STAR+ 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+ 6
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/108980
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36904
@@ -436,7 +469,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://pfsv.io:80/07720253/51853/64
 
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://2.bp.blogspot.com/-bzMKb4EFFvw/W5FM9DuNeUI/AAAAAAAAQKk/MXUHxJxSU7Um95KvfRIC29bBr9ehJICeQCLcBGAs/s1600/tv-diario-bleez.png" group-title="SINAL ABERTO",TV DIÁRIO
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64613
+http://acsc.cc:80/0672648180/fireurl.co/103461.ts
 
 #EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="SINAL ABERTO",TV ESCOLA
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36999
