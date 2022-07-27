@@ -42,6 +42,9 @@ https://596639ebdd89b.streamlock.net:443/8032/8032/chunklist_w901284008.m3u8
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="SINAL ABERTO",CANAL DO BOI
 http://acsc.cc:80/0672648180/fireurl.co/71821.ts
 
+#EXTINF:-1 tvg-id="CANAL EDUCAÇÃO" tvg-name="CANAL EDUCAÇÃO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVcHpOZLI3oiyrLfE7Yg8zj94qXSuPgzBmA&usqp=CAU" group-title="SINAL ABERTO",CANAL EDUCAÇÃO
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/75
+
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFZesFExO7qUYRVQaZ1P0Iemmqk4Czebbeg&usqp=CAU" group-title="SINAL ABERTO",CANAL RURAL
 http://acsc.cc:80/0672648180/fireurl.co/71823.ts
 
@@ -486,9 +489,6 @@ http://pfsv.io:80/07720253/51853/64
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://2.bp.blogspot.com/-bzMKb4EFFvw/W5FM9DuNeUI/AAAAAAAAQKk/MXUHxJxSU7Um95KvfRIC29bBr9ehJICeQCLcBGAs/s1600/tv-diario-bleez.png" group-title="SINAL ABERTO",TV DIÁRIO
 http://acsc.cc:80/0672648180/fireurl.co/103461.ts
 
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="SINAL ABERTO",TV ESCOLA
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/75
-
 #EXTINF:-1 tvg-id="TV JORNAL RECIFE (SBT)" tvg-name="TV JORNAL RECIFE (SBT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU7ZkuYErjESEpMDrkWfla-ygQ11hnClweQ6fQYnCmyNvI8OqBff1Ky0&s=10" group-title="SINAL ABERTO",TV JORNAL RECIFE (SBT)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w443302271_b216000_sleng.m3u8
 
@@ -513,7 +513,7 @@ http://acsc.cc:80/0672648180/fireurl.co/103450.ts
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="FILMES E SÉRIES",WARNER CHANNEL
 http://acsc.cc:80/0672648180/fireurl.co/90236.ts
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxJ102C2I59ZUgQL5hl9cqhlCO_hkxR0Q3A&usqp=CAU" group-title="VARIEDADES",WOOHOO
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1200px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="VARIEDADES",WOOHOO
 http://acsc.cc:80/0672648180/fireurl.co/103449.ts
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2020/03/ZooMoo-Kids_Favicon-2020-300x300-1-150x150.png" group-title="INFANTIS",ZOOMOO
