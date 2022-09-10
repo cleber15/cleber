@@ -22,7 +22,7 @@ http://api.magiaiptv.com/live/800338/585505/m3_OHAJwrM6poGAZu6Uj_720p
 http://api.magiaiptv.com/live/800338/585505/m3_aEZNYVBM7gwkXuemhyKdcC62_720p
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/400px-Rede_Bandeirantes_logo_2018.svg.png" group-title="SINAL ABERTO",BAND
-http://api.magiaiptv.com/live/800196/128093/m3_3zFNpotNh0Q0iR_720p
+http://api.magiaiptv.com/live/800338/585505/m3_3zFNpotNh0Q0iR_720p
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1368930542058635270/ddfsL_BV.jpg" group-title="NOTÍCIAS",BAND NEWS
 http://acsc.cc:80/0672648180/fireurl.co/71789.ts
@@ -46,7 +46,7 @@ http://api.magiaiptv.com/live/800401/962839/m2_DmneVlvArMP5Xom_720p
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/75
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFZesFExO7qUYRVQaZ1P0Iemmqk4Czebbeg&usqp=CAU" group-title="SINAL ABERTO",CANAL RURAL
-http://api.magiaiptv.com/live/800196/128093/m4_uYPtR7SLydB9qIlgYkjc_720p
+http://api.magiaiptv.com/live/800338/585505/m4_uYPtR7SLydB9qIlgYkjc_720p
 
 #EXTINF:-1 tvg-id="CANAL SONY" tvg-name="CANAL SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU" group-title="FILMES E SÉRIES",CANAL SONY
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/274
@@ -82,7 +82,7 @@ http://api.magiaiptv.com/live/800338/585505/pt_cnn_inter
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="ESPORTES",COMBATE
-http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_1080p
+http://api.magiaiptv.com/live/800338/585505/m3_kxiCuVcr9XvcEbXgX_720p
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsnflehk9iXp0RWasuLTve72B4JhT145oJg&usqp=CAU" group-title="VARIEDADES",COMEDY CENTRAL
 http://api.magiaiptv.com/live/800338/585505/m1_XypHPFmzuIfLK41oZNncQelA_720p
@@ -103,13 +103,10 @@ http://api.magiaiptv.com/live/800338/585505/m1_bLyQSHesKIXQoFVH_720p
 http://api.magiaiptv.com/live/800338/585505/m4_XgNO9IDpXPmONVqRSDd5_720p
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
-http://api.magiaiptv.com/live/800196/128093/p2_dazn_264
+http://api.magiaiptv.com/live/800338/585505/p2_dazn_264
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 2
-http://api.magiaiptv.com/live/800196/128093/p2_dazn2hd
-
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 3
-http://api.magiaiptv.com/live/800196/128093/p3_dazn3hd
+http://api.magiaiptv.com/live/800338/585505/p2_dazn2hd
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
 http://api.magiaiptv.com/live/800338/585505/m3_E3D2EB66-67DF-49EC-8eea_720p
@@ -209,9 +206,6 @@ http://api.magiaiptv.com/live/800338/585505/m1_beae6e31a63b792e_720p
 
 #EXTINF:-1 tvg-id="HBO MAX 4" tvg-name="HBO MAX 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 4
 http://api.magiaiptv.com/live/800338/585505/m1_b4c2e2e0652cbb16_720p
-
-#EXTINF:-1 tvg-id="HBO MAX 5" tvg-name="HBO MAX 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 5
-http://api.magiaiptv.com/live/800338/585505/m1_c08d643bf218cb42d46e_720p
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzV6xHGS1VJCd2RnJcoad1MJgsdOHy0eprp6WIuk8_pXCHXzE&s" group-title="FILMES E SÉRIES",HBO MUNDI
 http://api.magiaiptv.com/live/800338/585505/m1_5WH0Gjho4rRixEgqd6AytkQK_720p
@@ -487,7 +481,7 @@ http://api.magiaiptv.com/live/800338/585505/m2_wC7Sm4H6P5xspG3aOoTXu28c_720p
 http://api.magiaiptv.com/live/800338/585505/m4_Pu6pRskc1ilGxJaKFgNeWqCO_720p
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png" group-title="FILMES E SÉRIES",UNIVERSAL TV
-http://api.magiaiptv.com/live/800338/585505/m2_4YAiHGmv6RCqIdET3VzPaKjU_720p
+http://api.magiaiptv.com/live/800338/585505/m3_ORgWK5d8TMi6yFNCqnSULfGv_720p
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="VARIEDADES",VIVA
 http://api.magiaiptv.com/live/800338/585505/m3_AB7C8CAC-850F-458_720p
