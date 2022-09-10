@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" group-title="FILMES E SÉRIES",A&E
-http://api.magiaiptv.com/live/800196/128093/p1_ae
+http://api.magiaiptv.com/live/800338/585505/p3_ae_265
 
 #EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png/v1/crop/x_301,y_292,w_2184,h_2123/fill/w_240,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_nova_ALLSPORTS.png" group-title="ESPORTES", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
