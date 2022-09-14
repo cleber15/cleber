@@ -196,6 +196,18 @@ http://api.magiaiptv.com/live/800338/585505/m2_zkn1fCBO864eFG2YAhcyvMSK_720p
 http://api.magiaiptv.com/live/800338/585505/m1_12lcPN9AZmu4stMvYfbwLpEC_720p
 
 #EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX
+http://pbrz.xyz:80/658343/695641/1147
+
+#EXTINF:-1 tvg-id="HBO MAX 2" tvg-name="HBO MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 2
+http://pbrz.xyz:80/658343/695641/1148
+
+#EXTINF:-1 tvg-id="HBO MAX 3" tvg-name="HBO MAX 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 3
+http://pbrz.xyz:80/658343/695641/1149
+
+#EXTINF:-1 tvg-id="HBO MAX 4" tvg-name="HBO MAX 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 4
+http://pbrz.xyz:80/658343/695641/1150
+
+#EXTINF:-1 tvg-id="HBO MAX" tvg-name="HBO MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX
 http://api.magiaiptv.com/live/800338/585505/m2_N44ZDspEYyjOq881vt39l_720p
 
 #EXTINF:-1 tvg-id="HBO MAX 2" tvg-name="HBO MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEp0jKV1UeSBLAm8aQeL3yI7hyW9EOsRb8w&usqp=CAU" group-title="ESPORTES",HBO MAX 2
