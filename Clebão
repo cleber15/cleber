@@ -103,6 +103,9 @@ http://api.magiaiptv.com/live/800338/585505/m1_bLyQSHesKIXQoFVH_720p
 http://api.magiaiptv.com/live/800338/585505/m4_XgNO9IDpXPmONVqRSDd5_720p
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
+http://clienteworld.com:80/claud123/claud123/146059
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 1
 http://api.magiaiptv.com/live/800338/585505/p2_dazn_264
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovgG7qVRNQ0QYWyuhTxd23dYTr_oOMRDu6w&usqp=CAU" group-title="ESPORTES",DAZN 2
@@ -334,7 +337,7 @@ http://api.magiaiptv.com/live/800338/585505/m3_cifclPqEUW47LDp9q7_720p
 http://api.magiaiptv.com/live/800338/585505/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p
 
 #EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/26/Logotipo_da_Rede_Amaz%C3%B4nica.png" group-title="SINAL ABERTO",REDE AMAZÔNICA MANAUS
-http://pbrz.xyz:80/658343/695641/1555
+http://clienteworld.com:80/claud123/claud123/137812
 
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="RELIGIOSOS",REDE BRASIL
 http://api.magiaiptv.com/live/800338/585505/m2_sZt5SHYy61mPAzgb2qkhMWNl_720p
@@ -377,6 +380,9 @@ http://api.magiaiptv.com/live/800338/585505/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL
 http://acsc.cc:80/0672648180/fireurl.co/90249.ts
+
+#EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+
+http://pbrz.xyz:80/658343/695641/1298
 
 #EXTINF:-1 tvg-id="STAR+" tvg-name="STAR+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSfRLyIBa916prDGH9bkC4N-AKbIhsWGUrA&usqp=CAU" group-title="FILMES E SÉRIES",STAR+
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/92364
@@ -496,7 +502,7 @@ http://api.magiaiptv.com/live/800338/585505/m4_Pu6pRskc1ilGxJaKFgNeWqCO_720p
 http://api.magiaiptv.com/live/800338/585505/m3_ORgWK5d8TMi6yFNCqnSULfGv_720p
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png" group-title="VARIEDADES",VIVA
-http://pbrz.xyz:80/658343/695641/2078
+http://acsb.sh:80/4673629418/snakeplay/72429
  
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="FILMES E SÉRIES",WARNER CHANNEL
 http://api.magiaiptv.com/live/800338/585505/m4_dguYh1LjBTwlnKecmOPADtoN_720p
