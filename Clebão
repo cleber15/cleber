@@ -357,8 +357,20 @@ http://api.magiaiptv.com/live/800338/585505/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES",SPORTV 3
 http://api.magiaiptv.com/live/800338/585505/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",STAR CHANNEL
+#EXTINF:-1 tvg-id="ST☆R CHANNEL" tvg-name="ST☆R CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",ST☆R CHANNEL
 http://acsc.cc:80/0672648180/fireurl.co/90249.ts
+
+#EXTINF:-1 tvg-id="ST☆R+" tvg-name="ST☆R+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",ST☆R+ 
+http://api.magiaiptv.com/live/800338/585505/m1_1cd2ba26a97dec106269_720p
+
+#EXTINF:-1 tvg-id="ST☆R+ 2" tvg-name="ST☆R+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",ST☆R+ 2
+http://api.magiaiptv.com/live/800338/585505/m1_e8e0475e7548d3b1_720p
+
+#EXTINF:-1 tvg-id="ST☆R+ 3" tvg-name="ST☆R+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",ST☆R+ 3
+http://api.magiaiptv.com/live/800338/585505/m1_9b0bf85a96462778_720p
+
+#EXTINF:-1 tvg-id="ST☆R+ 4" tvg-name="ST☆R+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="ESPORTES",ST☆R+ 4
+http://api.magiaiptv.com/live/800338/585505/m2_ee92c0f83475cfae7c8_720p
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://api.magiaiptv.com/live/800338/585505/m2_4YAiHGmv6RCqIdET3VzPaKjU_720p
