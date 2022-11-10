@@ -336,8 +336,14 @@ http://api.magiaiptv.com/live/800338/585505/m3_cifclPqEUW47LDp9q7_720p
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD SP
 http://api.magiaiptv.com/live/800338/585505/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p
 
-#EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvnmM6bPGK9bkiIxCDSssJM_nKfjKE0oryw&usqp=CAU" group-title="RELIGIOSOS",REDE AMAZÔNICA MANAUS
-http://clienteworld.com:80/claud123/claud123/137811
+#EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS FHD" tvg-name="REDE AMAZÔNICA MANAUS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvnmM6bPGK9bkiIxCDSssJM_nKfjKE0oryw&usqp=CAU" group-title="SINAL ABERTO",REDE AMAZÔNICA MANAUS FHD
+http://clienteworld.com:80/claud123/claud123/105060
+
+#EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS HD" tvg-name="REDE AMAZÔNICA MANAUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvnmM6bPGK9bkiIxCDSssJM_nKfjKE0oryw&usqp=CAU" group-title="SINAL ABERTO",REDE AMAZÔNICA MANAUS HD
+http://clienteworld.com:80/claud123/claud123/105059
+
+#EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS SD" tvg-name="REDE AMAZÔNICA MANAUS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvnmM6bPGK9bkiIxCDSssJM_nKfjKE0oryw&usqp=CAU" group-title="SINAL ABERTO",REDE AMAZÔNICA MANAUS SD
+http://clienteworld.com:80/claud123/claud123/83130
 
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="RELIGIOSOS",REDE BRASIL
 http://api.magiaiptv.com/live/800338/585505/m2_sZt5SHYy61mPAzgb2qkhMWNl_720p
