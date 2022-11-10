@@ -330,11 +330,14 @@ http://api.magiaiptv.com/live/800338/585505/m2_EzQIvhr4w2UUk5HoaRXy_720p
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
 http://api.magiaiptv.com/live/800338/585505/m2_dHYy9wieO2jb1QALkn30rI7u_720p
 
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/150px-Logotipo_da_RecordTV_Rio.png" group-title="SINAL ABERTO",RECORD RJ
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD RJ
 http://api.magiaiptv.com/live/800338/585505/m3_cifclPqEUW47LDp9q7_720p
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLD_VMP6JZdPecvR5nW7Z2ITKZ8pxKH6GpQ&usqp=CAU" group-title="SINAL ABERTO",RECORD SP
+#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD SP
 http://api.magiaiptv.com/live/800338/585505/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p
+
+#EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvnmM6bPGK9bkiIxCDSssJM_nKfjKE0oryw&usqp=CAU" group-title="RELIGIOSOS",REDE AMAZÔNICA MANAUS
+http://clienteworld.com:80/claud123/claud123/137811
 
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="RELIGIOSOS",REDE BRASIL
 http://api.magiaiptv.com/live/800338/585505/m2_sZt5SHYy61mPAzgb2qkhMWNl_720p
@@ -501,7 +504,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 #EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-name="TV PAI ETERNO" tvg-logo="https://i.ibb.co/JBWn8S6/Pai-Eterno.png" group-title="RELIGIOSOS",TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w761740709.m3u8
 
-#EXTINF:-1 tvg-id="TV RÁ TIM BUM" tvg-name="TV RÁ TIM BUM" tvg-logo="http://tvratimbum.cmais.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/banner-out-2020-1/logo.png" group-title="INFANTIS",TV RÁ TIM BUM
+#EXTINF:-1 tvg-id="TV RÁ TIM BUM" tvg-name="TV RÁ TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RÁ TIM BUM
 http://api.magiaiptv.com/live/800338/585505/m2_wC7Sm4H6P5xspG3aOoTXu28c_720p
 
 #EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="SINAL ABERTO",TV SENADO
