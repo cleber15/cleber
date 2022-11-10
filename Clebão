@@ -141,6 +141,24 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwub1vwZT-tW2IJplsvG3KbEXTm4whS8OpGg&usqp=CAU" group-title="VARIEDADES",E!
 http://api.magiaiptv.com/live/800338/585505/m4_MLyp2YcnBaoNT1DdC3FOsiHE_720p
 
+#EXTINF:-1 tvg-id="ELEVEN 1" tvg-name="ELEVEN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GUoxWGHK0fKXiKCGBhoHdLxuzle91UtAMg&usqp=CAU" group-title="ESPORTES",ELEVEN 1
+http://clienteworld.com:80/claud123/claud123/138421
+
+#EXTINF:-1 tvg-id="ELEVEN 2" tvg-name="ELEVEN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GUoxWGHK0fKXiKCGBhoHdLxuzle91UtAMg&usqp=CAU" group-title="ESPORTES",ELEVEN 2
+http://clienteworld.com:80/claud123/claud123/138423
+
+#EXTINF:-1 tvg-id="ELEVEN 3" tvg-name="ELEVEN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GUoxWGHK0fKXiKCGBhoHdLxuzle91UtAMg&usqp=CAU" group-title="ESPORTES",ELEVEN 3
+http://clienteworld.com:80/claud123/claud123/138425
+
+#EXTINF:-1 tvg-id="ELEVEN 4" tvg-name="ELEVEN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GUoxWGHK0fKXiKCGBhoHdLxuzle91UtAMg&usqp=CAU" group-title="ESPORTES",ELEVEN 4
+http://clienteworld.com:80/claud123/claud123/138427
+
+#EXTINF:-1 tvg-id="ELEVEN 5" tvg-name="ELEVEN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GUoxWGHK0fKXiKCGBhoHdLxuzle91UtAMg&usqp=CAU" group-title="ESPORTES",ELEVEN 5
+http://clienteworld.com:80/claud123/claud123/138429
+
+#EXTINF:-1 tvg-id="ELEVEN 6" tvg-name="ELEVEN 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GUoxWGHK0fKXiKCGBhoHdLxuzle91UtAMg&usqp=CAU" group-title="ESPORTES",ELEVEN 6
+http://clienteworld.com:80/claud123/claud123/138431
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="ESPORTES",ESPN
 http://api.magiaiptv.com/live/800338/585505/m3_ScQBL06LuJftF_720p
 
@@ -315,7 +333,7 @@ http://api.magiaiptv.com/live/800338/585505/m2_dHYy9wieO2jb1QALkn30rI7u_720p
 #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/150px-Logotipo_da_RecordTV_Rio.png" group-title="SINAL ABERTO",RECORD RJ
 http://api.magiaiptv.com/live/800338/585505/m3_cifclPqEUW47LDp9q7_720p
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvsp.png" group-title="SINAL ABERTO",RECORD SP
+#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLD_VMP6JZdPecvR5nW7Z2ITKZ8pxKH6GpQ&usqp=CAU" group-title="SINAL ABERTO",RECORD SP
 http://api.magiaiptv.com/live/800338/585505/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p
 
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="RELIGIOSOS",REDE BRASIL
@@ -333,6 +351,9 @@ http://api.magiaiptv.com/live/800338/585505/m4_U41xTcfkKEg5wSdFHCzXamLv_720p
 #EXTINF:-1 tvg-id="RED BULL TV" tvg-name="RED BULL TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL._SY400_.jpg" group-title="ESPORTES",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+#EXTINF:-1 tvg-id="SBT TV JANGADEIRO" tvg-name="SBT TV JANGADEIRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuidNrELftD_eLWMrA61ybVmcRMLNwkG8YMA&usqp=CAU" group-title="SINAL ABERTO",SBT TV JANGADEIRO
+http://clienteworld.com:80/claud123/claud123/320210
+
 #EXTINF:-1 tvg-id="SBT RJ" tvg-name="SBT RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SINAL ABERTO",SBT RJ
 http://acsc.cc:80/0672648180/fireurl.co/108681.ts
 
@@ -348,7 +369,7 @@ http://acsb.sh:80/4673629418/snakeplay/72315
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://yt3.ggpht.com/wCWJhPK7lM0LfQs-Kuhm4DCbt1vusyocQIcBsrpLibAi25KtVKGhwvPaj1t_F5aKSCrYwz3h=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES E SÉRIES",SPACE
 http://api.magiaiptv.com/live/800338/585505/m4_ymZnQGTRxLhgzKBYlOekpfso_720p
 
- #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV  
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV  
 http://api.magiaiptv.com/live/800338/585505/p3_jUB9PDqLPI4ma3xxj
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png"ESPORTES",SPORTV 2
@@ -356,6 +377,24 @@ http://api.magiaiptv.com/live/800338/585505/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES",SPORTV 3
 http://api.magiaiptv.com/live/800338/585505/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
+
+#EXTINF:-1 tvg-id="SPORT•TV+" tvg-name="SPORT•TV+" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV+ 
+http://api.magiaiptv.com/live/800338/585505/m3_UCWbpolpkgstvp_1080p
+
+#EXTINF:-1 tvg-id="SPORT•TV 1" tvg-name="SPORT•TV 1" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV 1
+http://api.magiaiptv.com/live/800338/585505/m3_DFwhzUuzfistv1_1080p
+
+#EXTINF:-1 tvg-id="SPORT•TV 2" tvg-name="SPORT•TV 2" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV 2
+http://api.magiaiptv.com/live/800338/585505/m3_FZukotDQWYstv2_1080p
+
+#EXTINF:-1 tvg-id="SPORT•TV 3" tvg-name="SPORTV 3" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV 3 
+http://api.magiaiptv.com/live/800338/585505/m3_eAb6FoNigKstv3_720p_2M
+
+#EXTINF:-1 tvg-id="SPORT•TV 4" tvg-name="SPORT•TV 4" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV 4
+http://api.magiaiptv.com/live/800338/585505/m3_eargH0Pv9qstv4_720p_2M
+
+#EXTINF:-1 tvg-id="SPORT•TV 5" tvg-name="SPORT•TV 5" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV 5 
+http://api.magiaiptv.com/live/800338/585505/m3_L4QIjJorwjstv5_1080p
 
 #EXTINF:-1 tvg-id="ST☆R CHANNEL" tvg-name="ST☆R CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",ST☆R CHANNEL
 http://acsc.cc:80/0672648180/fireurl.co/90249.ts
