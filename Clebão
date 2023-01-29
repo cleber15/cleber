@@ -36,14 +36,8 @@ http://api.magiaiptv.com/live/800338/585505/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 #EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1680px-Canal_Brasil_logo.svg.png" group-title="SINAL ABERTO",CANAL BRASIL
 http://api.magiaiptv.com/live/800338/585505/m1_UVrzPuTGO0BN95S7pDmtyIx8_720p
 
-#EXTINF:-1 tvg-id="CANAL COMUNITÁRIO" tvg-name="CANAL COMUNITÁRIO" tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="SINAL ABERTO",CANAL COMUNITÁRIO
-
-
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="SINAL ABERTO",CANAL DO BOI
 http://api.magiaiptv.com/live/800338/585505/m2_DmneVlvArMP5Xom_720p
-
-#EXTINF:-1 tvg-id="CANAL EDUCAÇÃO" tvg-name="CANAL EDUCAÇÃO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVcHpOZLI3oiyrLfE7Yg8zj94qXSuPgzBmA&usqp=CAU" group-title="SINAL ABERTO",CANAL EDUCAÇÃO
-
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFZesFExO7qUYRVQaZ1P0Iemmqk4Czebbeg&usqp=CAU" group-title="SINAL ABERTO",CANAL RURAL
 http://api.magiaiptv.com/live/800338/585505/m4_uYPtR7SLydB9qIlgYkjc_720p
@@ -97,7 +91,7 @@ http://api.magiaiptv.com/live/800338/585505/m3_GY9pO8alp1jpZl8lcIcqH_720p
 http://api.magiaiptv.com/live/800338/585505/m1_6ciY4GBUyDczLxioSo_720p
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDJbcUekj3DJtr17NW5AnWbo3odjumUbXmw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV 4
-
+http://loadbl2.online:8080/63764741/62983324/922611
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA!" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",CURTA!
 http://api.magiaiptv.com/live/800338/585505/m4_XgNO9IDpXPmONVqRSDd5_720p
@@ -151,7 +145,7 @@ http://clienteworld.com:80/claud123/claud123/138429
 http://clienteworld.com:80/claud123/claud123/138431
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="ESPORTES",ESPN
-http://api.magiaiptv.com/live/800338/585505/m3_ScQBL06LuJftF_720p
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415418
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPORTES",ESPN 2
 http://api.magiaiptv.com/live/800338/585505/m1_jK8qbRUeI8qNMLCC_720p
@@ -247,7 +241,7 @@ http://api.magiaiptv.com/live/800338/585505/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
 http://api.magiaiptv.com/live/800338/585505/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="DOCUMENTÁRIOS",HISTORY 2
-
+http://lmtv.me:80/1667663319jen/162145/90089
 
 #EXTINF:-1 tvg-id="ID - INVESTIGAÇÃO DISCOVERY" tvg-name=" ID - INVESTIGAÇÃO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="FILMES E SÉRIES",ID - INVESTIGAÇÃO DISCOVERY
 http://api.magiaiptv.com/live/800338/585505/m2_4NBa1dLVoRqQuEisXnlh5tge_720p
@@ -353,9 +347,6 @@ http://api.magiaiptv.com/live/800338/585505/m1_DV2bTcq67LA3L7UN_720p_2M
 
 #EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="VARIEDADES",SIC INTERNACIONAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-
-#EXTINF:-1 tvg-id=" SMITHSONIAN CHANNEL" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Smithsonian_sun_logo_no_text.svg/1200px-Smithsonian_sun_logo_no_text.svg.png" group-title="VARIEDADES",SMITHSONIAN CHANNEL
-
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://yt3.ggpht.com/wCWJhPK7lM0LfQs-Kuhm4DCbt1vusyocQIcBsrpLibAi25KtVKGhwvPaj1t_F5aKSCrYwz3h=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES E SÉRIES",SPACE
 http://api.magiaiptv.com/live/800338/585505/m4_ymZnQGTRxLhgzKBYlOekpfso_720p
