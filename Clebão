@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" group-title="FILMES E SÉRIES",A&E
-http://lishb.com:8080/7924193672/8245089073/856079
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-3-main.m3u8
 
 #EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png/v1/crop/x_301,y_292,w_2184,h_2123/fill/w_240,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_nova_ALLSPORTS.png" group-title="ESPORTES", ALL SPORTS
 
@@ -15,7 +15,7 @@ http://lishb.com:8080/7924193672/8245089073/856082
 http://lishb.com:8080/7924193672/8245089073/856283
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcVDxuj302I9XycVwoLbb2ns0hisF4NaZVQ&usqp=CAU" group-title="VARIEDADES",ARTE 1
-http://lishb.com:8080/7924193672/8245089073/856090
+https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292-0-main.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvtiW60JQfTCiEZIraSJBBTYEv_N0ApTBCg&usqp=CAU" group-title="FILMES E SÉRIES",AXN
 http://lishb.com:8080/7924193672/8245089073/856085
@@ -37,6 +37,10 @@ http://lishb.com:8080/7924193672/8245089073/856640
 
 #EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1680px-Canal_Brasil_logo.svg.png" group-title="SINAL ABERTO",CANAL BRASIL
 http://lishb.com:8080/7924193672/8245089073/856652
+
+#EXTINF:-1 tvg-id="CANAL EDUCAÇÃO" tvg-name="CANAL EDUCAÇÃO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQHiCp7Kru2zu5dcl-LD7KEfnRgwITkmtT20N196hPuYugTVYT0QjyQ7A&s=10" group-title="SINAL ABERTO",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8
+
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="SINAL ABERTO",CANAL DO BOI
 http://lishb.com:8080/7924193672/8245089073/978252
@@ -63,7 +67,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 http://lishb.com:8080/7924193672/8245089073/856678
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe_wiI8_zHsTD_rH5ttSW-M4wkcHE6mvJqA&usqp=CAU" group-title="FILMES E SÉRIES",CINEMAX
-http://lishb.com:8080/7924193672/8245089073/856094
+https://anonstream.live/cinemax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="NOTÍCIAS",CNN BRASIL
 http://lishb.com:8080/7924193672/8245089073/856488
@@ -173,10 +177,10 @@ http://lishb.com:8080/7924193672/8245089073/856117
 http://lishb.com:8080/7924193672/8245089073/856417
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO SP
-http://lishb.com:8080/7924193672/8245089073/856426
+https://live-as-04-13.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMTMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ3MDYxMzg5LCJpYXQiOjE3NDY5NzQ5ODksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzhiMDQ1YjQtNzEwMi00NjYyLTg3NjUtZTI3MjM5NWRiM2VlIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.gB2BRLQd3PoBCeWP_FrIf-gd9Jt4F_WOb7JMnE8ouDui0mekM1lDJqkqSRDAwbsej5FIezH9PfmEbNGAEERHld35uSeAXSsHvqbc8_NYWa9-oj0eFXhiQeXTFwQdu157-vRMe9hXkqsjkoSZjeSe9ijEazW21ZTg53N382o_LdRt-6rbTyEsJUSCFVJOnrsPpY2md3nxwbtDOkX-rfRU2ue8fIpHbCX4R5e1_-9U58uNB5ehy5ZtNYBw5fefk-Tz_uTZP5B5VztOR_S6J1BX0TswBz4NYMTg2IKBsvkUy43KQN-UyxOzqDx4ATKCUcwxmKm_gcKjO4B496MkkPWSTg/nu/f(dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbo2etQPT7KaBK7z3Zd0WMoP96jjjZ1GcOA&usqp=CAU" group-title="NOTÍCIAS",GLOBO NEWS
-http://lishb.com:8080/7924193672/8245089073/856393
+https://anonstream.live/globonews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIS",GLOOB
 http://lishb.com:8080/7924193672/8245089073/856609
@@ -185,7 +189,7 @@ http://lishb.com:8080/7924193672/8245089073/856609
 http://api.magiaiptv.com/live/800338/585505/m3_Id083Vtv4joDS5CBRwbAQmO2_720p
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT
-http://lishb.com:8080/7924193672/8245089073/856685
+https://anonstream.live/gnt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHdpy7bXdjn8uyMlD9CrIOcwDgaH1KZUgeg&usqp=CAU" group-title="FILMES E SÉRIES",HBO
 http://lishb.com:8080/7924193672/8245089073/856315
@@ -244,6 +248,9 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME
 http://lishb.com:8080/7924193672/8245089073/856691
 
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2HW0ID-X0eljaMaQmGRsQzBwHjlb-0D_gvgmf47E8EzRK9hEZ5OpXMl3Z&s=10" group-title="VARIEDADES",LOADING
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1608423231.m3u8
+
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHEhI5vqWL2Y5Lzf-x5hJoRSXRlz4hjzFpg&usqp=CAU" group-title="FILMES E SÉRIES",MEGAPIX
 http://lishb.com:8080/7924193672/8245089073/856119
 
@@ -289,6 +296,10 @@ http://api.magiaiptv.com/live/800338/585505/m1_6ciY4GBUyDczLxioSo_720p
 #EXTINF:-1 tvg-id="Paramount+ 4" tvg-name="Paramount+ 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo1-m_I2E3GHmzGNcrvr6iIt8RJbnA8XzYA&usqp=CAU" group-title="ESPORTES",Paramount+ 4
 http://loadbl2.online:8080/63764741/62983324/922611
 
+#EXTINF:-1 tvg-id="PLAYTV" tvg-name="PLAYTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_wOvenaCThusgo1mTSYhE4YQEizi8bpYXCP6t4BGeDrAHL9smMlBaL4&s=10" group-title="VARIEDADES",PLAYTV
+https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 2
 http://lishb.com:8080/7924193672/8245089073/856253
 
@@ -311,7 +322,13 @@ http://lishb.com:8080/7924193672/8245089073/856279
 http://lishb.com:8080/7924193672/8245089073/978920
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="ESPORTES",PREMIERE CLUBES
-http://lishb.com:8080/7924193672/8245089073/856247
+https://filmestorrent20.org/premiereclubes/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="ESPORTES",PREMIERE CLUBES
+https://fazoeli.fun/token/4a3a7322b9b795b40fd570c8f554ec48/embedtv.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="ESPORTES",PREMIERE CLUBES
+https://44.crackstreamslivehd.com/premiere1/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=5911042fbd0068c7347320377d2ce61521cea033-36-1747006433-1746974033
 
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://api.magiaiptv.com/live/800338/585505/m2_EzQIvhr4w2UUk5HoaRXy_720p
@@ -323,7 +340,7 @@ http://lishb.com:8080/7924193672/8245089073/856503
 http://api.magiaiptv.com/live/800338/585505/m3_cifclPqEUW47LDp9q7_720p
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD SP
-http://lishb.com:8080/7924193672/8245089073/856515
+https://alanza.iptv2022.com/sh/RecordTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvnmM6bPGK9bkiIxCDSssJM_nKfjKE0oryw&usqp=CAU" group-title="SINAL ABERTO",REDE AMAZÔNICA MANAUS
 http://lishb.com:8080/7924193672/8245089073/856358
@@ -332,7 +349,7 @@ http://lishb.com:8080/7924193672/8245089073/856358
 http://api.magiaiptv.com/live/800338/585505/m2_sZt5SHYy61mPAzgb2qkhMWNl_720p
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="SINAL ABERTO",REDE TV
-http://lishb.com:8080/7924193672/8245089073/856525
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",REDE VIDA
 http://lishb.com:8080/7924193672/8245089073/856524
@@ -356,7 +373,7 @@ http://lishb.com:8080/7924193672/8245089073/856230
 http://lishb.com:8080/7924193672/8245089073/856236
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES",SPORTV 3
-http://lishb.com:8080/7924193672/8245089073/856242
+https://madrid.crackstreamslivehd.com/sporttvbr3/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=e7b9b41246b728150041ca005a86d7756024f071-c0-1747006906-1746974506
 
 #EXTINF:-1 tvg-id="SPORT•TV+" tvg-name="SPORT•TV+" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV+ 
 http://api.magiaiptv.com/live/800338/585505/m3_UCWbpolpkgstvp_1080p
@@ -368,7 +385,7 @@ http://api.magiaiptv.com/live/800338/585505/m3_DFwhzUuzfistv1_1080p
 http://api.magiaiptv.com/live/800338/585505/m3_FZukotDQWYstv2_1080p
 
 #EXTINF:-1 tvg-id="SPORT•TV 3" tvg-name="SPORTV 3" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV 3 
-http://api.magiaiptv.com/live/800338/585505/m3_eAb6FoNigKstv3_720p_2M
+https://44.crackstreamslivehd.com/sporttvbr1/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=c168293ea6e0df4deeaa6e9624cc2409f3b6763c-37-1747006780-1746974380
 
 #EXTINF:-1 tvg-id="SPORT•TV 4" tvg-name="SPORT•TV 4" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="ESPORTES",SPORT•TV 4
 http://api.magiaiptv.com/live/800338/585505/m3_eargH0Pv9qstv4_720p_2M
@@ -425,7 +442,7 @@ http://lishb.com:8080/7924193672/8245089073/856022
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w163163056.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWh10fRO8R-iFya3rQw-rHUyy9bSxnkswpPg&usqp=CAU" group-title="DOCUMENTÁRIOS",TLC
-http://api.magiaiptv.com/live/800338/585505/m3_7cvjeTrmGuLBSUHYx4K0zWlQ_720p
+https://anonstream.live/tlc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOhsyMiiKW4lagcWg7yJ7fd6u-j7fIF1wcw&usqp=CAU" group-title="FILMES E SÉRIES",TNT
 http://lishb.com:8080/7924193672/8245089073/856161 
@@ -460,7 +477,7 @@ http://api.magiaiptv.com/live/800338/585505/m1_dTOv464HlnrYIj9MYyE2_720p
 
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-zGoPQhJK-DuACGd7830vflOxdiUzRwf6Q&usqp=CAU" group-title="SINAL ABERTO",TV BRASIL
-http://api.magiaiptv.com/live/800338/585505/m2_wELX3b2rIQxpSkv7lC9ORcdY_720p
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 
 #EXTINF:-1 tvg-id="TV BRASIL 2" tvg-name="TV BRASIL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-zGoPQhJK-DuACGd7830vflOxdiUzRwf6Q&usqp=CAU" group-title="SINAL ABERTO",TV BRASIL 2
 http://api.magiaiptv.com/live/800338/585505/m1_b9nBuw2Lp1mOftSqiYAs_720p
