@@ -24,13 +24,13 @@ http://lishb.com:8080/7924193672/8245089073/856085
 http://lishb.com:8080/7924193672/8245089073/980374
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/400px-Rede_Bandeirantes_logo_2018.svg.png" group-title="SINAL ABERTO",BAND
-https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-SwhOZtQumIUAO3QiJNWAT5WDvXl1Bn3_TvpjaoPnl5Z)/cloud/3/x83vbd6/s/live-3.m3u8#cell=lnyc
+https://new2.cdnoff.online/band/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1368930542058635270/ddfsL_BV.jpg" group-title="NOTÍCIAS",BAND NEWS
-http://lishb.com:8080/7924193672/8245089073/856485
+https://embedcanaistv.club/bandnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48SD8z1WbAm-xeVRI1DSkjZBwW5O36EMJyQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
-http://lishb.com:8080/7924193672/8245089073/856182
+https://new2.cdnoff.online/bandsport/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="VARIEDADES",BIS
 http://lishb.com:8080/7924193672/8245089073/856640
@@ -70,7 +70,7 @@ http://lishb.com:8080/7924193672/8245089073/856678
 https://anonstream.live/cinemax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="NOTÍCIAS",CNN BRASIL
-http://lishb.com:8080/7924193672/8245089073/856488
+https://s2.fazoeli.fun/token/91934131acbb7f368de631bad073cb44/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="CNN ESPANHOL" tvg-name="CNN ESPANHOL" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="NOTÍCIAS",CNN ESPANHOL
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415616
@@ -141,16 +141,16 @@ http://clienteworld.com:80/claud123/claud123/138429
 http://clienteworld.com:80/claud123/claud123/138431
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="ESPORTES",ESPN
-http://lishb.com:8080/7924193672/8245089073/925563
+https://embedcanaistv.club/espn1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPORTES",ESPN 2
-http://lishb.com:8080/7924193672/8245089073/925553
+https://s2.fazoeli.fun/token/8cbfb61f36a9bc653a09d841d6a88f65/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AxNcf7mRJprmh_EdD5kNXoUnSkBW1GUEdLhQy0zg28XGliFjV0f21alB&s=10" group-title="ESPORTES",ESPN 3
-http://lishb.com:8080/7924193672/8245089073/925558
+https://s2.fazoeli.fun/token/21b48b9523545b6640d2f3eb6c89d4bb/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDNRFqHxc9Uzt3h9FOCB1qvYRSLgcyOMCLw&usqp=CAU" group-title="ESPORTES",ESPN 4
-http://lishb.com:8080/7924193672/8245089073/925572
+https://s2.fazoeli.fun/token/c7f30da3a9c5c9d7fbebc9bae91f36d1/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="ESPORTES",ESPN EXTRA
 http://lishb.com:8080/7924193672/8245089073/925569
@@ -174,10 +174,13 @@ http://lishb.com:8080/7924193672/8245089073/856684
 http://lishb.com:8080/7924193672/8245089073/856117
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO RJ
-http://lishb.com:8080/7924193672/8245089073/856417
+https://new2.cdnoff.online/globosp/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO SP
 https://live-as-04-13.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMTMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ3MDYxMzg5LCJpYXQiOjE3NDY5NzQ5ODksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzhiMDQ1YjQtNzEwMi00NjYyLTg3NjUtZTI3MjM5NWRiM2VlIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.gB2BRLQd3PoBCeWP_FrIf-gd9Jt4F_WOb7JMnE8ouDui0mekM1lDJqkqSRDAwbsej5FIezH9PfmEbNGAEERHld35uSeAXSsHvqbc8_NYWa9-oj0eFXhiQeXTFwQdu157-vRMe9hXkqsjkoSZjeSe9ijEazW21ZTg53N382o_LdRt-6rbTyEsJUSCFVJOnrsPpY2md3nxwbtDOkX-rfRU2ue8fIpHbCX4R5e1_-9U58uNB5ehy5ZtNYBw5fefk-Tz_uTZP5B5VztOR_S6J1BX0TswBz4NYMTg2IKBsvkUy43KQN-UyxOzqDx4ATKCUcwxmKm_gcKjO4B496MkkPWSTg/nu/f(dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="SINAL ABERTO",GLOBO SP
+https://new2.cdnoff.online/globosp/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbo2etQPT7KaBK7z3Zd0WMoP96jjjZ1GcOA&usqp=CAU" group-title="NOTÍCIAS",GLOBO NEWS
 https://anonstream.live/globonews/tracks-v1a1/mono.m3u8
@@ -244,6 +247,9 @@ http://lishb.com:8080/7924193672/8245089073/856066
 
 #EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUj1WudYNzR3kjNQ1dsVWu39xfH3kWELSyBQ&usqp=CAU" group-title="NOTÍCIAS",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUj1WudYNzR3kjNQ1dsVWu39xfH3kWELSyBQ&usqp=CAU" group-title="NOTÍCIAS",JOVEM PAN NEWS
+https://alanza.iptv2022.com/sh/Jovem_Pan_News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME
 http://lishb.com:8080/7924193672/8245089073/856691
@@ -333,14 +339,23 @@ https://44.crackstreamslivehd.com/premiere1/tracks-v1a1/mono.m3u8?ip=191.189.3.8
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://api.magiaiptv.com/live/800338/585505/m2_EzQIvhr4w2UUk5HoaRXy_720p
 
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL._SY400_.jpg" group-title="ESPORTES",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="RED BULL TV" tvg-name="RED BULL TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL._SY400_.jpg" group-title="ESPORTES",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTÍCIAS",RECORD NEWS
-http://lishb.com:8080/7924193672/8245089073/856503
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_360p.m3u8
 
 #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD RJ
 http://api.magiaiptv.com/live/800338/585505/m3_cifclPqEUW47LDp9q7_720p
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD SP
 https://alanza.iptv2022.com/sh/RecordTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD SP
+https://new2.cdnoff.online/recordsp/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="REDE AMAZÔNICA MANAUS" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvnmM6bPGK9bkiIxCDSssJM_nKfjKE0oryw&usqp=CAU" group-title="SINAL ABERTO",REDE AMAZÔNICA MANAUS
 http://lishb.com:8080/7924193672/8245089073/856358
@@ -358,7 +373,7 @@ http://lishb.com:8080/7924193672/8245089073/856524
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SINAL ABERTO",SBT SP
-http://lishb.com:8080/7924193672/8245089073/856527
+https://stream.cdnoff.online/sbt/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="VARIEDADES",SIC INTERNACIONAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
