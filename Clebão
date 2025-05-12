@@ -72,8 +72,8 @@ https://anonstream.live/cinemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLpa9OF1CUHGWRrl3ejAEwVVHEURRNi4-TpYrX3GT_Ymtey5VQPgrpyWx&s=10" group-title="NOTÍCIAS",CNN BRASIL
 https://s2.fazoeli.fun/token/91934131acbb7f368de631bad073cb44/embedtv.m3u8
 
-#EXTINF:-1 tvg-id="CNN ESPANHOL" tvg-name="CNN ESPANHOL" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="NOTÍCIAS",CNN ESPANHOL
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png
+#EXTINF:-1 tvg-id="CNN ESPANHOL" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTÍCIAS",CNN ESPANHOL
+
 
 #EXTINF:-1 tvg-id="CNN INTERNACIONAL" tvg-name="CNN INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/200px-CNN-International-Logo.svg.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415615
@@ -145,9 +145,6 @@ http://lishb.com:8080/7924193672/8245089073/856669
 
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="VARIEDADES",FOOD NETWORK
 http://lishb.com:8080/7924193672/8245089073/856676
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvzj5jsYeWz8nE3YFug-qEdjVeGD76eZP4g&usqp=CAU" group-title="ESPORTES",FOX SPORTS 2
-http://lishb.com:8080/7924193672/8245089073/9255781
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="SINAL ABERTO",FUTURA
 http://lishb.com:8080/7924193672/8245089073/856684
@@ -371,9 +368,6 @@ http://api.magiaiptv.com/live/800338/585505/m3_eargH0Pv9qstv4_720p_2M
 
 #EXTINF:-1 tvg-id="SPORT•TV 5" tvg-name="SPORT•TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 5 
 http://api.magiaiptv.com/live/800338/585505/m3_L4QIjJorwjstv5_1080p
-
-#EXTINF:-1 tvg-id="ST☆R CHANNEL" tvg-name="ST☆R CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/400px-Star_Channel_2020.svg.png" group-title="FILMES E SÉRIES",ST☆R CHANNEL
-http://lishb.com:8080/7924193672/8245089073/856100
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://lishb.com:8080/7924193672/8245089073/856140
