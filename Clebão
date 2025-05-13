@@ -1,11 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXG-pZVIeKwy5_78gCyjSUdTyVumInJnsXf_ZQknDf2cWL9X8Y5zfc2M&s=10" group-title="VARIEDADES",ADULT SWIM
+http://supersonictv.live:8080/968896/903421/85111
+
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" group-title="FILMES E SÉRIES",A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-3-main.m3u8
-
-#EXTINF:-1 tvg-id="ALL SPORTS"tvg-name="ALL SPORTS" tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png/v1/crop/x_301,y_292,w_2184,h_2123/fill/w_240,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_nova_ALLSPORTS.png" group-title="ESPORTES", ALL SPORTS
-
-http://supersonictv.live:8080/968896/903421/85149
 
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png" group-title="FILMES E SÉRIES",AMC
@@ -81,7 +80,7 @@ http://supersonictv.live:8080/968896/903421/85163
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="ESPORTES",COMBATE
 http://supersonictv.live:8080/968896/903421/84953
 
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1206px-Comedy_Central_2011_Logo.svg.png" group-title="VARIEDADES",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL"tvg-logo="https://yt3.googleusercontent.com/AtKjqc4yHXYledxbBvy7xWvUwHvVDaZIuXOop97cbWV0_NETK_rzSjvmu3uq98o3q898tRFypoY=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDADES",COMEDY CENTRAL
 http://supersonictv.live:8080/968896/903421/84954
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA!" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",CURTA!
@@ -413,9 +412,6 @@ http://supersonictv.live:8080/968896/903421/85110
 
 #EXTINF:-1 tvg-id="TRAVEL BOX BRAZIL" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/10/13122016/Logo_Travel-Box-Brazil.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL
 http://supersonictv.live:8080/968896/903421/85326 
-
-#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="VARIEDADES",TRUTV
-http://supersonictv.live:8080/968896/903421/85111
 
 #EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="TV APARECIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
 
