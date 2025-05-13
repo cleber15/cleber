@@ -23,7 +23,7 @@ http://supersonictv.live:8080/968896/903421/84938
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Band-eye.png/revision/latest/scale-to-width-down/200?cb=20250108205319" group-title="SINAL ABERTO",BAND
 http://supersonictv.live:8080/968896/903421/84940
 
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://images.seeklogo.com/logo-png/55/2/bandnews-logo-png_seeklogo-550605.png" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-gVAkCusJRnt5SaHLb1sPwN_xyrX7g4Kvf5dJcG1BEuhaeBAiruGLj4&s=10" group-title="NOTÍCIAS",BAND NEWS
 https://embedcanaistv.club/bandnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48SD8z1WbAm-xeVRI1DSkjZBwW5O36EMJyQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
@@ -106,7 +106,7 @@ http://supersonictv.live:8080/968896/903421/84971
 http://supersonictv.live:8080/968896/903421/84972
 
 #EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
-http://supersonictv.live:8080/968896/903421/849730
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171337.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL
 http://supersonictv.live:8080/968896/903421/84974
@@ -150,7 +150,7 @@ http://supersonictv.live:8080/968896/903421/84985
 https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="FILMES E SÉRIES",FX
-http://supersonictv.live:8080/968896/903421/84995
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331254.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" tvg-logo="https://static.wikia.nocookie.net/redeglobo/images/2/21/Globo_2000_clear.png/revision/latest/scale-to-width-down/394?cb=20230120012247&path-prefix=pt" group-title="SINAL ABERTO",GLOBO RJ
 http://supersonictv.live:8080/968896/903421/85011
@@ -164,8 +164,7 @@ http://supersonictv.live:8080/968896/903421/85005
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIS",GLOOB
 http://supersonictv.live:8080/968896/903421/85030
 
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://logodownload.or
-6g/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIS",GLOOBINHO
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XoMHW-0b4EjgErUOMR4ADszmpFKYLPcZCaq4ux9NQsXC9175Iwnnl6JS&s=10" group-title="INFANTIS",GLOOBINHO
 http://supersonictv.live:8080/968896/903421/85031
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT
@@ -190,9 +189,9 @@ http://supersonictv.live:8080/968896/903421/85040
 http://supersonictv.live:8080/968896/903421/85041
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+ " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ832RNQn3bTlpF6Tyq13ghhjQAHtAsZlkEvw&usqp=CAU" group-title="FILMES E SÉRIES",HBO+
-http://supersonictv.live:8080/968896/903421/85038
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171315.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNr0eUC0Ozh0Vshjq0kKygGLaOQ47hnqsGw&usqp=CAU" group-title="FILMES E SÉRIES",HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" group-title="FILMES E SÉRIES",HBO 2
 http://supersonictv.live:8080/968896/903421/85034
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS",HGTV
@@ -243,11 +242,11 @@ http://supersonictv.live:8080/968896/903421/85056
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AW961f-6Mj0xGvZmVcb5xIiOtqjUSYdeRw&usqp=CAU" group-title="INFANTIS",NICKELODEON
 http://supersonictv.live:8080/968896/903421/85055
 
-#EXTINF:-1 tvg-id="NSPORTS" tvg-name="NSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtCDej89YZyLWBgA6fH79OqEQaX6lEI6PzMwNazRoOToQV2mw9qcdS9Q&s=10" group-title="ESPORTES",NSPORTS  
+#EXTINF:-1 tvg-id="N SPORTS" tvg-name="N SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtCDej89YZyLWBgA6fH79OqEQaX6lEI6PzMwNazRoOToQV2mw9qcdS9Q&s=10" group-title="ESPORTES",N SPORTS  
 http://supersonictv.live:8080/968896/903421/85149
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="ESPORTES",OFF  
-http://supersonictv.live:8080/968896/903421/85058
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331258.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org//wikipedia/commons/thumb/9/9d/Paramount_Network_%28Blue%29_Logo.png/200px-Paramount_Network_%28Blue%29_Logo.png" group-title="FILMES E SÉRIES",PARAMOUNT NETWORK
 http://supersonictv.live:8080/968896/903421/85059
@@ -259,10 +258,10 @@ http://supersonictv.live:8080/968896/903421/85126
 http://supersonictv.live:8080/968896/903421/85127
 
 #EXTINF:-1 tvg-id="Paramount+ 3" tvg-name="Paramount+ 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo1-m_I2E3GHmzGNcrvr6iIt8RJbnA8XzYA&usqp=CAU" group-title="ESPORTES",Paramount+ 3
-http://supersonictv.live:8080/968896/903421/85128
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379635.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+ 4" tvg-name="Paramount+ 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo1-m_I2E3GHmzGNcrvr6iIt8RJbnA8XzYA&usqp=CAU" group-title="ESPORTES",Paramount+ 4
-http://supersonictv.live:8080/968896/903421/85129
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379636.m3u8
 
 #EXTINF:-1 tvg-id="PLAYTV" tvg-name="PLAYTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_wOvenaCThusgo1mTSYhE4YQEizi8bpYXCP6t4BGeDrAHL9smMlBaL4&s=10" group-title="VARIEDADES",PLAYTV
 https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
@@ -288,6 +287,9 @@ http://supersonictv.live:8080/968896/903421/85067
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="ESPORTES",PREMIERE CLUBES
 http://supersonictv.live:8080/968896/903421/85068
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLyWsj2hJEtMboHm5MMquGBTyXfOnNoZMWw&usqp=CAU" group-title="ESPORTES",PREMIERE CLUBES
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162468.m3u8
 
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Primeboxbrazil.png/230px-Primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRAZIL
 http://supersonictv.live:8080/968896/903421/85069
@@ -391,7 +393,7 @@ http://supersonictv.live:8080/968896/903421/85107
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOhsyMiiKW4lagcWg7yJ7fd6u-j7fIF1wcw&usqp=CAU" group-title="FILMES E SÉRIES",TNT
 http://supersonictv.live:8080/968896/903421/85108 
 
-#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/500px-TBS_logo_2016.svg.png" group-title="FILMES E SÉRIES",TNT NOVELAS
+#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ce4_Iw0xgseTArz42aB4QInL0THwPN09X6Rqm0ZwGlnUICy2iBzaMFPT&s=10²" group-title="FILMES E SÉRIES",TNT NOVELAS
 http://supersonictv.live:8080/968896/903421/85098
 
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SÉRIES
@@ -424,7 +426,7 @@ http://supersonictv.live:8080/968896/903421/85328
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 
 #EXTINF:-1 tvg-id="TV BRASIL 2" tvg-name="TV BRASIL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-zGoPQhJK-DuACGd7830vflOxdiUzRwf6Q&usqp=CAU" group-title="SINAL ABERTO",TV BRASIL 2
-http://api.magiaiptv.com/live/800338/585505/m1_b9nBuw2Lp1mOftSqiYAs_720p
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37403.m3u8
 
 #EXTINF:-1 tvg-id="TV CÂMARA" tvg-name="TV CÂMARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="SINAL ABERTO",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
