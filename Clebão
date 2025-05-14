@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXG-pZVIeKwy5_78gCyjSUdTyVumInJnsXf_ZQknDf2cWL9X8Y5zfc2M&s=10" group-title="VARIEDADES",ADULT SWIM
-http://supersonictv.live:8080/968896/903421/85111
-
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" group-title="FILMES E SÉRIES",A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-3-main.m3u8
+
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXG-pZVIeKwy5_78gCyjSUdTyVumInJnsXf_ZQknDf2cWL9X8Y5zfc2M&s=10" group-title="VARIEDADES",ADULT SWIM
+http://supersonictv.live:8080/968896/903421/85111
 
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png" group-title="FILMES E SÉRIES",AMC
@@ -27,6 +27,10 @@ https://embedcanaistv.club/bandnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48SD8z1WbAm-xeVRI1DSkjZBwW5O36EMJyQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
 http://supersonictv.live:8080/968896/903421/84942
+
+#EXTINF:-1 tvg-id="BOA VONTADE TV" tvg-name="BOA VONTADE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRatm8ZFTE-hwmcuHQp0_0wrdn5NQe4ZEdFblsZSYBf7uENFwwyygof0r6&s=10" group-title="RELIGIOSOS",BOA VONTADE TV
+http://supersonictv.live:8080/968896/903421/84942
+http://supersonictv.live:8080/968896/903421/85130
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="VARIEDADES",BIS
 http://supersonictv.live:8080/968896/903421/84943
@@ -54,13 +58,10 @@ http://supersonictv.live:8080/968896/903421/85091
 http://supersonictv.live:8080/968896/903421/84946
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://adnews.com.br/wp-content/uploads/2021/12/Cartoonito-Logo-02.png" group-title="INFANTIS",CARTOONITO
-
+http://supersonictv.live:8080/682537/231637/84944
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJPoMhfM9xU9BlKhy1XaPTTOhY3uSAoXMcQ&usqp=CAU" group-title="NOTÍCIAS",CGTN
-https://video.cgtn.com/news/2025-04-17/The-Power-of-Ideas-A-China-ASEAN-dialogue-1CCVamMg4BW/video/wu_1ip0qvgfkn1q73n1a6e1k0q7nve/6000000-1920x1080.m3u8
-
-#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="FILMES E SÉRIES",CINECANAL 
-
+https://video.cgtn.com/news/2025-04-17/The-Power-of-Ideas-A-China-ASEAN-dialogue-1CCVamMg4BW/video/wu_1ip0qvgfkn1q73n1a6e1k0q7nve/6000000-1920x1080.m3u8 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe_wiI8_zHsTD_rH5ttSW-M4wkcHE6mvJqA&usqp=CAU" group-title="FILMES E SÉRIES",CINEMAX
 http://supersonictv.live:8080/968896/903421/84948
@@ -119,7 +120,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 http://supersonictv.live:8080/968896/903421/84977
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="ESPORTES",ESPN
-https://embedcanaistv.club/espn1/tracks-v1a1/mono.ts.m3u8
+http://supersonictv.live:8080/682537/231637/84979
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPORTES",ESPN 2
 http://supersonictv.live:8080/968896/903421/84981
@@ -300,7 +301,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_360p.m3u8
 
 #EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD RJ
-http://supersonictv.live:8080/968896/903421/85081
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37407.m3u8
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="SINAL ABERTO",RECORD SP
 https://alanza.iptv2022.com/sh/RecordTV/tracks-v1a1/mono.m3u8
@@ -324,7 +325,7 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="SINAL ABERTO",SBT SP
-http://supersonictv.live:8080/968896/903421/85089
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162495.m3u8
 
 #EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-name="SIC INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="VARIEDADES",SIC INTERNACIONAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
@@ -345,19 +346,34 @@ http://supersonictv.live:8080/968896/903421/85094
 http://api.magiaiptv.com/live/800338/585505/m3_UCWbpolpkgstvp_1080p
 
 #EXTINF:-1 tvg-id="SPORT•TV 1" tvg-name="SPORT•TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 1
-http://api.magiaiptv.com/live/800338/585505/m3_DFwhzUuzfistv1_1080p
+https://beautifulpeople.lovecdn.ru/SPT1/tracks-v1/index.fmp4.m3u8?token=c8aef08bf12112157c7a0aaf83c88452b5e286f9-8019c0c6d574e402dce6ab83047dff39-1747199362-1747188562
+
+#EXTINF:-1 tvg-id="SPORT•TV 1" tvg-name="SPORT•TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 1
+https://lima.crackstreamslivehd.com:443/sportv_1pt/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=07a223174a1aed8e5b716b01e6ecf99fdeddbe01-c7-1747213069-1747180669
 
 #EXTINF:-1 tvg-id="SPORT•TV 2" tvg-name="SPORT•TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 2
-http://api.magiaiptv.com/live/800338/585505/m3_FZukotDQWYstv2_1080p
+https://beautifulpeople.lovecdn.ru/SPT2/tracks-v1/index.fmp4.m3u8?token=0cb1dfd5c69ec73193d7ed6138304082aa25afa4-8f7e0744d943d86083e0441a643538eb-1747199826-1747189026
+
+#EXTINF:-1 tvg-id="SPORT•TV 2" tvg-name="SPORT•TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 2
+https://8895.crackstreamslivehd.com/sportv_2pt/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=72168b213a002c840281344fa92f446d8708b3ac-d0-1747213372-1747180972
 
 #EXTINF:-1 tvg-id="SPORT•TV 3" tvg-name="SPORTV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 3 
 https://44.crackstreamslivehd.com/sporttvbr1/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=c168293ea6e0df4deeaa6e9624cc2409f3b6763c-37-1747006780-1746974380
 
+#EXTINF:-1 tvg-id="SPORT•TV 3" tvg-name="SPORTV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 3
+https://miami.crackstreamslivehd.com/sportv_3pt/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=a01de80d52e3e8c75d1dc142de445ff4438b5294-1a-1747213552-1747181152
+
 #EXTINF:-1 tvg-id="SPORT•TV 4" tvg-name="SPORT•TV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 4
-http://api.magiaiptv.com/live/800338/585505/m3_eargH0Pv9qstv4_720p_2M
+https://beautifulpeople.lovecdn.ru/SPT4/tracks-v1/index.fmp4.m3u8?token=e4ee9cce7ba267063da160648554001c2ddff654-63ff5824ce5c2d20599a26b4987ddc5a-1747199939-1747189139
+
+#EXTINF:-1 tvg-id="SPORT•TV 4" tvg-name="SPORT•TV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 4
+https://57b1.crackstreamslivehd.com/sportv_4pt/tracks-v1a1/mono.m3u8?ip=191.189.3.82&token=0d841b7f4d6f23a189df016f2d6424fd491222a9-e7-1747213796-1747181396
 
 #EXTINF:-1 tvg-id="SPORT•TV 5" tvg-name="SPORT•TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 5 
-http://api.magiaiptv.com/live/800338/585505/m3_L4QIjJorwjstv5_1080p
+https://beautifulpeople.lovecdn.ru/SPT5/tracks-v1/index.fmp4.m3u8?token=2a478c65c7415eb4e86744c618221057b92dd5ac-1f0c9e46581bbf8ccef39262b67b84ae-1747200040-1747189240
+
+#EXTINF:-1 tvg-id="SPORT•TV 5" tvg-name="SPORT•TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSJHItVNAZM3jZOjhAznoDaPie3-4lKD6aX2mI9SKz1L0lC7cZ9sTuU&s=10" group-title="ESPORTES",SPORT•TV 5
+http://cgxheq.fubohd.com/sporttv5/mono.m3u8?token=f6cac50ffd668ab862aedbbd5cd3e9fafa2772f5-5a-1747207669-1747189669
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL 
 http://supersonictv.live:8080/968896/903421/85096
