@@ -119,22 +119,22 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 http://supersonictv.live:8080/968896/903421/84977
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="ESPORTES",ESPN
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171310.m3u8
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171302.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPORTES",ESPN 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171301.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn3-252x252.png" group-title="ESPORTES",ESPN 3
-http://supersonictv.live:8080/682537/231637/84978
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162359.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn4-252x252.png" group-title="ESPORTES",ESPN 4
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171310.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-espn-5-252x252.webp" group-title="ESPORTES",ESPN 5
-http://supersonictv.live:8080/968896/903421/84992
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162381.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-espn-6-252x252.webp" group-title="ESPORTES",ESPN 6
-http://supersonictv.live:8080/968896/903421/84980
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171310.m3u8
 
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufS-rruRFPXaF0gRnvsHw4DPzsN1qE634uQ&usqp=CAU" group-title="VARIEDADES",FILM & ARTS
 https://anonstream.live/filmearts/tracks-v1a1/mono.m3u8
@@ -242,7 +242,7 @@ http://supersonictv.live:8080/968896/903421/85056
 http://supersonictv.live:8080/968896/903421/85055
 
 #EXTINF:-1 tvg-id="N SPORTS" tvg-name="N SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtCDej89YZyLWBgA6fH79OqEQaX6lEI6PzMwNazRoOToQV2mw9qcdS9Q&s=10" group-title="ESPORTES",N SPORTS  
-http://supersonictv.live:8080/968896/903421/85149
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162382.m3u8
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="ESPORTES",OFF  
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331258.m3u8
@@ -251,16 +251,16 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331258.m3u8
 http://supersonictv.live:8080/968896/903421/85059
 
 #EXTINF:-1 tvg-id="Paramount+" tvg-name="Paramount+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo1-m_I2E3GHmzGNcrvr6iIt8RJbnA8XzYA&usqp=CAU" group-title="ESPORTES",Paramount+
-http://supersonictv.live:8080/968896/903421/85126
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379635.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+ 2"tvg-name="Paramount+ 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo1-m_I2E3GHmzGNcrvr6iIt8RJbnA8XzYA&usqp=CAU" group-title="ESPORTES",Paramount+ 2
 http://supersonictv.live:8080/968896/903421/85127
 
 #EXTINF:-1 tvg-id="Paramount+ 3" tvg-name="Paramount+ 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo1-m_I2E3GHmzGNcrvr6iIt8RJbnA8XzYA&usqp=CAU" group-title="ESPORTES",Paramount+ 3
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379635.m3u8
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379636.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+ 4" tvg-name="Paramount+ 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPo1-m_I2E3GHmzGNcrvr6iIt8RJbnA8XzYA&usqp=CAU" group-title="ESPORTES",Paramount+ 4
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379636.m3u8
+
 
 #EXTINF:-1 tvg-id="PLAYTV" tvg-name="PLAYTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_wOvenaCThusgo1mTSYhE4YQEizi8bpYXCP6t4BGeDrAHL9smMlBaL4&s=10" group-title="VARIEDADES",PLAYTV
 https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
