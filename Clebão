@@ -4,14 +4,14 @@
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-3-main.m3u8
 
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXG-pZVIeKwy5_78gCyjSUdTyVumInJnsXf_ZQknDf2cWL9X8Y5zfc2M&s=10" group-title="VARIEDADES",ADULT SWIM
-http://supersonictv.live:8080/968896/903421/85111
+https://anonstream.live/adultswim/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png" group-title="FILMES E SÉRIES",AMC
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162303.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKLUdKwbSCJxqlqQYGd7-JY8a9EbBh9NSfcw&usqp=CAU" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
-http://supersonictv.live:8080/968896/903421/84936
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331279.m3u8
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxpQvvGY8bsSJNvw52VNq-w6BAbnZpZPFZdmD5aKTKiqCueTX1c0a0OZwFRSYjLPEqSSsfwttBtj_LUCbInwEQ4dgeRGHy1AJV7sD2FpE" group-title="VARIEDADES",ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292-0-main.m3u8
@@ -23,13 +23,13 @@ http://79.127.238.228:14563
 https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiIwZmJkMGNhYS1jMTFjLTRkOGUtYWYyMS00ZTgzYWZlNjg4YTYiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc0NzM2ODE2MSwiaWF0IjoxNzQ3MzY4MTYxLCJleHAiOjE3NDc0NTQ1NjEsImp0aSI6IjBmYmQwY2FhLWMxMWMtNGQ4ZS1hZjIxLTRlODNhZmU2ODhhNiIsImlzcyI6IlNwYWxsYSJ9.4u37JqMq_tDdM61OByti0U6GNo1bSdhcXDePAGyavck&uid=0fbd0caa-c11c-4d8e-af21-4e83afe688a6
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-gVAkCusJRnt5SaHLb1sPwN_xyrX7g4Kvf5dJcG1BEuhaeBAiruGLj4&s=10" group-title="NOTÍCIAS",BAND NEWS
-https://embedcanaistv.club/bandnews/tracks-v1a1/mono.ts.m3u8
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162309.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48SD8z1WbAm-xeVRI1DSkjZBwW5O36EMJyQ&usqp=CAU" group-title="ESPORTES",BAND SPORTS
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37424.m3u8
 
 #EXTINF:-1 tvg-id="BOA VONTADE TV" tvg-name="BOA VONTADE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRatm8ZFTE-hwmcuHQp0_0wrdn5NQe4ZEdFblsZSYBf7uENFwwyygof0r6&s=10" group-title="RELIGIOSOS",BOA VONTADE TV
-http://supersonictv.live:8080/968896/903421/85130
+
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="VARIEDADES",BIS
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171349.m3u8
@@ -54,7 +54,7 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162318.m3u8
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiGkx0QhNtk1lOIzkcmZ7NAvwII8QDCMiIR1a3oyyr4deGShp2w5BRQA&s=10" group-title="INFANTIS",CARTOON NETWORK
-https://embedtvcanais.online/cartoonnetwork/index.m3u8
+https://anonstream.live/cartoonnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://adnews.com.br/wp-content/uploads/2021/12/Cartoonito-Logo-02.png" group-title="INFANTIS",CARTOONITO
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162321.m3u8
@@ -75,7 +75,7 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162326.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/360177.m3u8
 
 #EXTINF:-1 tvg-id="CNT" tvg-name="CNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GkrKxNnFhRVf_FhuDN9HfBHEJ5Sk5UqI4w&usqp=CAU" group-title="RELIGIOSOS",CNT
-http://supersonictv.live:8080/968896/903421/85163
+https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiL2MwZmJhYjFkLThhZDYtNGI2Yy1iMDUzLWIzMGE4OWIwMjExMC8iLCJ1aWQiOiIzOTRmZmNkOS0wZTExLTQ5NmYtOTkzYy1lZjVhYjA3MjQ4MmIiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc0NzQxNTc1MSwiaWF0IjoxNzQ3NDE1NzUxLCJleHAiOjE3NDc1MDIxNTEsImp0aSI6IjM5NGZmY2Q5LTBlMTEtNDk2Zi05OTNjLWVmNWFiMDcyNDgyYiIsImlzcyI6IlNwYWxsYSJ9.TKauu8kkBFyEZsxkB-jTrUnQwT3U_Po_MJAUcMKzCUw&uid=394ffcd9-0e11-496f-993c-ef5ab072482b
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="ESPORTES",COMBATE
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162327.m3u8
@@ -107,9 +107,6 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171334.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171337.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171338.m3u8
-
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://en.m.wikipedia.org/wiki/Disney_Junior#/media/File%3ADisney_Junior.svg" group-title="INFANTIS",DISNEY JUNIOR http://supersonictv.live:8080/968896/903421/84975
 
 #EXTINF:-1 tvg-id="DW ESPANHOL" tvg-name="DW ESPANHOL" tvg-logo="https://dwactive.files.wordpress.com/2015/04/dw-logo_circles_turq.png" group-title="VARIEDADES",DW ESPANHOL
@@ -137,10 +134,10 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162381.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171310.m3u8
 
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufS-rruRFPXaF0gRnvsHw4DPzsN1qE634uQ&usqp=CAU" group-title="VARIEDADES",FILM & ARTS
-https://anonstream.live/filmearts/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="VARIEDADES",FISH TV
-https://cdntv.zaptelecom.com.br/media/n/BZi1nZuZy2G2nZC4oda/a/BZi1nZuZy2G2nZC4oda/360p/chunks.m3u8?ch=BZi1nZuZy2G2nZC4oda&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDc0MTEzMjUsImlhdCI6MTc0NzM5NjkyNSwic3ViIjoiY2RudHYuemFwdGVsZWNvbS5jb20uYnIjNTUxIn0.R9JrtzgCj7Q5kX410seqKTfU739WrwnjIjvvGN5b_Es
+https://cdntv.zaptelecom.com.br/media/n/BZi1nZuZy2G2nZC4oda/a/BZi1nZuZy2G2nZC4oda/720p/chunks.m3u8?ch=BZi1nZuZy2G2nZC4oda&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDc0MzQ5ODQsImlhdCI6MTc0NzQyMDU4NCwic3ViIjoiY2RudHYuemFwdGVsZWNvbS5jb20uYnIjNTUxIn0.1t3pj7NanHXwv_5KiiwRu852HuJzbUr61fuAJ7l_0ls
 
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="VARIEDADES",FOOD NETWORK
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171345.m3u8
@@ -228,7 +225,7 @@ http://79.127.238.228:14592
 https://anonstream.live/modoviagem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnMrTQdn6LTIH8tGyX4dqga5Exw0N5iynwcMlRMOgWLGl4WCY&s" group-title="VARIEDADES",MTV
-https://embedtvcanais.online/mtv/tracks-v1a1/mono.ts.m3u8
+https://fazoeli.fun/token/098b78958babdcbb58178237d6f29dff/embedtv.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKszd8_qa9-4aUWRbNQcmmVbXNrm8JaAnoWw&usqp=CAU" group-title="VARIEDADES",MULTISHOW
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331257.m3u8
@@ -244,6 +241,9 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171340.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AW961f-6Mj0xGvZmVcb5xIiOtqjUSYdeRw&usqp=CAU" group-title="INFANTIS",NICKELODEON
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171344.m3u8
+
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL" tvg-name="NOSSO FUTEBOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpwBdhKQhnbfNcwozGt2cnLOeS7_T119IMFchCdKsrU_mHT2RFm6tYHoM&s=10" group-title="ESPORTES",NOSSO FUTEBOL
+https://embedtvcanais.online/nossofutebol/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="N SPORTS" tvg-name="N SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtCDej89YZyLWBgA6fH79OqEQaX6lEI6PzMwNazRoOToQV2mw9qcdS9Q&s=10" group-title="ESPORTES",N SPORTS  
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162382.m3u8
