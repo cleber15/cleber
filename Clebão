@@ -1,1 +1,24 @@
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",A&E FHD
+http://nivorcdn.online/live/575603712/312721063/bbc97c6a-de5d-40c0-8bc5-b6b61b73b033.m3u
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD [H265]" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",A&E FHD [H265]
+http://nivorcdn.online/live/575603712/312721063/1882f691-6420-4655-9121-f8ee7f4d0808.m3u
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",A&E HD
+http://nivorcdn.online/live/575603712/312721063/e9580287-bc3c-4385-93ba-059512c6d9b3.m3u
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",A&E SD
+http://nivorcdn.online/live/575603712/312721063/4c2ccc0f-faff-4c40-a174-40db17cca20d.m3u
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",AMC FHD
+http://nivorcdn.online/live/575603712/312721063/b6fde564-d6d6-4535-af72-db827d8faca2.m3u
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD [H265]" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",AMC FHD [H265]
+http://nivorcdn.online/live/575603712/312721063/1aebeed0-7790-4f74-bd2c-9dd599a0b826.m3u
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",AMC HD
+http://nivorcdn.online/live/575603712/312721063/b1e203ca-85aa-444b-895e-5d2a47170827.m3u
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",AMC SD
+http://nivorcdn.online/live/575603712/312721063/b2a13ec6-fb4c-42c1-93aa-6eafcbe1a5ee.m3u
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Animal Planet FHD
+http://nivorcdn.online/live/575603712/312721063/43794232-bae6-4feb-a1d0-d29e28250e3e.m3u
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Animal Planet FHD [H265]
+http://nivorcdn.online/live/575603712/312721063/0875343d-8227-4698-a0a6-bdc28a919f98.m3u
+
