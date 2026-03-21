@@ -1,257 +1,252 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="#Alive" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUEv9INjh1HEdbD9BAExioSO65a.jpg" group-title="FILMES",#Alive
-http://nivorcdn.online/movie/575603712/312721063/ca4ce9b4-16f0-4b5f-a01e-800da32eb5f5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Alto Realidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZliPeiiDta9KbONAhdFSXhTxrO.jpg" group-title="FILMES",#Alto Realidade
-http://nivorcdn.online/movie/575603712/312721063/9d1f676b-6937-4011-be11-ff6ce3fc5450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#AnneFrank. Parallel Stories" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zqEb7CXzykYUU76deubBgz8VBt.jpg" group-title="FILMES",#AnneFrank. Parallel Stories
-http://nivorcdn.online/movie/575603712/312721063/59b18bf6-0b08-4202-a816-71d2925979a5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E1" tvg-logo="https://image.tmdb.org/t/p/w1280/lSqvCVROgAQ1u1N5IAIBGrBCTjp.jpg" group-title="SÉRIES",#blackAF S1 E1
-http://nivorcdn.online/series/575603712/312721063/82f1710a-007d-4153-bfa9-80adb4f06da7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E2" tvg-logo="https://image.tmdb.org/t/p/w1280/qDegRyop90ceH0rjGg02M98c9KS.jpg" group-title="SÉRIES",#blackAF S1 E2
-http://nivorcdn.online/series/575603712/312721063/aab196e3-1001-4e0b-8196-11eb0dff9286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E3" tvg-logo="https://image.tmdb.org/t/p/w1280/p17NdHni5fWNXQOliNWO2OflA3Q.jpg" group-title="SÉRIES",#blackAF S1 E3
-http://nivorcdn.online/series/575603712/312721063/141ccfac-535d-467a-bcc0-ebde6af7b1bd.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E4" tvg-logo="https://image.tmdb.org/t/p/w1280/vVDyfsFmdI0Pjzi4Hj8BaRGtY1a.jpg" group-title="SÉRIES",#blackAF S1 E4
-http://nivorcdn.online/series/575603712/312721063/80e7ad65-3f11-4822-849a-c9ff2d4c99d4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E5" tvg-logo="https://image.tmdb.org/t/p/w1280/aV2DsyVZmnefvnxKb56wRo5KsXD.jpg" group-title="SÉRIES",#blackAF S1 E5
-http://nivorcdn.online/series/575603712/312721063/4463ca8a-5fc8-417f-89b8-1ccfbe29c0ee.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E6" tvg-logo="https://image.tmdb.org/t/p/w1280/5upBh3StdgX4LeWUV6uzIY2l9So.jpg" group-title="SÉRIES",#blackAF S1 E6
-http://nivorcdn.online/series/575603712/312721063/5ade77dd-9487-421e-be59-1c1b6bf8e90a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E7" tvg-logo="https://image.tmdb.org/t/p/w1280/yfpLonCO4zxe19k0B6rdA0y6MHX.jpg" group-title="SÉRIES",#blackAF S1 E7
-http://nivorcdn.online/series/575603712/312721063/2bc0c014-8c92-4359-a337-68a3d1345af3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#blackAF S1 E8" tvg-logo="https://image.tmdb.org/t/p/w1280/rfkXJPFKzR7owcooIpj4cMy34Xk.jpg" group-title="SÉRIES",#blackAF S1 E8
-http://nivorcdn.online/series/575603712/312721063/f791f99d-3b3a-4fc9-bb31-118d426e9fcd.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#ComVocê: Volume: 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEgBV4Tuo9jFZh7rFiQEbiY91sT.jpg" group-title="FILMES",#ComVocê: Volume: 1
-http://nivorcdn.online/movie/575603712/312721063/8310c25a-bb7f-4e80-979f-81fb1822341c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#eagoraoque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxLHtMGnLf22iBmmwtCvVlHdjDR.jpg" group-title="FILMES",#eagoraoque
-http://nivorcdn.online/movie/575603712/312721063/b772960b-94eb-4b5a-9816-b008a35ca07d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Horror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9pTHwhpSWmPHU8i1pEt9VIG9Kg.jpg" group-title="FILMES",#Horror
-http://nivorcdn.online/movie/575603712/312721063/f00c1820-c5cc-46e3-952f-64ed4ab4c5ca.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#SeAcabó: Diário das Campeãs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbhsO718qA8qeHyF00FsvG7vt3f.jpg" group-title="FILMES",#SeAcabó: Diário das Campeãs
-http://nivorcdn.online/movie/575603712/312721063/9db30a46-31f9-4b78-bc67-04d0d3e7feb3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#SemSaída" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUCIj47O9v5zktS81hRWktUVnSR.jpg" group-title="FILMES",#SemSaída
-http://nivorcdn.online/movie/575603712/312721063/6c065149-bf9e-4f66-b17a-f154c0b94fbb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="'Gator Bait" tvg-logo="" group-title="FILMES",'Gator Bait
-http://nivorcdn.online/movie/575603712/312721063/11888e41-c0c5-431b-9523-846c2a703bc1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="'Gator Bait" tvg-logo="" group-title="FILMES",'Gator Bait
-http://nivorcdn.online/movie/575603712/312721063/312cf0ae-f562-4028-8138-e37fcde1f291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(500) Dias com Ela (2009)" tvg-logo="" group-title="FILMES",(500) Dias com Ela (2009)
-http://nivorcdn.online/movie/575603712/312721063/6df5920d-d344-4d2a-ac5e-b71109ac36ac.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(A) Fronteira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BcojtQzpBlFvpMQZ7tMIRGSlz7.jpg" group-title="FILMES",(A) Fronteira
-http://nivorcdn.online/movie/575603712/312721063/a9aff244-53eb-4397-a492-e5803e570d74.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(A) Fronteira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BcojtQzpBlFvpMQZ7tMIRGSlz7.jpg" group-title="FILMES",(A) Fronteira
-http://nivorcdn.online/movie/575603712/312721063/50f73809-4fee-47e5-b13c-e9a7b243775d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Cortes do Diretor)Rebel Moon - Parte 1: A Menina do Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg" group-title="FILMES",(Cortes do Diretor)Rebel Moon - Parte 1: A Menina do Fogo
-http://nivorcdn.online/movie/575603712/312721063/d9c5ff60-1c94-453b-babd-d17ae3f9a190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Cortes do Diretor)Rebel Moon - Parte 1: A Menina do Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg" group-title="FILMES",(Cortes do Diretor)Rebel Moon - Parte 1: A Menina do Fogo
-http://nivorcdn.online/movie/575603712/312721063/21791d03-e282-4a88-9c33-b19fa56559f4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Cortes Do Diretor)Rebel Moon - Parte 2: A Marcadora de Cicatrizes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg" group-title="FILMES",(Cortes Do Diretor)Rebel Moon - Parte 2: A Marcadora de Cicatrizes
-http://nivorcdn.online/movie/575603712/312721063/71b81432-4c8f-4a88-a5ed-ca3fd066bc2d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Cortes do Diretor)Rebel Moon - Parte 2: A Marcadora de Cicatrizes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg" group-title="FILMES",(Cortes do Diretor)Rebel Moon - Parte 2: A Marcadora de Cicatrizes
-http://nivorcdn.online/movie/575603712/312721063/61b17fd6-f80a-414d-a534-ba5988964579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DKJdiCbf4TrN8v24Hc0S49iyPs.jpg" group-title="SÉRIES",(Des)encanto S1 E1
-http://nivorcdn.online/series/575603712/312721063/7dea7c3a-dc7b-4f62-9208-61e6871da1fd.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD79oEF8BDzKOZlFy0m9MAbOwdo.jpg" group-title="SÉRIES",(Des)encanto S1 E10
-http://nivorcdn.online/series/575603712/312721063/a8fb0032-ee68-4008-a47c-74c07c2fb08c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sGEEpZ7oXE0FxWiWl6TDBVraBP.jpg" group-title="SÉRIES",(Des)encanto S1 E2
-http://nivorcdn.online/series/575603712/312721063/90333ce3-9861-4fe5-90f5-029f218438eb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BEM13YVtGaqTZOAVevRzwlVAmY.jpg" group-title="SÉRIES",(Des)encanto S1 E3
-http://nivorcdn.online/series/575603712/312721063/a1efe036-1a6e-4b4e-af24-7c92ff53f68c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40QwVzwXsEo7GnocfBb32AvbG1W.jpg" group-title="SÉRIES",(Des)encanto S1 E4
-http://nivorcdn.online/series/575603712/312721063/6287a64e-a144-4daa-b0f4-807254c790b9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG0WaW3xMvqrYcrZOCamywfAFGG.jpg" group-title="SÉRIES",(Des)encanto S1 E5
-http://nivorcdn.online/series/575603712/312721063/9ee58201-7f01-44c4-9610-2ae4e0117f7f.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj2NhGoCwevrGchPqPRohQNZq4a.jpg" group-title="SÉRIES",(Des)encanto S1 E6
-http://nivorcdn.online/series/575603712/312721063/c73bd81c-c556-4e3a-9982-26e1eac77a17.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oANmmxY2oxRXSux9smrOxAva1OW.jpg" group-title="SÉRIES",(Des)encanto S1 E7
-http://nivorcdn.online/series/575603712/312721063/389512ba-6a94-4f95-8ff2-b98f580ca53a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QoLruXaiPYBtAq0gTII9EityFl.jpg" group-title="SÉRIES",(Des)encanto S1 E8
-http://nivorcdn.online/series/575603712/312721063/b3da9dbf-6fbb-4267-85c2-6c00b85dc4ea.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S1 E9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNBGxA5uJpbbaUuH3EOUPzKYpVA.jpg" group-title="SÉRIES",(Des)encanto S1 E9
-http://nivorcdn.online/series/575603712/312721063/7e445da6-397e-45e8-abc4-53e6a1919fac.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9z63sz5vKtDfbmMGVruLGA3HUF.jpg" group-title="SÉRIES",(Des)encanto S2 E1
-http://nivorcdn.online/series/575603712/312721063/8eb62c25-436e-49a5-8bc0-76cbe5db00e7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZaLP0yvcojPdXbXBsws7oDjljY.jpg" group-title="SÉRIES",(Des)encanto S2 E10
-http://nivorcdn.online/series/575603712/312721063/af27c946-0cb9-4b0d-b867-3b4905e6823a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHXQr4PY4uduu6IQzloEiKl4hW9.jpg" group-title="SÉRIES",(Des)encanto S2 E2
-http://nivorcdn.online/series/575603712/312721063/97437cdb-52f7-48b0-ab57-b9844483ec61.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DVPTWkGZa59EEbs7dSmX0hIvic.jpg" group-title="SÉRIES",(Des)encanto S2 E3
-http://nivorcdn.online/series/575603712/312721063/d75cdc45-9311-4e7e-bdd7-f467adae7b26.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFT9d6QWjim5QLnJsKKSZgjnIeq.jpg" group-title="SÉRIES",(Des)encanto S2 E4
-http://nivorcdn.online/series/575603712/312721063/09b82c9b-db36-4c2b-be6c-140869cc0c59.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZNNwHPYekQIzv0rABc7MJSLhAc.jpg" group-title="SÉRIES",(Des)encanto S2 E5
-http://nivorcdn.online/series/575603712/312721063/23115356-d831-492a-a141-e76a31569431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKlMw5PDUbEZ46N40v096Iw96Yl.jpg" group-title="SÉRIES",(Des)encanto S2 E6
-http://nivorcdn.online/series/575603712/312721063/d7c6b453-9a6a-4d14-8296-8689a0b37c58.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GSIr1rIT88EkQTNuOvj0shgXzc.jpg" group-title="SÉRIES",(Des)encanto S2 E7
-http://nivorcdn.online/series/575603712/312721063/593ac0b9-284d-4ff5-8868-f5d6b2077c45.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PKrG9Dx4vY8hI2ITUQ6Inp4uz9.jpg" group-title="SÉRIES",(Des)encanto S2 E8
-http://nivorcdn.online/series/575603712/312721063/f743ba9b-0502-4f16-9cf9-2041111a0b22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S2 E9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9EX5Tr2WHG4MYzIVnAhzZ1tHki.jpg" group-title="SÉRIES",(Des)encanto S2 E9
-http://nivorcdn.online/series/575603712/312721063/6e75c861-c899-429a-963e-5d227642c099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOp8ANYJfwnJ0HjFAgVLPG6Sd9R.jpg" group-title="SÉRIES",(Des)encanto S3 E1
-http://nivorcdn.online/series/575603712/312721063/55d61b28-d80b-48b9-82ef-29eef1b9758c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBHAmS2HDnaYSQQDJXcskPJh5Ka.jpg" group-title="SÉRIES",(Des)encanto S3 E10
-http://nivorcdn.online/series/575603712/312721063/929d33e4-2e7d-4e74-8902-f6800cec379d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trPzZLacK9EL3S2umjrBvHkrGrw.jpg" group-title="SÉRIES",(Des)encanto S3 E2
-http://nivorcdn.online/series/575603712/312721063/5cebdcfd-ffda-4226-8eda-99d787834474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZz6ziFCYGJX3uo3lcUop3PNsuh.jpg" group-title="SÉRIES",(Des)encanto S3 E3
-http://nivorcdn.online/series/575603712/312721063/38aa3c31-1734-4648-a2d9-819aca327b16.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SiXu5VUEud5v9Jj2flntiXQ3tw.jpg" group-title="SÉRIES",(Des)encanto S3 E4
-http://nivorcdn.online/series/575603712/312721063/c795f070-2d7a-4a40-9ab6-e1403713f8e6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLB5wYpRn0Fpr2Pqu5Js2iDFBWC.jpg" group-title="SÉRIES",(Des)encanto S3 E5
-http://nivorcdn.online/series/575603712/312721063/537e3ec2-4a7f-4ae3-a98b-d9e42240f59a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWrPd3iqsms9W7Vzjx1lfMl3Dgy.jpg" group-title="SÉRIES",(Des)encanto S3 E6
-http://nivorcdn.online/series/575603712/312721063/b6def41c-c3f6-4306-8821-f5a94cf08da2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vSU24zr0XB1Zjqvbgap54UpCAj.jpg" group-title="SÉRIES",(Des)encanto S3 E7
-http://nivorcdn.online/series/575603712/312721063/91c06d90-199f-439e-8a52-1587fd7447cb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNNs90J8qhTkOGmdULdqazyBnZo.jpg" group-title="SÉRIES",(Des)encanto S3 E8
-http://nivorcdn.online/series/575603712/312721063/1c22735e-e5ec-44ea-a92a-a7fa31f5e45e.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encanto S3 E9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgzk3BMPdIGt2kCTgKweO9kIpph.jpg" group-title="SÉRIES",(Des)encanto S3 E9
-http://nivorcdn.online/series/575603712/312721063/e7e471e3-77cf-4705-8f3e-bfd8204d4b8d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encontro Perfeito (2015)" tvg-logo="" group-title="FILMES",(Des)encontro Perfeito (2015)
-http://nivorcdn.online/movie/575603712/312721063/ecb40bce-a885-4d0a-b323-1bed1b6cb8d6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(In) Seguros (2019)" tvg-logo="" group-title="FILMES",(In) Seguros (2019)
-http://nivorcdn.online/movie/575603712/312721063/144926d2-1736-4299-ac22-cd83e97f6606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(In)Sanidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mtHQOSWWE20jEdN8guITW0nmBL.jpg" group-title="FILMES",(In)Sanidade
-http://nivorcdn.online/movie/575603712/312721063/e5758b92-58aa-4da1-bcd5-18808b7769b4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Re)Nascer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjjwYBk21klwdD86bxPro54qqaC.jpg" group-title="FILMES",(Re)Nascer
-http://nivorcdn.online/movie/575603712/312721063/a6ffde45-9d89-4859-a8e6-b260f9371224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Re)Nascer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjjwYBk21klwdD86bxPro54qqaC.jpg" group-title="FILMES",(Re)Nascer
-http://nivorcdn.online/movie/575603712/312721063/8ee05bad-e236-413b-b39d-e2f4807ea907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="+ Velozes + Furiosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx0CB8H78PQu0g9YUWG47hdi93S.jpg" group-title="FILMES",+ Velozes + Furiosos
-http://nivorcdn.online/movie/575603712/312721063/33d328ad-8f85-40a5-97b4-ed166b91ce2f.mp4
-#EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg" group-title="FILMES",...E o Vento Levou
-http://nivorcdn.online/movie/575603712/312721063/33c7f3f9-ab29-4ccc-b269-70f871da9cba.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXSrLdRzaSXCNJrGJENF9ih6RL.jpg" group-title="FILMES",.44
-http://nivorcdn.online/movie/575603712/312721063/a3a3cd5c-e3be-4092-8aca-26dcfa989d84.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//Liminality S1 E1" tvg-logo="" group-title="SÉRIES",.hack//Liminality S1 E1
-http://nivorcdn.online/series/575603712/312721063/83ccaf21-948c-4ee4-8e66-b12c7bb72dc8.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//Liminality S1 E2" tvg-logo="" group-title="SÉRIES",.hack//Liminality S1 E2
-http://nivorcdn.online/series/575603712/312721063/ded7c08f-1891-468f-8477-369415c8d72e.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//Liminality S1 E3" tvg-logo="" group-title="SÉRIES",.hack//Liminality S1 E3
-http://nivorcdn.online/series/575603712/312721063/3bf49eab-3958-42d0-9920-d76e208621dc.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//Liminality S1 E4" tvg-logo="" group-title="SÉRIES",.hack//Liminality S1 E4
-http://nivorcdn.online/series/575603712/312721063/3e850b53-1e1c-40f2-8c81-d0b444d37358.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E1" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E1
-http://nivorcdn.online/series/575603712/312721063/19ed65de-eaa9-42ef-8d7d-ca6b87be67cd.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E10" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E10
-http://nivorcdn.online/series/575603712/312721063/08a32ebd-9e3f-45a6-aab5-e15564a29071.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E11" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E11
-http://nivorcdn.online/series/575603712/312721063/175e011e-6976-4f52-81c8-11c885c31d80.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E12" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E12
-http://nivorcdn.online/series/575603712/312721063/c38984fc-9d3d-4e8e-a87d-0d28fa966b81.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E13" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E13
-http://nivorcdn.online/series/575603712/312721063/d7df3bf8-d325-462a-98b6-2498938641b9.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E14" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E14
-http://nivorcdn.online/series/575603712/312721063/d59afe03-8fc9-4643-a165-333a57bd9447.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E15" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E15
-http://nivorcdn.online/series/575603712/312721063/a7372c5c-570f-44cf-8c9e-58937bc038ca.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E16" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E16
-http://nivorcdn.online/series/575603712/312721063/f59720dc-1ce9-4d95-857f-3b5944328358.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E17" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E17
-http://nivorcdn.online/series/575603712/312721063/76c3196f-94b0-41e3-b1c9-101173fbaf72.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E18" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E18
-http://nivorcdn.online/series/575603712/312721063/890ba63e-17c3-4f68-a423-17e798b48c8c.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E19" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E19
-http://nivorcdn.online/series/575603712/312721063/998ed844-b014-4724-a7f1-c77cffff3d38.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E2" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E2
-http://nivorcdn.online/series/575603712/312721063/bdfdfd31-90f4-49ee-a5e9-80df7eee5c03.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E20" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E20
-http://nivorcdn.online/series/575603712/312721063/a05c70a2-f7a9-41dd-8d62-4c5f7298c704.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E21" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E21
-http://nivorcdn.online/series/575603712/312721063/c4a48272-f53c-4a98-8d74-29857a8385f3.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E22" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E22
-http://nivorcdn.online/series/575603712/312721063/668d239c-ca2c-4b65-a003-fbc9ebe04ca0.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E23" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E23
-http://nivorcdn.online/series/575603712/312721063/0ebeaebe-768d-409e-b645-583759b3af5d.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E24" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E24
-http://nivorcdn.online/series/575603712/312721063/87ddde95-7b60-46dc-b722-7d2f0d0766fc.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E25" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E25
-http://nivorcdn.online/series/575603712/312721063/29d4d35b-26cb-44fa-9aee-125a6eeb075a.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E26" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E26
-http://nivorcdn.online/series/575603712/312721063/2251a47d-ce76-4314-8c7f-cfce6520d416.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E3" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E3
-http://nivorcdn.online/series/575603712/312721063/3f8bb771-04ac-43d7-aefd-750ab635e9f9.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E4" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E4
-http://nivorcdn.online/series/575603712/312721063/9437a466-b8b6-42bf-b77b-628d2ff52096.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E5" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E5
-http://nivorcdn.online/series/575603712/312721063/8417de0e-6064-43b1-a147-490fafcdd743.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E6" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E6
-http://nivorcdn.online/series/575603712/312721063/a2eb3071-dece-494b-acfa-ff18e5690b2c.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E7" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E7
-http://nivorcdn.online/series/575603712/312721063/cbdbf881-d040-4876-a531-31a98ca9661c.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E8" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E8
-http://nivorcdn.online/series/575603712/312721063/6f805fcf-e901-45b8-8a93-fc17d56daa1b.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".hack//ROOTS S1 E9" tvg-logo="" group-title="SÉRIES",.hack//ROOTS S1 E9
-http://nivorcdn.online/series/575603712/312721063/d8e4cd63-d06e-46e3-8f0f-73b90501b062.mp4
-#EXTINF:-1 tvg-id="" tvg-name=".S.O" tvg-logo="" group-title="FILMES",.S.O
-http://nivorcdn.online/movie/575603712/312721063/cc094d1a-b057-4fab-9f91-cf22d94930fb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="/Tensei shitara Slime Datta Ken Movie - Guren no Kizuna-hen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13SyU6DvAwgI5MZdYJPTjhk6N50.jpg" group-title="FILMES",/Tensei shitara Slime Datta Ken Movie - Guren no Kizuna-hen
-http://nivorcdn.online/movie/575603712/312721063/56c08441-b693-441d-b128-3bb011755c15.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 A Serviço Secreto de Sua Majestade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lj09OvXpSgPTSHWOJ7AerBemDS.jpg" group-title="FILMES",007 A Serviço Secreto de Sua Majestade
-http://nivorcdn.online/movie/575603712/312721063/333f71f8-07c9-4448-9f86-e3cb73b82de9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 A Serviço Secreto de Sua Majestade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lj09OvXpSgPTSHWOJ7AerBemDS.jpg" group-title="FILMES",007 A Serviço Secreto de Sua Majestade
-http://nivorcdn.online/movie/575603712/312721063/c0b91aa3-6bdc-40e6-bd02-4884238c26b2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra GoldenEye" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qc1Id3BLRoUk10uJGmvRqqAKvQL.jpg" group-title="FILMES",007 Contra GoldenEye
-http://nivorcdn.online/movie/575603712/312721063/47994c25-08a4-446c-8114-37c66cd81a71.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra Goldfinger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi8vxhCM1EzLvfF6VI7GYiGgMBH.jpg" group-title="FILMES",007 Contra Goldfinger
-http://nivorcdn.online/movie/575603712/312721063/2bd3d497-dced-4cf1-99ac-4631b245db71.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra o Foguete da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLIklqHcFZzRKi2mJjRfiI50lzJ.jpg" group-title="FILMES",007 Contra o Foguete da Morte
-http://nivorcdn.online/movie/575603712/312721063/1c9c6163-6291-4d57-93d2-5748b914bb77.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra o Homem com a Pistola de Ouro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqC546GsvQqNEM4Tmlw6y132Dst.jpg" group-title="FILMES",007 Contra o Homem com a Pistola de Ouro
-http://nivorcdn.online/movie/575603712/312721063/143c535b-30b3-4002-a9ac-e37bdc9e773a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra Octopussy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jebWDEnGH2f4GnqZxSLfuON5KME.jpg" group-title="FILMES",007 Contra Octopussy
-http://nivorcdn.online/movie/575603712/312721063/08aca81a-232c-4efe-b618-f0bbbca35b0f.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Na Mira dos Assassinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbytkyUibUnksjBEpIwcMxQJTfJ.jpg" group-title="FILMES",007 Na Mira dos Assassinos
-http://nivorcdn.online/movie/575603712/312721063/4753fa01-96ba-4a67-82ca-92272bd31cb7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="FILMES",007: Cassino Royale
-http://nivorcdn.online/movie/575603712/312721063/3846fdc0-d50e-4db1-8de2-6490b031ba5b.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra a Chantagem Atômica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg" group-title="FILMES",007: Contra a Chantagem Atômica
-http://nivorcdn.online/movie/575603712/312721063/d53c9ba3-5da5-458d-a08e-5c3104fae363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra a Chantagem Atômica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg" group-title="FILMES",007: Contra a Chantagem Atômica
-http://nivorcdn.online/movie/575603712/312721063/3c665492-3b0a-42fc-b5c7-e10932f7fe7a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra o Satânico Dr. No" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg" group-title="FILMES",007: Contra o Satânico Dr. No
-http://nivorcdn.online/movie/575603712/312721063/2ee2d3e6-f077-4bd5-ab5e-fc507877ec44.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra Spectre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg" group-title="FILMES",007: Contra Spectre
-http://nivorcdn.online/movie/575603712/312721063/152f5994-bd26-41be-b429-bfd2da784e58.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Marcado para a Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXbq3IsGDW9AdV8fhL2EiHTrkEu.jpg" group-title="FILMES",007: Marcado para a Morte
-http://nivorcdn.online/movie/575603712/312721063/7f73f9f0-96ab-43eb-aa6b-441e93d2f143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Nunca Mais Outra Vez" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uULahg7URW4DjPq0fANgHEw1uHC.jpg" group-title="FILMES",007: Nunca Mais Outra Vez
-http://nivorcdn.online/movie/575603712/312721063/6a376ee1-18d6-4075-89b0-f2fd5c2cd53a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: O Amanhã Nunca Morre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cURZ8FpxFzwZHCL07ABXJCVnORc.jpg" group-title="FILMES",007: O Amanhã Nunca Morre
-http://nivorcdn.online/movie/575603712/312721063/2166cf43-d32e-46e2-9929-c29ddb41f4d3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: O Mundo Não é o Bastante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aWgoZRi3BOsExOYWygRbQilsDS.jpg" group-title="FILMES",007: O Mundo Não é o Bastante
-http://nivorcdn.online/movie/575603712/312721063/ea2d8aab-0c9a-4b8a-893d-333147672eb2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg" group-title="FILMES",007: Operação Skyfall
-http://nivorcdn.online/movie/575603712/312721063/b14f1145-dfbc-4973-aa61-fb27b95f93e0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Os Diamantes São Eternos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0UhYapEWDcrgDgKvRKHZMyv4z6.jpg" group-title="FILMES",007: Os Diamantes São Eternos
-http://nivorcdn.online/movie/575603712/312721063/0a27a7ad-dfff-4e57-a828-7f017602ecc3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="FILMES",007: Quantum of Solace
-http://nivorcdn.online/movie/575603712/312721063/bf13254e-e54a-4f3d-9dff-351c77f7b1cb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Somente para Seus Olhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3TFKkWFgsQcBvN29s1P7meOt2j.jpg" group-title="FILMES",007: Somente para Seus Olhos
-http://nivorcdn.online/movie/575603712/312721063/d040eed3-ded7-403d-8e88-9e4b69b004af.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Um Novo Dia para Morrer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg" group-title="FILMES",007: Um Novo Dia para Morrer
-http://nivorcdn.online/movie/575603712/312721063/1b33c48f-624e-4943-ac88-54ea4fc65db7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eF8WvEmvMMukzOoV7a3oiDxTi1B.jpg" group-title="SÉRIES",009-1 S1 E1
-http://nivorcdn.online/series/575603712/312721063/1d4dd2a7-6f20-4bb3-869b-89c0a1e03714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRw4zVSlEOMqWdVjDhOF04gyeFt.jpg" group-title="SÉRIES",009-1 S1 E10
-http://nivorcdn.online/series/575603712/312721063/a3ee22a2-0c1d-4fbf-9151-25a12c1984b2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9qf1rqSV0DtFbUhxdgHWrswLJr.jpg" group-title="SÉRIES",009-1 S1 E11
-http://nivorcdn.online/series/575603712/312721063/14c71872-9c41-4743-a376-c46d0db5de95.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFJmumHiU6OI6UMkYZLcK9QgnBd.jpg" group-title="SÉRIES",009-1 S1 E12
-http://nivorcdn.online/series/575603712/312721063/08183e63-7307-4b30-81bf-dd67e0333b2c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E13" tvg-logo="" group-title="SÉRIES",009-1 S1 E13
-http://nivorcdn.online/series/575603712/312721063/4b5184f4-71a9-4c48-966b-91f53c4075e3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BZBfumwzw5B8JP8Dejgc7WaOk4.jpg" group-title="SÉRIES",009-1 S1 E2
-http://nivorcdn.online/series/575603712/312721063/53509af7-a3c0-474f-adaf-aa8f4dbb1ea4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uWSaKZbo1Ui07lkdbSzyr0ZVV4.jpg" group-title="SÉRIES",009-1 S1 E3
-http://nivorcdn.online/series/575603712/312721063/b06349fc-d0f8-4ef6-b255-8269b66091fb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faYRKwd0ijk9F3oKqbA3OFIycJj.jpg" group-title="SÉRIES",009-1 S1 E4
-http://nivorcdn.online/series/575603712/312721063/649ddf4f-4ef3-4c15-9759-4d4b4760446b.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oabpyKnmYPuWUzmFHLU0bOmb44X.jpg" group-title="SÉRIES",009-1 S1 E5
-http://nivorcdn.online/series/575603712/312721063/e17af58d-7db1-48f3-bd6a-164fe6b9b65b.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZl7536AxiIFKx5L7jXR1Rn65Cf.jpg" group-title="SÉRIES",009-1 S1 E6
-http://nivorcdn.online/series/575603712/312721063/ba6afda6-fb5f-4770-8fd6-120be62abc90.mp4
-#EXTINF:-1 tvg-id="" tvg-name="009-1 S1 E7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfs3sRJyFa4gjXvmpN3RDV5fvMt.jpg" group-title="SÉRIES",009-1 S1 E7
-http://nivorcdn.online/series/575603712/312721063/73f29366-8710-4ff1-bc39-7d250401dab4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 FHD
+http://nivorcdn.online/live/575603712/312721063/d32df6bd-8223-42bf-a4da-96661975df29.m3u
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 HD
+http://nivorcdn.online/live/575603712/312721063/cf303ed2-1030-45bc-926a-db4daf8bb8da.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD [H265]" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 HD [H265]
+http://nivorcdn.online/live/575603712/312721063/e2c2fdc0-cb4f-4570-901e-fb8eb964acbe.m3u
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 SD
+http://nivorcdn.online/live/575603712/312721063/36a38dc2-efc8-4d44-afca-bb95a9cad7f6.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 FHD
+http://nivorcdn.online/live/575603712/312721063/54b67647-2c8e-474c-aa6f-5a731192005d.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 FHD [H265]
+http://nivorcdn.online/live/575603712/312721063/d4c6c6a2-c52b-426b-9696-2edf60b318a1.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 HD" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 HD
+http://nivorcdn.online/live/575603712/312721063/7ed95530-bbc0-4f67-a221-d0d662ea9e53.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 SD" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 SD
+http://nivorcdn.online/live/575603712/312721063/b7ab1223-66bd-49c4-8d8d-c11b3002b4e2.m3u
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 4K" tvg-logo="https://lh3.googleusercontent.com/-4h5wLi-DGbM/YG2obFahJ5I/AAAAAAAAKKk/c05Ik85-8tknXkYRp93ZztZPBbAYlRI4gCLcBGAsYHQ/FOX%2BSPORTS%2B4K.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 4K
+http://nivorcdn.online/live/575603712/312721063/7bb19cc5-3e0d-4961-8945-fe055fe469cf.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 FHD" tvg-logo="https://lh3.googleusercontent.com/-7_5NBTKcQRk/Yew9A-zJZ5I/AAAAAAAAK4Y/4ff_gTmqMw8WEYyR0j3acfzXEL1ws8lSQCNcBGAsYHQ/spn%2B4.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 FHD
+http://nivorcdn.online/live/575603712/312721063/68210f38-fbdb-48bd-a545-6dd809831123.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-7_5NBTKcQRk/Yew9A-zJZ5I/AAAAAAAAK4Y/4ff_gTmqMw8WEYyR0j3acfzXEL1ws8lSQCNcBGAsYHQ/spn%2B4.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 FHD [H265]
+http://nivorcdn.online/live/575603712/312721063/e2c186bd-ec5f-46eb-90f5-70c0aa27bfae.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="https://lh3.googleusercontent.com/-7_5NBTKcQRk/Yew9A-zJZ5I/AAAAAAAAK4Y/4ff_gTmqMw8WEYyR0j3acfzXEL1ws8lSQCNcBGAsYHQ/spn%2B4.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 HD
+http://nivorcdn.online/live/575603712/312721063/1409202b-8352-4999-96da-6cbbdb1e02b2.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/QwiLEsf.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 SD
+http://nivorcdn.online/live/575603712/312721063/04d788e3-bba4-4598-96f1-f06086943ff9.m3u
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4K
+http://nivorcdn.online/live/575603712/312721063/2f771a35-ec05-49c1-ae68-b83dbdc9a85d.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://i.imgur.com/QwiLEsf.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 FHD
+http://nivorcdn.online/live/575603712/312721063/c6d07319-444e-44ab-895c-317bfa92838a.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD [H265]" tvg-logo="https://i.imgur.com/QwiLEsf.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 FHD [H265]
+http://nivorcdn.online/live/575603712/312721063/9ed62ddc-3332-476a-8b59-00ae2da99c0e.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/QwiLEsf.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 HD
+http://nivorcdn.online/live/575603712/312721063/db3e6fe0-b56a-40f2-afc3-cc9340cfaf91.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://i.imgur.com/QwiLEsf.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 SD
+http://nivorcdn.online/live/575603712/312721063/13fb6d7b-cca9-4b98-87af-17bb1c34f641.m3u
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN 6 FHD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 6 FHD
+http://nivorcdn.online/live/575603712/312721063/43fe2bef-660e-423c-b87e-ba3174cbfa31.m3u
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN 6 HD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 6 HD
+http://nivorcdn.online/live/575603712/312721063/6bdab961-ec58-44ca-9fa5-2c4ef99dbb36.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN FHD
+http://nivorcdn.online/live/575603712/312721063/ebd04454-5bca-490e-8f3e-89b4aa83ab2c.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN FHD [H265]
+http://nivorcdn.online/live/575603712/312721063/fdd64e0e-66e2-4395-8cca-9fe1b856d108.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN HD
+http://nivorcdn.online/live/575603712/312721063/abf6c67c-401c-44ff-be52-d085c5411fb3.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN SD
+http://nivorcdn.online/live/575603712/312721063/b7095e62-ad13-4d8c-8563-557d83db7751.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Espontânea" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZffUR7JjVosp72AQOl8R3o1fB.jpg" group-title="FILMES",Espontânea
+http://nivorcdn.online/movie/575603712/312721063/13073d89-539a-4119-8350-052b3ca6ca6c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espontânea" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZffUR7JjVosp72AQOl8R3o1fB.jpg" group-title="FILMES",Espontânea
+http://nivorcdn.online/movie/575603712/312721063/9a38e679-6a7f-4050-b9bf-d7d1dba967ef.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Sangrento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTQ42xQ0dWMtppI1AvvNLSFrHMD.jpg" group-title="FILMES",Esporte Sangrento
+http://nivorcdn.online/movie/575603712/312721063/c3a85202-e0f2-419f-ae2e-08b4a5735dde.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esportes pelo Mundo S1 E1" tvg-logo="https://image.tmdb.org/t/p/w1280/A8ukbOysvG0j2Yb7Ih6ISMxTB6x.jpg" group-title="SÉRIES",Esportes pelo Mundo S1 E1
+http://nivorcdn.online/series/575603712/312721063/e5743e53-52a5-4340-83a9-bf95aaacc472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esportes pelo Mundo S1 E2" tvg-logo="https://image.tmdb.org/t/p/w1280/uhvvtEOCjC6HPn0rptigAUPCMsq.jpg" group-title="SÉRIES",Esportes pelo Mundo S1 E2
+http://nivorcdn.online/series/575603712/312721063/ae7e6464-5890-405d-aa39-f6a1b5039612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esportes pelo Mundo S1 E3" tvg-logo="https://image.tmdb.org/t/p/w1280/qfGJB4xucs1cRXICQUv3g4Uq4aS.jpg" group-title="SÉRIES",Esportes pelo Mundo S1 E3
+http://nivorcdn.online/series/575603712/312721063/97c89f21-d89f-4557-b3ac-b243eecb9853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esportes pelo Mundo S1 E4" tvg-logo="https://image.tmdb.org/t/p/w1280/ziPPUoBbwYnM5KqwKltowhW9VNy.jpg" group-title="SÉRIES",Esportes pelo Mundo S1 E4
+http://nivorcdn.online/series/575603712/312721063/b133f691-bbc0-4ad0-b728-602fb81ca24f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esportes pelo Mundo S1 E5" tvg-logo="https://image.tmdb.org/t/p/w1280/PQWGu0UK2wrSO3u7ibUDh1pEye.jpg" group-title="SÉRIES",Esportes pelo Mundo S1 E5
+http://nivorcdn.online/series/575603712/312721063/5315e732-e51a-489e-a26f-ed75a882c65e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esportes pelo Mundo S1 E6" tvg-logo="https://image.tmdb.org/t/p/w1280/7oXWDuMf4ooVuXSJpo0w3aVirXD.jpg" group-title="SÉRIES",Esportes pelo Mundo S1 E6
+http://nivorcdn.online/series/575603712/312721063/d9341f63-7318-4b86-986d-84f1d16f7c5b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esposa de Aluguel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="FILMES",Esposa de Aluguel
+http://nivorcdn.online/movie/575603712/312721063/cd2afe82-e0b1-47a0-bbef-a4c42abfefef.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esposa de Mentirinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8ct2LskBXLcPHrW3uvtpyTcwfl.jpg" group-title="FILMES",Esposa de Mentirinha
+http://nivorcdn.online/movie/575603712/312721063/150779b0-267a-4f24-8db6-082c04c3f20b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espécies em Perigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irlz2mCcTUZXMLTUGtHTs1JwnFx.jpg" group-title="FILMES",Espécies em Perigo
+http://nivorcdn.online/movie/575603712/312721063/7f19ff2e-91c2-46c2-b359-99b8f06d2870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espécies em Perigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irlz2mCcTUZXMLTUGtHTs1JwnFx.jpg" group-title="FILMES",Espécies em Perigo
+http://nivorcdn.online/movie/575603712/312721063/2f038872-b2b3-499c-9547-6191e99e6c24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espírito de Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg7lFzyRskewuSOfOhyOyW2H40F.jpg" group-title="FILMES",Espírito de Família
+http://nivorcdn.online/movie/575603712/312721063/631a8aab-701d-4fd4-9cae-36ca7cc72fa8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos da Floresta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rz6U1qKRZp9l8ORtU0DCOwZTqbS.jpg" group-title="FILMES",Espíritos da Floresta
+http://nivorcdn.online/movie/575603712/312721063/fdc6972a-ad8e-4eb2-8b51-89ebc61694fb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E1" tvg-logo="https://image.tmdb.org/t/p/w1280/mWrcvysgwLKzF1B53AZcoErlx9k.jpg" group-title="SÉRIES",Espíritos na Escola S1 E1
+http://nivorcdn.online/series/575603712/312721063/e5885bfd-edb6-4e8c-a701-feaf924ba444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E2" tvg-logo="https://image.tmdb.org/t/p/w1280/v2XyudCQeqLWVR0lP2FdYHQB5dK.jpg" group-title="SÉRIES",Espíritos na Escola S1 E2
+http://nivorcdn.online/series/575603712/312721063/9a42272f-7509-4c7b-b2ad-476a0c0acb59.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E3" tvg-logo="https://image.tmdb.org/t/p/w1280/bEePCowPT4jhkxteXX2wn8EKcHB.jpg" group-title="SÉRIES",Espíritos na Escola S1 E3
+http://nivorcdn.online/series/575603712/312721063/c31aba1b-5483-44a8-a0d2-a0bbbbabd25a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E4" tvg-logo="https://image.tmdb.org/t/p/w1280/z4Age8nk4Qp6BVh05Jm08BFCAos.jpg" group-title="SÉRIES",Espíritos na Escola S1 E4
+http://nivorcdn.online/series/575603712/312721063/fd5f841c-0f59-444f-8ce8-bd9011fa2d62.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E5" tvg-logo="https://image.tmdb.org/t/p/w1280/3mi9Nwt2Pj8Fag9LVZUJKxG109p.jpg" group-title="SÉRIES",Espíritos na Escola S1 E5
+http://nivorcdn.online/series/575603712/312721063/3ac6e97e-f2e5-4972-b5bb-38c2bf9b35fc.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E6" tvg-logo="https://image.tmdb.org/t/p/w1280/lMNVaqchqyA6Us4P9uxVOXyysyD.jpg" group-title="SÉRIES",Espíritos na Escola S1 E6
+http://nivorcdn.online/series/575603712/312721063/74550739-6d8a-4e93-8a7f-d227498fb042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E7" tvg-logo="https://image.tmdb.org/t/p/w1280/uMwqneIcaWqzIqSeYKcZDU7UGe7.jpg" group-title="SÉRIES",Espíritos na Escola S1 E7
+http://nivorcdn.online/series/575603712/312721063/eb4517dd-624a-4e16-b598-2b9e26fda845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S1 E8" tvg-logo="https://image.tmdb.org/t/p/w1280/9UzDBqaSbDaL7oJ87vsBAQajP4z.jpg" group-title="SÉRIES",Espíritos na Escola S1 E8
+http://nivorcdn.online/series/575603712/312721063/9415b2ce-bc96-4d16-b267-6ab859527a25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S2 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxeo9bCfqPlgLXeiuMAuEXP9kac.jpg" group-title="SÉRIES",Espíritos na Escola S2 E1
+http://nivorcdn.online/series/575603712/312721063/9232ca18-e631-4e4d-a0ca-28f2be7cbda7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S2 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFacD1qr9GYDAofGFciyDY8No9S.jpg" group-title="SÉRIES",Espíritos na Escola S2 E2
+http://nivorcdn.online/series/575603712/312721063/2e9edb94-a4f3-42bd-aef7-4e529785432b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S2 E3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQNQ6i4ng4j7CABBqmW4W90Tszu.jpg" group-title="SÉRIES",Espíritos na Escola S2 E3
+http://nivorcdn.online/series/575603712/312721063/8edd4264-5e34-4431-82ef-4b52673be19e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S2 E4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVFXDUpE5i0VTRVYhbcBAMyCpcn.jpg" group-title="SÉRIES",Espíritos na Escola S2 E4
+http://nivorcdn.online/series/575603712/312721063/d14a17d4-9ba8-4e9a-a688-b0b26bb4d411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos na Escola S2 E5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2glQXYrGmEQA8XQsVW8ABhTyEew.jpg" group-title="SÉRIES",Espíritos na Escola S2 E5
+http://nivorcdn.online/series/575603712/312721063/55a1c195-46b7-4660-b467-4c25f12c7968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos Obscuros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2c8DlW3qfu4w6fgn4lMrI6wEfM.jpg" group-title="FILMES",Espíritos Obscuros
+http://nivorcdn.online/movie/575603712/312721063/1fabb708-48db-4605-8f29-3a17d0fb8b46.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos: A Morte Esta Ao Seu Lado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvqiPilplvzdfnzDerCxIVsegX8.jpg" group-title="FILMES",Espíritos: A Morte Esta Ao Seu Lado
+http://nivorcdn.online/movie/575603712/312721063/9f8debc7-1184-4a44-9f2c-f7d112674cdb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos: A Morte Esta Ao Seu Lado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvqiPilplvzdfnzDerCxIVsegX8.jpg" group-title="FILMES",Espíritos: A Morte Esta Ao Seu Lado
+http://nivorcdn.online/movie/575603712/312721063/ac2fafb7-29a3-4017-81dd-f74260a4dfd5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão 303" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg" group-title="FILMES",Esquadrão 303
+http://nivorcdn.online/movie/575603712/312721063/3fc9ddaa-b06e-437f-9fa4-3003e227cfb3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E1" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E1
+http://nivorcdn.online/series/575603712/312721063/44cf7108-a76b-4916-b7bc-bb5f2a71e009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E10" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E10
+http://nivorcdn.online/series/575603712/312721063/083fe308-ffb1-49c4-9716-229e831c8e9b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E11" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E11
+http://nivorcdn.online/series/575603712/312721063/53f37c89-4e9e-43af-9241-ffab7a053e48.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E12" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E12
+http://nivorcdn.online/series/575603712/312721063/6e082431-26f6-469a-9456-d780f9558a99.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E13" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E13
+http://nivorcdn.online/series/575603712/312721063/66ceae9f-2272-44cb-af9f-228c1cd78d97.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E14" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E14
+http://nivorcdn.online/series/575603712/312721063/5f3e219d-2e89-49c5-b7b4-b5368300ae10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E15" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E15
+http://nivorcdn.online/series/575603712/312721063/68ac261e-cbcd-4cfd-8458-19d6783c8229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E16" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E16
+http://nivorcdn.online/series/575603712/312721063/2322bfad-e1b0-47fd-a696-7468b0ecff67.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E17" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E17
+http://nivorcdn.online/series/575603712/312721063/36098d79-010e-4afe-a0a8-5c7c952eba84.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E2" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E2
+http://nivorcdn.online/series/575603712/312721063/214ae35f-50b3-4a82-89f7-06da3ec81281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E3" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E3
+http://nivorcdn.online/series/575603712/312721063/23367429-a1e3-493e-92ac-ecdd5e6a8426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E4" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E4
+http://nivorcdn.online/series/575603712/312721063/00f645c1-e573-44c5-97a3-461eaddcea4f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E5" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E5
+http://nivorcdn.online/series/575603712/312721063/06d28633-23df-4309-b847-40cf21fc2404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E6" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E6
+http://nivorcdn.online/series/575603712/312721063/8c8a025d-8e76-46a5-b19c-1b2d019931ee.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E7" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E7
+http://nivorcdn.online/series/575603712/312721063/7d04193a-0776-4d78-a10a-8e471aa2ff25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E8" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E8
+http://nivorcdn.online/series/575603712/312721063/59765de3-8c8a-4020-9493-2b3bb3ad752e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Bizarro S2 E9" tvg-logo="" group-title="SÉRIES",Esquadrão Bizarro S2 E9
+http://nivorcdn.online/series/575603712/312721063/9c7eadc8-b1df-4106-9e3d-c09b6eb7de68.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Classe A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkHFuOIOtZJrtql8gSSvbLtEcNk.jpg" group-title="FILMES",Esquadrão Classe A
+http://nivorcdn.online/movie/575603712/312721063/02170573-d8b4-4f31-ba3a-41ae4ab3bdbe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E1" tvg-logo="https://image.tmdb.org/t/p/w1280/qp3JzCpweT05EYYIWaFUtcpSgEM.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E1
+http://nivorcdn.online/series/575603712/312721063/f785ec09-5e91-42d9-8fb6-8266809011fc.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E2" tvg-logo="https://image.tmdb.org/t/p/w1280/2tFIorCRoWtdSkoLP0ukqsMfYvr.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E2
+http://nivorcdn.online/series/575603712/312721063/22b7ad00-27af-413a-bfd4-4c0395f8c1df.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E3" tvg-logo="https://image.tmdb.org/t/p/w1280/p3V4nP2asKPNhBE4mu6vUhfiHrY.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E3
+http://nivorcdn.online/series/575603712/312721063/2bada0f6-22aa-44d8-b453-9fd8e36eb7c2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E4" tvg-logo="https://image.tmdb.org/t/p/w1280/u52K3PnAjSwbooNoAgR2hUE9Kac.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E4
+http://nivorcdn.online/series/575603712/312721063/9856c4ff-0350-4a01-8665-b1be96ffccbe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E5" tvg-logo="https://image.tmdb.org/t/p/w1280/wgA7TKIM7rwWHpu9aBTWaJH3B2O.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E5
+http://nivorcdn.online/series/575603712/312721063/e9d001e7-0930-49c5-94e3-7850e538a56c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E6" tvg-logo="https://image.tmdb.org/t/p/w1280/kNB8JhpsMC4lzuP18UhSd4fqKYg.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E6
+http://nivorcdn.online/series/575603712/312721063/e9b4549a-0b46-474b-8d9d-a02937425e12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E7" tvg-logo="https://image.tmdb.org/t/p/w1280/jHeIHVrZRGicjcZWS4dgwZQKBkG.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E7
+http://nivorcdn.online/series/575603712/312721063/c1f889b7-13b9-4dbb-92b3-a16f1ed3dcd5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S1 E8" tvg-logo="https://image.tmdb.org/t/p/w1280/k8QykdhPGSRpoKOqMybij1VGvu8.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S1 E8
+http://nivorcdn.online/series/575603712/312721063/29ab4120-731a-469d-8225-68bf8c57d81e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E1" tvg-logo="https://image.tmdb.org/t/p/w1280/3YHK4MMvH1rfdnStzKsb9PDI9C4.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E1
+http://nivorcdn.online/series/575603712/312721063/7c7ceb40-f0cf-4438-a157-cdb46c6224ef.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E2" tvg-logo="https://image.tmdb.org/t/p/w1280/uCLgbXQL3UNJRuQfyZlT26vWJaR.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E2
+http://nivorcdn.online/series/575603712/312721063/6a094800-0c87-47a0-aa02-831b8a487884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E3" tvg-logo="https://image.tmdb.org/t/p/w1280/mK5dN97uBlGSxciBFm8KSzTxCq2.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E3
+http://nivorcdn.online/series/575603712/312721063/3e4adc72-9a53-4550-b91c-4c7b5b9e527d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E4" tvg-logo="https://image.tmdb.org/t/p/w1280/yipWW43n0VGxSyXTNbCN8MlVTLH.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E4
+http://nivorcdn.online/series/575603712/312721063/259d57ad-13fb-4287-ab57-cf8e8ed067d3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E5" tvg-logo="https://image.tmdb.org/t/p/w1280/4G0D9Gkm9NnlcVquvwZCF2f9ofN.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E5
+http://nivorcdn.online/series/575603712/312721063/d5c8f7db-92bd-4c06-8f62-336f354f4de7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E6" tvg-logo="https://image.tmdb.org/t/p/w1280/z2NIyEDNbub4LEy1rhYwGRsSBih.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E6
+http://nivorcdn.online/series/575603712/312721063/2cc41f99-4cf6-4f72-88f6-180a54b77b9f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E7" tvg-logo="https://image.tmdb.org/t/p/w1280/tYtlZnBfptAclF7GNExk7LBNGsi.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E7
+http://nivorcdn.online/series/575603712/312721063/6482424c-1eb8-4545-a945-60b91e0ee7a8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Confeiteiros S2 E8" tvg-logo="https://image.tmdb.org/t/p/w1280/aP8akq0JQJ5BZuju7TZXNoRQPB4.jpg" group-title="SÉRIES",Esquadrão de Confeiteiros S2 E8
+http://nivorcdn.online/series/575603712/312721063/ad47bae2-4f63-4945-b2fa-fc2475b63fcd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Elite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="FILMES",Esquadrão de Elite
+http://nivorcdn.online/movie/575603712/312721063/5865144c-f0d8-48c9-9b36-a71b056b8b01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Elite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrZpeCNVNMb04NZip4CrmLHioD2.jpg" group-title="FILMES",Esquadrão de Elite
+http://nivorcdn.online/movie/575603712/312721063/ca89f688-1369-4507-bb09-f883702fe33c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E1" tvg-logo="https://image.tmdb.org/t/p/w1280/h6gZgmhMHruRcGQEVAFHtWewNKQ.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E1
+http://nivorcdn.online/series/575603712/312721063/bdca5b63-34e5-40b3-affa-98190a5ed687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E10" tvg-logo="https://image.tmdb.org/t/p/w1280/nW6RCoCD7Y53hgTXhjAiiy61BBB.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E10
+http://nivorcdn.online/series/575603712/312721063/354b6ff0-d9f0-4007-9a8e-a5dfe03ab461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E11" tvg-logo="https://image.tmdb.org/t/p/w1280/1XwCjUlX4bd9WEZNmzxb5bQmjW.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E11
+http://nivorcdn.online/series/575603712/312721063/186978dc-fc49-4d43-9dca-caff86a84933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E12" tvg-logo="https://image.tmdb.org/t/p/w1280/bW7G08BUcmvEJaIVfiI7aybUBIR.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E12
+http://nivorcdn.online/series/575603712/312721063/88b86a83-741d-48d0-8a50-6c61fb3b5c2d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E13" tvg-logo="https://image.tmdb.org/t/p/w1280/5bW4FvrrbHCyqhLGbRuIChnPwqr.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E13
+http://nivorcdn.online/series/575603712/312721063/9b8360a6-8ba7-45e3-95b4-15ccf118ee99.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E14" tvg-logo="https://image.tmdb.org/t/p/w1280/1OfX5AbbArSTyFwdBOIIh1f8xXu.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E14
+http://nivorcdn.online/series/575603712/312721063/cfb1ead2-4dfc-42c0-abdc-cb3cab71311e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E15" tvg-logo="https://image.tmdb.org/t/p/w1280/tqHKGTdsI1hJzqFdrE1YX8CSzX4.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E15
+http://nivorcdn.online/series/575603712/312721063/1e98ec37-f01e-4b9a-a005-a39459e68714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E16" tvg-logo="https://image.tmdb.org/t/p/w1280/qpkugvikflpnOuyRW2Qzg5guZOm.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E16
+http://nivorcdn.online/series/575603712/312721063/87097b50-26a4-492e-b191-563338ee6f5a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E17" tvg-logo="https://image.tmdb.org/t/p/w1280/f0P1FoJJsfRR04psIik94S4SytD.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E17
+http://nivorcdn.online/series/575603712/312721063/88168bc4-183f-4b57-8886-54760ef7c3d7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E18" tvg-logo="https://image.tmdb.org/t/p/w1280/efnLouGH3AG6TEWH4zYmQYIeuPv.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E18
+http://nivorcdn.online/series/575603712/312721063/e1f2f626-39d3-4bb2-b55b-f4d8b1d5355f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E19" tvg-logo="https://image.tmdb.org/t/p/w1280/zcsykS12prrlZ02q9YvCQPqEzdt.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E19
+http://nivorcdn.online/series/575603712/312721063/18ebed0e-3619-4aca-a041-950c3434bc6e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E2" tvg-logo="https://image.tmdb.org/t/p/w1280/ynEjY17aevQlIPi0mqRavWdgcKl.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E2
+http://nivorcdn.online/series/575603712/312721063/126366c4-3541-4064-8ecb-09db4d75bfc7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E20" tvg-logo="https://image.tmdb.org/t/p/w1280/9jbhKk1V0mRkYlnzzuG7dw2ayGK.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E20
+http://nivorcdn.online/series/575603712/312721063/4b329adf-bafc-4d75-a779-ece4370ec0a7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E21" tvg-logo="https://image.tmdb.org/t/p/w1280/p0btde6CaCQwGpOUeqUVpQ6ya2X.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E21
+http://nivorcdn.online/series/575603712/312721063/ddf635e5-d4f0-47e0-bae3-4ffacc3d4d1d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E22" tvg-logo="https://image.tmdb.org/t/p/w1280/gqTBGyhvvewvC5HpHgpLpL9NHdu.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E22
+http://nivorcdn.online/series/575603712/312721063/ee06a053-5f1a-4ef8-89e7-9107b4b40f9d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E23" tvg-logo="https://image.tmdb.org/t/p/w1280/foroWFO231cNzAAlIAYIhzZlZ3W.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E23
+http://nivorcdn.online/series/575603712/312721063/f051c62e-ed40-49ef-9c06-05627cfd1d9b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E24" tvg-logo="https://image.tmdb.org/t/p/w1280/wWGjcHQso0wdFfcQdqHcFVVqauz.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E24
+http://nivorcdn.online/series/575603712/312721063/1f1ff568-e549-4f7e-a3ff-46b019813ab6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E25" tvg-logo="https://image.tmdb.org/t/p/w1280/rB1oXGNAd6UWfuLfvvING5UewLW.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E25
+http://nivorcdn.online/series/575603712/312721063/ad2c500d-2a2a-4d42-9827-95bf8a3971ab.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E26" tvg-logo="https://image.tmdb.org/t/p/w1280/gH2bLUyrkp4BmQjZUocvw3igRoU.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E26
+http://nivorcdn.online/series/575603712/312721063/0c8c3328-7c15-466b-8bf3-5259dffd4753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E3" tvg-logo="https://image.tmdb.org/t/p/w1280/zxzSZy8bJUROK46eLOS8TDU6BRW.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E3
+http://nivorcdn.online/series/575603712/312721063/e62cef31-fdbe-400e-a37c-8f9d98751b48.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E4" tvg-logo="https://image.tmdb.org/t/p/w1280/eabI8ke1nHK9kINflXNsVMSXlB5.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E4
+http://nivorcdn.online/series/575603712/312721063/d15be19b-576b-4606-a37b-ee1bd1e88d66.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E5" tvg-logo="https://image.tmdb.org/t/p/w1280/vr69wtPGvmyI0L296uEzBaXZi7O.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E5
+http://nivorcdn.online/series/575603712/312721063/7afba1e0-2745-4321-aaaa-e1e0b6c0a33e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E6" tvg-logo="https://image.tmdb.org/t/p/w1280/yAsIKmtRCsGbkpVipFlkYMBsr0Q.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E6
+http://nivorcdn.online/series/575603712/312721063/84937b84-a28a-446e-9cb1-df581cada32b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E7" tvg-logo="https://image.tmdb.org/t/p/w1280/jGAXTnLxYbfymeWmiTnAeF8L9Nf.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E7
+http://nivorcdn.online/series/575603712/312721063/24ab7792-4714-4a78-ab76-01eb6eafe064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E8" tvg-logo="https://image.tmdb.org/t/p/w1280/7Twtf2DyGOFBalhvUD0nYqvGAjc.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E8
+http://nivorcdn.online/series/575603712/312721063/a4dcbfbb-dcb0-4113-915b-643242e20054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S1 E9" tvg-logo="https://image.tmdb.org/t/p/w1280/iOsoOdADJmHX7XNTvkxA53P6ezb.jpg" group-title="SÉRIES",Esquadrão de Heróis S1 E9
+http://nivorcdn.online/series/575603712/312721063/5e7030e4-c2c0-4823-907e-cc5a0b4d22c5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E1" tvg-logo="https://image.tmdb.org/t/p/w1280/iHx1BwVhn7kOwJQmLS5D2hCXeR0.jpg" group-title="SÉRIES",Esquadrão de Heróis S2 E1
+http://nivorcdn.online/series/575603712/312721063/d19c9ecf-9de5-41bb-a86a-9cfdaee2554c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E10" tvg-logo="https://image.tmdb.org/t/p/w1280/xbguwvtqSAzSq4obdD9fkUchBSe.jpg" group-title="SÉRIES",Esquadrão de Heróis S2 E10
+http://nivorcdn.online/series/575603712/312721063/01b73cf8-2472-4d84-ab1c-a90a3dbe1ba3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E11" tvg-logo="https://image.tmdb.org/t/p/w1280/p1hBDylnzxRKm580td3Qmlc9eKI.jpg" group-title="SÉRIES",Esquadrão de Heróis S2 E11
+http://nivorcdn.online/series/575603712/312721063/2eb64dc3-32e3-4fc5-be90-8245d2bdf4a7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E12" tvg-logo="https://image.tmdb.org/t/p/w1280/jXH2CZqIBN3VaMfrKBCjG6nUkR2.jpg" group-title="SÉRIES",Esquadrão de Heróis S2 E12
+http://nivorcdn.online/series/575603712/312721063/74561a35-debc-4f9f-9ac0-9a74ef24f6a5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E13" tvg-logo="https://image.tmdb.org/t/p/w1280/qvBngdIUzvc6nGyvnfrpAQsGKTe.jpg" group-title="SÉRIES",Esquadrão de Heróis S2 E13
+http://nivorcdn.online/series/575603712/312721063/cffea819-d976-4e8d-ae73-eeed3fe5749c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E14" tvg-logo="https://image.tmdb.org/t/p/w1280/iOJBeh0V1vSuOjaupAFt9bVWt4a.jpg" group-title="SÉRIES",Esquadrão de Heróis S2 E14
+http://nivorcdn.online/series/575603712/312721063/9cd4fbb6-43a4-474c-be86-d2fd9f957266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E15" tvg-logo="https://image.tmdb.org/t/p/w1280/9IZ66kqbTJeWXCe4QxoLaw8hW58.jpg" group-title="SÉRIES",Esquadrão de Heróis S2 E15
+http://nivorcdn.online/series/575603712/312721063/7f186410-9d5a-4368-b332-b09253a52a76.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão de Heróis S2 E16" tvg-logo="https://image.tmdb.org/t/p/w1280/ujfOuZYFhhFiDGS7TbQvZRVwKGp.jpg" group-title="SÉRIES",Esquadrão d
