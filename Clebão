@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entretenimento",A&E FHD
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entreterimento",A&E FHD
 http://nivorcdn.online/live/575603712/312721063/bbc97c6a-de5d-40c0-8bc5-b6b61b73b033.m3u
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD [H265]" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entretenimento",A&E FHD [H265]
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD [H265]" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entreterimento",A&E FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/1882f691-6420-4655-9121-f8ee7f4d0808.m3u
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entretenimento",A&E HD
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entreterimento",A&E HD
 http://nivorcdn.online/live/575603712/312721063/e9580287-bc3c-4385-93ba-059512c6d9b3.m3u
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entretenimento",A&E SD
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Entreterimento",A&E SD
 http://nivorcdn.online/live/575603712/312721063/4c2ccc0f-faff-4c40-a174-40db17cca20d.m3u
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entretenimento",AMC FHD
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entreterimento",AMC FHD
 http://nivorcdn.online/live/575603712/312721063/b6fde564-d6d6-4535-af72-db827d8faca2.m3u
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD [H265]" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entretenimento",AMC FHD [H265]
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD [H265]" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entreterimento",AMC FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/1aebeed0-7790-4f74-bd2c-9dd599a0b826.m3u
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entretenimento",AMC HD
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entreterimento",AMC HD
 http://nivorcdn.online/live/575603712/312721063/b1e203ca-85aa-444b-895e-5d2a47170827.m3u
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entretenimento",AMC SD
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Entreterimento",AMC SD
 http://nivorcdn.online/live/575603712/312721063/b2a13ec6-fb4c-42c1-93aa-6eafcbe1a5ee.m3u
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet 4K" tvg-logo="https://lh3.googleusercontent.com/-es1gCmIF2I0/YG2obFZhaOI/AAAAAAAAKKg/BET9SU-3tcUvX7VtNyuw6ypkS5Ho1kbSQCLcBGAsYHQ/ANIMAL%2BPLANET%2B4K.png" group-title="Entretenimento",Animal Planet 4K
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet 4K" tvg-logo="https://lh3.googleusercontent.com/-es1gCmIF2I0/YG2obFZhaOI/AAAAAAAAKKg/BET9SU-3tcUvX7VtNyuw6ypkS5Ho1kbSQCLcBGAsYHQ/ANIMAL%2BPLANET%2B4K.png" group-title="Entreterimento",Animal Planet 4K
 http://nivorcdn.online/live/575603712/312721063/47570342-4b44-4d76-abf7-f6d1ad624489.m3u
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entretenimento",Animal Planet FHD
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entreterimento",Animal Planet FHD
 http://nivorcdn.online/live/575603712/312721063/43794232-bae6-4feb-a1d0-d29e28250e3e.m3u
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entretenimento",Animal Planet FHD [H265]
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entreterimento",Animal Planet FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/0875343d-8227-4698-a0a6-bdc28a919f98.m3u
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entretenimento",Animal Planet HD
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entreterimento",Animal Planet HD
 http://nivorcdn.online/live/575603712/312721063/cae28cd5-d09b-4101-8156-1b26fbead961.m3u
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entretenimento",Animal Planet SD
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entreterimento",Animal Planet SD
 http://nivorcdn.online/live/575603712/312721063/99caca3f-b01b-466f-8c77-49f7e3cb225a.m3u
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD [H265]" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Entretenimento",Arte 1 FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/bdd74e57-aa42-4754-bfc3-e006e7e1d7d0.m3u
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Entretenimento",Arte 1 SD
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Entreterimento",Arte 1 SD
 http://nivorcdn.online/live/575603712/312721063/9c81db14-2b95-4cc6-9bd3-942c404d9af3.m3u
 http://nivorcdn.online/live/575603712/312721063/b2a13ec6-fb4c-42c1-93aa-6eafcbe1a5ee.m3u
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Nn2z4TP/AXN.png" group-title="Filmes e Séries",AXN FHD
@@ -80,10 +80,6 @@ http://nivorcdn.online/live/575603712/312721063/03d46599-b9fc-4cfa-82b5-bfd6ecea
 http://nivorcdn.online/live/575603712/312721063/4d04b271-5b82-4cc0-a5c2-c69c02db27e7.m3u
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV SP SD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="TV Aberta",BAND TV SP SD
 http://nivorcdn.online/live/575603712/312721063/9dd48da6-b0b3-49ab-b2a6-208439a9c53f.m3u
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND TV SPORTS FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="Esporte",BANDSPORTS FHD
-http://nivorcdn.online/live/575603712/312721063/45c3b6d1-e8ed-46d6-a46c-f8a51f8bb901.m3u
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND TV SPORTS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="Esporte",BANDSPORTS HD
-http://nivorcdn.online/live/575603712/312721063/8d2c541f-3244-4f5e-ac8e-2816728752c2.m3u
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Esporte",BandSports FHD
 http://nivorcdn.online/live/575603712/312721063/75e50b46-2a37-4e51-881b-34f792420931.m3u
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Esporte",BandSports FHD [H265]
@@ -92,11 +88,11 @@ http://nivorcdn.online/live/575603712/312721063/f81c94ca-7bab-4c05-8353-a2528418
 http://nivorcdn.online/live/575603712/312721063/2aef614a-0487-498e-86fb-f17d8919a1d2.m3u
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Esporte",BandSports SD
 http://nivorcdn.online/live/575603712/312721063/ee95131e-5e72-428a-ab09-196dbc9aa761.m3u
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="Música e Cultura Musical",BIS FHD
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="Entreterimento",BIS FHD
 http://nivorcdn.online/live/575603712/312721063/3348e2a0-8cd1-4ac5-b050-10f89b886742.m3u
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="Música e Cultura Musical",BIS HD
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="Entreterimento",BIS HD
 http://nivorcdn.online/live/575603712/312721063/fb27615e-5633-4445-bebc-b408d9027709.m3u
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="Música e Cultura Musical",BIS SD
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/3o1kkD.png" group-title="Entreterimento",BIS SD
 http://nivorcdn.online/live/575603712/312721063/b27afe99-7192-47c0-921f-853576cc699d.m3u
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.ibb.co/X5byZMv/Canal-Brasil-logo.png" group-title="Filmes e Séries",CANAL BRASIL SD
 http://nivorcdn.online/live/575603712/312721063/acebe63d-7ffd-45e8-b5fe-141c750a93aa.m3u
@@ -256,13 +252,13 @@ http://nivorcdn.online/live/575603712/312721063/0237fabd-c22f-4154-91e4-fda1d840
 http://nivorcdn.online/live/575603712/312721063/ce6a8de7-45bb-4321-b2c3-b747f22bd914.m3u
 #EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV SD" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Entreterimento",FASHION TV SD
 http://nivorcdn.online/live/575603712/312721063/c60dcdeb-b168-41a4-8c56-b8185f634757.m3u
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://img.utdstc.com/icon/4a7/7a5/4a77a5ff54d1cc520ebed028cdfcbe5e89ba07387fc5a88f3171b5060d0c91d7:200" group-title="Documentários e Cultura",FISH TV FHD
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktqeB6yQxerWWrRLkGG4C3Vs3fnZb5t53rw&s" group-title="Documentários e Cultura",FISH TV FHD
 http://nivorcdn.online/live/575603712/312721063/1acef85f-4634-416c-8456-64a295f9f0c4.m3u
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD [H265]" tvg-logo="https://img.utdstc.com/icon/4a7/7a5/4a77a5ff54d1cc520ebed028cdfcbe5e89ba07387fc5a88f3171b5060d0c91d7:200" group-title="Documentários e Cultura",FISH TV FHD [H265]
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD [H265]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktqeB6yQxerWWrRLkGG4C3Vs3fnZb5t53rw&s" group-title="Documentários e Cultura",FISH TV FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/5462136c-bea5-4fe1-8e7d-d1d1dea5e7ea.m3u
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://img.utdstc.com/icon/4a7/7a5/4a77a5ff54d1cc520ebed028cdfcbe5e89ba07387fc5a88f3171b5060d0c91d7:200" group-title="Documentários e Cultura",FISH TV HD
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktqeB6yQxerWWrRLkGG4C3Vs3fnZb5t53rw&s" group-title="Documentários e Cultura",FISH TV HD
 http://nivorcdn.online/live/575603712/312721063/e28aac55-7d0c-4d79-8d36-253aa2cf0e93.m3u
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://img.utdstc.com/icon/4a7/7a5/4a77a5ff54d1cc520ebed028cdfcbe5e89ba07387fc5a88f3171b5060d0c91d7:200" group-title="Documentários e Cultura",FISH TV SD
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktqeB6yQxerWWrRLkGG4C3Vs3fnZb5t53rw&s" group-title="Documentários e Cultura",FISH TV SD
 http://nivorcdn.online/live/575603712/312721063/913e3f6f-52b7-4b3a-b5f0-90bd22c3949d.m3u
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://static.wikia.nocookie.net/culture/images/e/e8/Food_Network_logo.svg.png/revision/latest/scale-to-width-down/150?cb=20230922153208" group-title="Entreterimento",FOOD NETWORK FHD
 http://nivorcdn.online/live/575603712/312721063/015f4824-6a1e-4511-9a21-1eb73f3c7c03.m3u
@@ -272,7 +268,7 @@ http://nivorcdn.online/live/575603712/312721063/5d0d55c7-9413-4bca-b543-2a7a93a3
 http://nivorcdn.online/live/575603712/312721063/c48b4a88-f5dc-4c69-b81f-8fba3559cfab.m3u
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://static.wikia.nocookie.net/culture/images/e/e8/Food_Network_logo.svg.png/revision/latest/scale-to-width-down/150?cb=20230922153208" group-title="Entreterimento",FOOD NETWORK SD
 http://nivorcdn.online/live/575603712/312721063/d00f5f06-20fd-4fa4-b017-766336d5ed4b.m3u
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="https://1.bp.blogspot.com/-V9_vn_7Znh4/YBxY10r3GdI/AAAAAAAAJx0/cWs8X2rtZV8g9Wm8GjmzB1oA3rhXUHNkQCLcBGAsYHQ/s0/FUTURA.png" group-title="Educação",FUTURA SD
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="https://1.bp.blogspot.com/-V9_vn_7Znh4/YBxY10r3GdI/AAAAAAAAJx0/cWs8X2rtZV8g9Wm8GjmzB1oA3rhXUHNkQCLcBGAsYHQ/s0/FUTURA.png" group-title="TV Aberta",FUTURA SD
 http://nivorcdn.online/live/575603712/312721063/4b2f615c-3840-405e-9cfc-4d71334a5bf3.m3u
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo 4K" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",Globo 4K
 http://nivorcdn.online/live/575603712/312721063/edc9bfda-2cb1-425a-a032-1ef8214a19fb.m3u
@@ -318,7 +314,7 @@ http://nivorcdn.online/live/575603712/312721063/802f8e2c-a5e3-4fb0-80bc-4632e4c6
 http://nivorcdn.online/live/575603712/312721063/b8e44dc2-f30b-46a1-a013-391ac036d8bc.m3u
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD (BR2)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",GLOBO EPTV RIBEIRAO PRETO HD (BR2)
 http://nivorcdn.online/live/575603712/312721063/8d63d5c1-a325-4b7a-acd3-0e494112d783.m3u
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="0TV Aberta",Globo EPTV Ribeirao Preto SD
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Aberta",Globo EPTV Ribeirao Preto SD
 http://nivorcdn.online/live/575603712/312721063/a53c2aff-ad4f-4223-b722-a59c44623fbd.m3u
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",Globo EPTV Sul de Minas FHD
 http://nivorcdn.online/live/575603712/312721063/bfe1b3b0-31df-4864-8a5f-5567f749f456.m3u
@@ -410,7 +406,7 @@ http://nivorcdn.online/live/575603712/312721063/bc8eff2c-c47d-4a09-b208-af8b5b97
 http://nivorcdn.online/live/575603712/312721063/9569a016-34e8-444b-b9b9-c812ee3bc371.m3u
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RBS TV PASSO FUNDO HD (BR2)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",GLOBO RBS TV PASSO FUNDO HD (BR2)
 http://nivorcdn.online/live/575603712/312721063/1e195c8b-eb24-4b96-9440-48280f99ff3b.m3u
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="01 - TV Aberta",Globo RBS TV Pelotas FHD
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",Globo RBS TV Pelotas FHD
 http://nivorcdn.online/live/575603712/312721063/c020d846-565e-43a4-8912-61f6f06d70a5.m3u
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO RBS TV PELOTAS FHD (BR2)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",GLOBO RBS TV PELOTAS FHD (BR2)
 http://nivorcdn.online/live/575603712/312721063/d5cd943e-0f0a-47b3-b398-ca4f879ac2f7.m3u
@@ -702,7 +698,7 @@ http://nivorcdn.online/live/575603712/312721063/eb1d43aa-ac58-4272-a632-73fe15c3
 http://nivorcdn.online/live/575603712/312721063/a9efed20-bbf1-4cba-82ff-a2a32baa35ea.m3u
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="https://imgur.com/NBxd5iI.jpeg" group-title="Filmes e Séries",HBO Pop HD
 http://nivorcdn.online/live/575603712/312721063/ad1faaca-940d-4e1c-b55e-d4bbac13af80.m3u
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="https://imgur.com/NBxd5iI.jpeg" group-title="Filmes e Séries)",HBO Pop SD
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="https://imgur.com/NBxd5iI.jpeg" group-title="Filmes e Séries",HBO Pop SD
 http://nivorcdn.online/live/575603712/312721063/ccfb892f-8c0c-4040-a45e-149a66ed82b5.m3u
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://imgur.com/IlDpt1o.jpeg" group-title="Filmes e Séries",HBO Signature FHD
 http://nivorcdn.online/live/575603712/312721063/e9b2117b-5307-4a57-a805-8cee53526148.m3u
@@ -724,29 +720,29 @@ http://nivorcdn.online/live/575603712/312721063/d956ae47-408f-4380-85b5-53698efd
 http://nivorcdn.online/live/575603712/312721063/86c06d0f-10eb-4159-b4c1-b74b56021c4e.m3u
 #EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://imgur.com/6OAlN99.jpeg" group-title="Entreterimento",HGTV HD
 http://nivorcdn.online/live/575603712/312721063/07557288-be6c-40d7-9cb5-e3196b53d11f.m3u
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History FHD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários",History FHD
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History FHD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários e Cultura",History FHD
 http://nivorcdn.online/live/575603712/312721063/6abdb4af-a7ac-4cf1-bf13-c08c3bd55844.m3u
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários",History FHD [H265]
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários e Cultura",History FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/9085619c-a190-45f6-922c-a426241565e5.m3u
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History HD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários",History HD
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History HD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários e Cultura",History HD
 http://nivorcdn.online/live/575603712/312721063/91f5e8fa-b000-4d4d-9a6d-ef59f2267972.m3u
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History SD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários",History SD
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History SD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="Documentários e Cultura",History SD
 http://nivorcdn.online/live/575603712/312721063/0b4dcf65-cdd9-47b2-ab46-42f1c02ce546.m3u
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 FHD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários",History2 FHD
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 FHD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários e Cultura",History2 FHD
 http://nivorcdn.online/live/575603712/312721063/dea40168-4e0d-4397-9ffd-3893d24d8401.m3u
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 FHD [H265]" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários",History2 FHD [H265]
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 FHD [H265]" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários e Cultura",History2 FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/be7a9d05-7bfb-4618-9afa-e5bf35f2d819.m3u
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 HD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários",History2 HD
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 HD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários e Cultura",History2 HD
 http://nivorcdn.online/live/575603712/312721063/a4534cf7-1f01-410b-b5bc-d320d62b8210.m3u
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 SD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários",History2 SD
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History2 SD" tvg-logo="https://imgur.com/jsGuE6h.jpeg" group-title="Documentários e Cultura",History2 SD
 http://nivorcdn.online/live/575603712/312721063/5acf3187-1b22-4dad-b702-2e74b79fdf86.m3u
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV FHD" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="TV Aberta",IDEAL TV FHD
-http://nivorcdn.online/live/575603712/312721063/892e6b1b-5025-41ce-9394-cb27a27658f4.m3u
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV FHD [H265]" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="TV Aberta",IDEAL TV FHD [H265]
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV FHD [H265]" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="Religiosos",IDEAL TV FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/6fac2a99-260e-4bb6-b299-fd8f90668d5b.m3u
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV HD" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="TV Aberta",IDEAL TV HD
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV FHD" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="Religiosos",IDEAL TV FHD
+http://nivorcdn.online/live/575603712/312721063/892e6b1b-5025-41ce-9394-cb27a27658f4.m3u
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV HD" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="Religiosos",IDEAL TV HD
 http://nivorcdn.online/live/575603712/312721063/95e49c23-14ff-4390-a839-1abb6de46eb8.m3u
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV SD" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="TV Aberta",IDEAL TV SD
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV SD" tvg-logo="https://images.seeklogo.com/logo-png/50/2/ideal-tv-logo-png_seeklogo-501490.png" group-title="Religiosos",IDEAL TV SD
 http://nivorcdn.online/live/575603712/312721063/c82258ff-c406-4814-8695-dfe8b0a544d9.m3u
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery FHD" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="Documentários e Cultura",Investigação Discovery FHD
 http://nivorcdn.online/live/575603712/312721063/7b595652-c82a-423d-afac-bc026db3ccc9.m3u
@@ -756,7 +752,7 @@ http://nivorcdn.online/live/575603712/312721063/8a094668-5209-448d-a792-67759624
 http://nivorcdn.online/live/575603712/312721063/fc8b4082-4978-4be5-82d8-58dd10af5521.m3u
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery SD" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="Documentários e Cultura",Investigação Discovery SD
 http://nivorcdn.online/live/575603712/312721063/e64a59c8-6b6d-4efa-b4b0-507345b4d2be.m3u
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN FHD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="08 - Outros Canais",JOVEM PAN FHD
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN FHD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Notícias",JOVEM PAN FHD
 http://nivorcdn.online/live/575603712/312721063/a4f37206-7aab-47df-a50e-ea1d90a9d17c.m3u
 #EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN FHD [H265]" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Notícias",JOVEM PAN FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/87779a7f-2ee0-448e-8ee8-7af430b67d99.m3u
@@ -830,7 +826,7 @@ http://nivorcdn.online/live/575603712/312721063/e5c26de7-3ac5-424f-a691-77f1fe36
 http://nivorcdn.online/live/575603712/312721063/8c6c7d4d-4319-489f-9d06-a117678d9fce.m3u
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="https://i.ibb.co/xMFbB83/premierclubes.png" group-title="Esporte",Premiere Clubes 4K
 http://nivorcdn.online/live/575603712/312721063/7d14fbc9-dc5a-4619-bc54-67e4bbec524e.m3u
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="02 - Esporte",Premiere Clubes FHD
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="Esporte",Premiere Clubes FHD
 http://nivorcdn.online/live/575603712/312721063/6cfb7300-2e94-4328-92f3-f168f7b6c84f.m3u
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD [H265]" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="Esporte",Premiere Clubes FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/ee44b11a-1ce1-4478-bd08-f613c9de9109.m3u
@@ -896,7 +892,7 @@ http://nivorcdn.online/live/575603712/312721063/977d1e0a-7a92-4ff7-a159-e3525ebf
 http://nivorcdn.online/live/575603712/312721063/ad1c79ca-bc55-4ec7-b739-a2d8fa264ed0.m3u
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://imgur.com/OpThoHW.jpeg" group-title="Religiosos",REDE VIDA HD
 http://nivorcdn.online/live/575603712/312721063/88922b01-e6e9-4340-9bfa-89e31595eeb0.m3u
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://lh3.googleusercontent.com/-cVXLh36htco/YG2ofCQfsOI/AAAAAAAAKLY/yey6pMgPgh8427E3wIthZvgAi90R0l6-wCLcBGAsYHQ/REDETV%2B4K.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",REDETV 4K
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://lh3.googleusercontent.com/-cVXLh36htco/YG2ofCQfsOI/AAAAAAAAKLY/yey6pMgPgh8427E3wIthZvgAi90R0l6-wCLcBGAsYHQ/REDETV%2B4K.png" group-title="TV Aberta",REDETV 4K
 http://nivorcdn.online/live/575603712/312721063/d65c8e49-4e0b-44ce-b0c1-bea8f561c58e.m3u
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://lh3.googleusercontent.com/-_75vOioAs8U/YG2oks7oxGI/AAAAAAAAKMI/bRsr9OtVQiEAAu_vPetSDZdUxzbWVK88QCLcBGAsYHQ/SBT%2B4K%2B.png" group-title="TV Aberta",SBT 4K
 http://nivorcdn.online/live/575603712/312721063/111731ec-24a4-41c8-b45b-faee1db372c2.m3u
@@ -994,13 +990,13 @@ http://nivorcdn.online/live/575603712/312721063/040f4a11-d9f4-43ea-98aa-6acf0f6e
 http://nivorcdn.online/live/575603712/312721063/29b4bbe7-ac17-43d2-8a47-40ef1b846afa.m3u
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="Filmes e Séries",TNT SD
 http://nivorcdn.online/live/575603712/312721063/93c9a9dd-f619-4be2-9855-a269d8479eb0.m3u
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",TNT Novelas FHD
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="Filmes e Séries",TNT Novelas FHD
 http://nivorcdn.online/live/575603712/312721063/a042d6ac-13fa-414c-9095-5847c8af8ab6.m3u
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD [H265]" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",TNT Novelas FHD [H265]
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD [H265]" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="Filmes e Séries",TNT Novelas FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/9564e6a4-7489-4272-8e9b-addeaf2635d0.m3u
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="Telenovelas",TNT Novelas HD
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="Filmes e Séries",TNT Novelas HD
 http://nivorcdn.online/live/575603712/312721063/026e34d9-000b-45f9-a3cf-dfa7e73c5b5d.m3u
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="Telenovelas",TNT Novelas SD
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="https://i.imgur.com/XarT77b.jpg" group-title="Filmes e Séries",TNT Novelas SD
 http://nivorcdn.online/live/575603712/312721063/60eb6086-4e92-441c-a1a6-d8fbb5540731.m3u
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="Filmes e Séries",TNT Series FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/7cbe1740-0eec-40e1-89fc-6ac7b886bd65.m3u
@@ -1076,11 +1072,11 @@ http://nivorcdn.online/live/575603712/312721063/c8398244-8b35-48c9-84d2-e3558140
 http://nivorcdn.online/live/575603712/312721063/fbf7c666-d49f-4d74-a5f1-da195904219d.m3u
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc26_ivxJ0FO-lRfE-Jv_rdKvKJsQOo4zs2w&s" group-title="Esporte",WOOHOO FHD
 http://nivorcdn.online/live/575603712/312721063/73dd610e-2b68-4131-a829-b65d2885ac61.m3u
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD [H265]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc26_ivxJ0FO-lRfE-Jv_rdKvKJsQOo4zs2w&s" group-title="ESPORTE",WOOHOO FHD [H265]
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD [H265]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc26_ivxJ0FO-lRfE-Jv_rdKvKJsQOo4zs2w&s" group-title="Esporte",WOOHOO FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/76e88672-0b39-4e40-ade9-bb3e802bc606.m3u
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc26_ivxJ0FO-lRfE-Jv_rdKvKJsQOo4zs2w&s" group-title="ESPORTE",WOOHOO HD
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc26_ivxJ0FO-lRfE-Jv_rdKvKJsQOo4zs2w&s" group-title="Esporte",WOOHOO HD
 http://nivorcdn.online/live/575603712/312721063/a088c5d5-e87c-4493-9476-8915f534e77a.m3u
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc26_ivxJ0FO-lRfE-Jv_rdKvKJsQOo4zs2w&s" group-title="ESPORTE",WOOHOO SD
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc26_ivxJ0FO-lRfE-Jv_rdKvKJsQOo4zs2w&s" group-title="Esporte",WOOHOO SD
 http://nivorcdn.online/live/575603712/312721063/64086787-23b1-4a32-8e94-96f4f150effb.m3u
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo FHD" tvg-logo="https://i.ibb.co/f4r9F2g/zoomoo.png" group-title="Infantil",ZooMoo FHD
 http://nivorcdn.online/live/575603712/312721063/5f62efc7-daa6-4810-ae75-c73f1c270036.m3u
