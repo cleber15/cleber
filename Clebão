@@ -25,7 +25,7 @@ http://nivorcdn.online/live/575603712/312721063/0875343d-8227-4698-a0a6-bdc28a91
 http://nivorcdn.online/live/575603712/312721063/cae28cd5-d09b-4101-8156-1b26fbead961.m3u
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Entreterimento",Animal Planet SD
 http://nivorcdn.online/live/575603712/312721063/99caca3f-b01b-466f-8c77-49f7e3cb225a.m3u
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD [H265]" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Entretenimento",Arte 1 FHD [H265]
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD [H265]" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Entreterimento",Arte 1 FHD [H265]
 http://nivorcdn.online/live/575603712/312721063/bdd74e57-aa42-4754-bfc3-e006e7e1d7d0.m3u
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Entreterimento",Arte 1 SD
 http://nivorcdn.online/live/575603712/312721063/9c81db14-2b95-4cc6-9bd3-942c404d9af3.m3u
@@ -314,7 +314,7 @@ http://nivorcdn.online/live/575603712/312721063/802f8e2c-a5e3-4fb0-80bc-4632e4c6
 http://nivorcdn.online/live/575603712/312721063/b8e44dc2-f30b-46a1-a013-391ac036d8bc.m3u
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD (BR2)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",GLOBO EPTV RIBEIRAO PRETO HD (BR2)
 http://nivorcdn.online/live/575603712/312721063/8d63d5c1-a325-4b7a-acd3-0e494112d783.m3u
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Aberta",Globo EPTV Ribeirao Preto SD
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",Globo EPTV Ribeirao Preto SD
 http://nivorcdn.online/live/575603712/312721063/a53c2aff-ad4f-4223-b722-a59c44623fbd.m3u
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="TV Aberta",Globo EPTV Sul de Minas FHD
 http://nivorcdn.online/live/575603712/312721063/bfe1b3b0-31df-4864-8a5f-5567f749f456.m3u
