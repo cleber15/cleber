@@ -1084,3 +1084,95 @@ http://nivorcdn.online/live/575603712/312721063/5f62efc7-daa6-4810-ae75-c73f1c27
 http://nivorcdn.online/live/575603712/312721063/b0bd6731-0a1f-4040-b169-596151f2179a.m3u
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="https://i.ibb.co/f4r9F2g/zoomoo.png" group-title="Infantil",ZooMoo SD
 http://nivorcdn.online/live/575603712/312721063/56611f48-ddb8-4268-8570-e518eb653a7b.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="Esporte",AMAZON PRIME JOGO 1
+http://nivorcdn.online/live/575603712/312721063/c3ef4e1a-690b-4e8c-98f6-8d68707d6027.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="Esporte",AMAZON PRIME JOGO 2
+http://nivorcdn.online/live/575603712/312721063/cef2ce77-9ac3-47ba-8d00-064fecfcc470.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="Esporte",AMAZON PRIME JOGO 3
+http://nivorcdn.online/live/575603712/312721063/43f98054-7b96-462a-be02-ede957f614ff.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="Esporte",AMAZON PRIME JOGO 4
+http://nivorcdn.online/live/575603712/312721063/168828cc-94bc-4d58-89fa-12a7542a68e3.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 1)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="Esporte",BRASILEIRÃO SERIE C (JOGO 1)
+http://nivorcdn.online/live/575603712/312721063/73317aaa-cf0f-435e-aa0d-6b9f1f16fba3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 2)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="Esporte",BRASILEIRÃO SERIE C (JOGO 2)
+http://nivorcdn.online/live/575603712/312721063/66ba78a0-1123-4b28-adbe-5fc14315bc02.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 3)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="Esporte",BRASILEIRÃO SERIE C (JOGO 3)
+http://nivorcdn.online/live/575603712/312721063/ffdd584a-8a7f-4e1b-bf4d-74f6976c84e4.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 01" tvg-logo="https://i.imgur.com/mQC6j1N.jpeg" group-title="Esporte",CAZE TV 01
+http://nivorcdn.online/live/575603712/312721063/3d8433a0-e043-42d6-8c1e-7b1062810246.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 02" tvg-logo="https://i.imgur.com/mQC6j1N.jpeg" group-title="Esporte",CAZÉ TV 02
+http://nivorcdn.online/live/575603712/312721063/5a2750a6-6a7f-49f8-a8ce-505364a366cb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 03" tvg-logo="https://i.imgur.com/mQC6j1N.jpeg" group-title="Esporte",CAZÉ TV 03
+http://nivorcdn.online/live/575603712/312721063/4a55e438-2e7e-4164-ad89-a1fd1f2378af.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="Esporte",DAZN 1 HD
+http://nivorcdn.online/live/575603712/312721063/67457b43-df5c-42be-9b80-6ab23048af52.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="Esporte",DAZN 2 HD
+http://nivorcdn.online/live/575603712/312721063/22890355-503c-44a6-a3ce-14ed802f044e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="Esporte",DAZN 3 HD
+http://nivorcdn.online/live/575603712/312721063/5efc1543-2bcb-4d97-a4f3-42876ea52d7a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="Esporte",DAZN 04
+http://nivorcdn.online/live/575603712/312721063/c8c358f6-16e5-4b68-9d96-805d8c0f1ba7.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 01" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="Esporte",DISNEY+ 01
+http://nivorcdn.online/live/575603712/312721063/0d23e24d-970e-4e89-8fe2-97858ef7d72d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 02" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="Esporte",DISNEY+ 02
+http://nivorcdn.online/live/575603712/312721063/9c646825-80f1-4106-bfd4-1c9ee7cbf369.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 03" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="Esporte",DISNEY+ 03
+http://nivorcdn.online/live/575603712/312721063/91a3cc3f-d364-4434-8b3e-2a6bdd2aa4a3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 04" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="Esporte",DISNEY+ 04
+http://nivorcdn.online/live/575603712/312721063/3976d600-8550-4b79-a33a-1bcc3884443c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 05" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="Esporte",DISNEY+ 05
+http://nivorcdn.online/live/575603712/312721063/e7428f0e-99d8-4908-8841-3d1f4b44c550.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 06" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="Esporte",DISNEY+ 06
+http://nivorcdn.online/live/575603712/312721063/a3e554eb-8a26-404a-ad9f-08c4bd9c6346.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 07" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="Esporte",DISNEY+ 07
+http://nivorcdn.online/live/575603712/312721063/8f41c006-d1d1-4354-bada-c1f93551f845.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 1" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title="Esporte",GOAT 1
+http://nivorcdn.online/live/575603712/312721063/7933d8a6-16f7-4944-87bb-cebb0498b8e1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 2" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title="Esporte",GOAT 2
+http://nivorcdn.online/live/575603712/312721063/a00efe3c-34f4-43b5-97c2-5a91ced22edc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 3" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title="Esporte",GOAT 3
+http://nivorcdn.online/live/575603712/312721063/482536b8-500f-46c3-b21d-8c73bc3d9545.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 4" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title="Esporte",GOAT 4
+http://nivorcdn.online/live/575603712/312721063/c564ab9c-73be-494b-874f-e7bf623b5d26.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 5" tvg-logo="https://i.imgur.com/PMXux9H.png" group-title="Esporte",GOAT 5
+http://nivorcdn.online/live/575603712/312721063/b4e32184-b74d-46ad-8300-26fc107873ca.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 01 HD
+http://nivorcdn.online/live/575603712/312721063/ff22039d-8f1f-44fe-a7e3-2251254dbc82.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 02 HD
+http://nivorcdn.online/live/575603712/312721063/b25110cb-3f95-4a30-8ca5-404376a07efc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 03 HD
+http://nivorcdn.online/live/575603712/312721063/9362dcf7-8b0b-4083-9685-6e0b00657473.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 04 HD
+http://nivorcdn.online/live/575603712/312721063/eabffacb-fa52-4fc8-aca7-b2f4ce886530.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 05 HD
+http://nivorcdn.online/live/575603712/312721063/bd6e810d-33af-459e-a2aa-6ed76e6f2ca5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 06 HD
+http://nivorcdn.online/live/575603712/312721063/c83e1022-9fae-4548-8856-ab4744d95e89.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 07 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 07 HD
+http://nivorcdn.online/live/575603712/312721063/c04788e6-726d-4d66-b174-0643fba6f995.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 08 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="Esporte",HBO MAX 08 HD
+http://nivorcdn.online/live/575603712/312721063/f33a0920-fc15-47aa-bd48-f39f30818686.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Esporte",PARAMOUNT+ 1 FHD
+http://nivorcdn.online/live/575603712/312721063/ba7f3378-8f56-4102-b8a2-71aeaa811cbb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT TV 1 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="Esporte",PARAMOUNT TV 1 HD
+http://nivorcdn.online/live/575603712/312721063/6438654c-4df2-43a8-b666-73ee2fdf0e91.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Esporte",PARAMOUNT+ 2 FHD
+http://nivorcdn.online/live/575603712/312721063/9af9d45e-cf6c-4754-8058-28cfe06764ad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT TV 2 HD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Esporte",PARAMOUNT TV 2 HD
+http://nivorcdn.online/live/575603712/312721063/6835c936-b972-4d78-aa9d-1f115f25f6f8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Esporte",PARAMOUNT+ 3 FHD
+http://nivorcdn.online/live/575603712/312721063/3289d2d7-37be-4470-8179-047bf3412b20.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT TV 3 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="Esporte",PARAMOUNT TV 3 HD
+http://nivorcdn.online/live/575603712/312721063/b5978367-4e83-4b08-bcde-cc7f8c85b75c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Esporte",PARAMOUNT+ 4 FHD
+http://nivorcdn.online/live/575603712/312721063/6c279485-e73d-4c0f-89de-e5c053bca466.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT TV 4 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="Esporte",PARAMOUNT TV 4 HD
+http://nivorcdn.online/live/575603712/312721063/15e5f3c4-c654-4fa0-890a-c2ae1f707933.m3u
